@@ -10,7 +10,7 @@ Here's an example of what might happen with neovim + clangd
 ![image](https://github.com/DaveH355/opengl-doc/assets/101005658/46997d64-232c-4930-b056-26067aa22376)
 
 With the header doc, it can give better info
-![image](https://github.com/DaveH355/opengl-doc/assets/101005658/a4624818-5d29-4767-828b-055039c5d0b0)
+![image](https://github.com/DaveH355/opengl-doc/assets/101005658/94f6fe93-e2bb-44d5-9143-998b31a1e7dd)
 
 
 # Usage
