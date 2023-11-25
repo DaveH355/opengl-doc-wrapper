@@ -647,17 +647,14 @@ extern "C"
   {
     return glad_glGetStringi(name, index);
   }
-
   /**
    * glGet — return the value or values of a selected parameter
    *
-   * @param [pname] Specifies the parameter value to be returned
-   *                     for non-indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [pname] Specifies the parameter value to be returned for non-indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
-   * @param [target] Specifies the parameter value to be returned
-   *                     for indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [target] Specifies the parameter value to be returned for indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
    * @param [index] Specifies the index of the particular element being queried.
    *
@@ -670,13 +667,11 @@ extern "C"
   /**
    * glGet — return the value or values of a selected parameter
    *
-   * @param [pname] Specifies the parameter value to be returned
-   *                     for non-indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [pname] Specifies the parameter value to be returned for non-indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
-   * @param [target] Specifies the parameter value to be returned
-   *                     for indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [target] Specifies the parameter value to be returned for indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
    * @param [index] Specifies the index of the particular element being queried.
    *
@@ -689,13 +684,11 @@ extern "C"
   /**
    * glGet — return the value or values of a selected parameter
    *
-   * @param [pname] Specifies the parameter value to be returned
-   *                     for non-indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [pname] Specifies the parameter value to be returned for non-indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
-   * @param [target] Specifies the parameter value to be returned
-   *                     for indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [target] Specifies the parameter value to be returned for indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
    * @param [index] Specifies the index of the particular element being queried.
    *
@@ -708,13 +701,11 @@ extern "C"
   /**
    * glGet — return the value or values of a selected parameter
    *
-   * @param [pname] Specifies the parameter value to be returned
-   *                     for non-indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [pname] Specifies the parameter value to be returned for non-indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
-   * @param [target] Specifies the parameter value to be returned
-   *                     for indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [target] Specifies the parameter value to be returned for indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
    * @param [index] Specifies the index of the particular element being queried.
    *
@@ -727,13 +718,11 @@ extern "C"
   /**
    * glGet — return the value or values of a selected parameter
    *
-   * @param [pname] Specifies the parameter value to be returned
-   *                     for non-indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [pname] Specifies the parameter value to be returned for non-indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
-   * @param [target] Specifies the parameter value to be returned
-   *                     for indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [target] Specifies the parameter value to be returned for indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
    * @param [index] Specifies the index of the particular element being queried.
    *
@@ -746,13 +735,11 @@ extern "C"
   /**
    * glGet — return the value or values of a selected parameter
    *
-   * @param [pname] Specifies the parameter value to be returned
-   *                     for non-indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [pname] Specifies the parameter value to be returned for non-indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
-   * @param [target] Specifies the parameter value to be returned
-   *                     for indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [target] Specifies the parameter value to be returned for indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
    * @param [index] Specifies the index of the particular element being queried.
    *
@@ -766,13 +753,11 @@ extern "C"
   /**
    * glGet — return the value or values of a selected parameter
    *
-   * @param [pname] Specifies the parameter value to be returned
-   *                     for non-indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [pname] Specifies the parameter value to be returned for non-indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
-   * @param [target] Specifies the parameter value to be returned
-   *                     for indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [target] Specifies the parameter value to be returned for indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
    * @param [index] Specifies the index of the particular element being queried.
    *
@@ -785,13 +770,11 @@ extern "C"
   /**
    * glGet — return the value or values of a selected parameter
    *
-   * @param [pname] Specifies the parameter value to be returned
-   *                     for non-indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [pname] Specifies the parameter value to be returned for non-indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
-   * @param [target] Specifies the parameter value to be returned
-   *                     for indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [target] Specifies the parameter value to be returned for indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
    * @param [index] Specifies the index of the particular element being queried.
    *
@@ -804,13 +787,11 @@ extern "C"
   /**
    * glGet — return the value or values of a selected parameter
    *
-   * @param [pname] Specifies the parameter value to be returned
-   *                     for non-indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [pname] Specifies the parameter value to be returned for non-indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
-   * @param [target] Specifies the parameter value to be returned
-   *                     for indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [target] Specifies the parameter value to be returned for indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
    * @param [index] Specifies the index of the particular element being queried.
    *
@@ -823,13 +804,11 @@ extern "C"
   /**
    * glGet — return the value or values of a selected parameter
    *
-   * @param [pname] Specifies the parameter value to be returned
-   *                     for non-indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [pname] Specifies the parameter value to be returned for non-indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
-   * @param [target] Specifies the parameter value to be returned
-   *                     for indexed versions of glGet.
-   *                     The symbolic constants in the list below are accepted.
+   * @param [target] Specifies the parameter value to be returned for indexed
+   * versions of glGet. The symbolic constants in the list below are accepted.
    *
    * @param [index] Specifies the index of the particular element being queried.
    *
@@ -845,9 +824,8 @@ extern "C"
    *
    * @param [target] Specifies a symbolic constant indicating the behavior to be
    * controlled. GL_LINE_SMOOTH_HINT, GL_POLYGON_SMOOTH_HINT,
-   *                     GL_TEXTURE_COMPRESSION_HINT, and
-   *                     GL_FRAGMENT_SHADER_DERIVATIVE_HINT
-   *                     are accepted.
+   * GL_TEXTURE_COMPRESSION_HINT, and GL_FRAGMENT_SHADER_DERIVATIVE_HINT are
+   * accepted.
    *
    * @param [mode] Specifies a symbolic constant indicating the desired
    * behavior. GL_FASTEST, GL_NICEST, and GL_DONT_CARE are accepted.
@@ -860,10 +838,8 @@ extern "C"
    * glClear — clear buffers to preset values
    *
    * @param [mask] Bitwise OR of masks that indicate the buffers to be cleared.
-   *                     The three masks are
-   *                     GL_COLOR_BUFFER_BIT,
-   *                     GL_DEPTH_BUFFER_BIT, and
-   *                     GL_STENCIL_BUFFER_BIT.
+   * The three masks are GL_COLOR_BUFFER_BIT, GL_DEPTH_BUFFER_BIT, and
+   * GL_STENCIL_BUFFER_BIT.
    */
   static inline void glClear(GLbitfield mask) { glad_glClear(mask); }
   /**
@@ -875,9 +851,8 @@ extern "C"
    *
    * @param [cap] Specifies a symbolic constant indicating a GL capability.
    *
-   * @param [index] Specifies the index of the switch to disable (for
-   *                     glEnablei and
-   *                     glDisablei only).
+   * @param [index] Specifies the index of the switch to disable (for glEnablei
+   * and glDisablei only).
    */
   static inline void glEnable(GLenum cap) { glad_glEnable(cap); }
   /**
@@ -885,9 +860,8 @@ extern "C"
    *
    * @param [cap] Specifies a symbolic constant indicating a GL capability.
    *
-   * @param [index] Specifies the index of the switch to disable (for
-   *                     glEnablei and
-   *                     glDisablei only).
+   * @param [index] Specifies the index of the switch to disable (for glEnablei
+   * and glDisablei only).
    */
   static inline void glDisable(GLenum cap) { glad_glDisable(cap); }
   /**
@@ -895,9 +869,8 @@ extern "C"
    *
    * @param [cap] Specifies a symbolic constant indicating a GL capability.
    *
-   * @param [index] Specifies the index of the switch to disable (for
-   *                     glEnablei and
-   *                     glDisablei only).
+   * @param [index] Specifies the index of the switch to disable (for glEnablei
+   * and glDisablei only).
    */
   static inline void glEnablei(GLenum cap, GLuint index)
   {
@@ -908,9 +881,8 @@ extern "C"
    *
    * @param [cap] Specifies a symbolic constant indicating a GL capability.
    *
-   * @param [index] Specifies the index of the switch to disable (for
-   *                     glEnablei and
-   *                     glDisablei only).
+   * @param [index] Specifies the index of the switch to disable (for glEnablei
+   * and glDisablei only).
    */
   static inline void glDisablei(GLenum cap, GLuint index)
   {
@@ -959,31 +931,20 @@ extern "C"
    *
    * @param [opcode] Specifies a symbolic constant that selects a logical
    * operation. The following symbols are accepted: GL_CLEAR, GL_SET, GL_COPY,
-   *                     GL_COPY_INVERTED,
-   *                     GL_NOOP,
-   *                     GL_INVERT,
-   *                     GL_AND,
-   *                     GL_NAND,
-   *                     GL_OR,
-   *                     GL_NOR,
-   *                     GL_XOR,
-   *                     GL_EQUIV,
-   *                     GL_AND_REVERSE,
-   *                     GL_AND_INVERTED,
-   *                     GL_OR_REVERSE, and
-   *                     GL_OR_INVERTED. The initial value is GL_COPY.
+   * GL_COPY_INVERTED, GL_NOOP, GL_INVERT, GL_AND, GL_NAND, GL_OR, GL_NOR,
+   * GL_XOR, GL_EQUIV, GL_AND_REVERSE, GL_AND_INVERTED, GL_OR_REVERSE, and
+   * GL_OR_INVERTED. The initial value is GL_COPY.
    */
   static inline void glLogicOp(GLenum opcode) { glad_glLogicOp(opcode); }
   /**
    * glScissor — define the scissor box
    *
-   * @param [x, y] Specify the lower left corner of the scissor box.
-   *                     Initially (0, 0).
+   * @param [x, y] Specify the lower left corner of the scissor box. Initially
+   * (0, 0).
    *
    * @param [width, height] Specify the width and height of the scissor box.
-   *                     When a GL context is first attached to a window,
-   *                     width and height are set to the dimensions of that
-   *                     window.
+   * When a GL context is first attached to a window, width and height are set
+   * to the dimensions of that window.
    */
   static inline void glScissor(GLint x, GLint y, GLsizei width, GLsizei height)
   {
@@ -993,13 +954,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1008,8 +968,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform1f(GLint location, GLfloat v0)
   {
@@ -1019,13 +979,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1034,8 +993,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform2f(GLint location, GLfloat v0, GLfloat v1)
   {
@@ -1045,13 +1004,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1060,8 +1018,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform3f(GLint location, GLfloat v0, GLfloat v1,
                                  GLfloat v2)
@@ -1072,13 +1030,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1087,8 +1044,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform4f(GLint location, GLfloat v0, GLfloat v1,
                                  GLfloat v2, GLfloat v3)
@@ -1099,13 +1056,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1114,8 +1070,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform1i(GLint location, GLint v0)
   {
@@ -1125,13 +1081,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1140,8 +1095,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform2i(GLint location, GLint v0, GLint v1)
   {
@@ -1151,13 +1106,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1166,8 +1120,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform3i(GLint location, GLint v0, GLint v1, GLint v2)
   {
@@ -1177,13 +1131,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1192,8 +1145,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform4i(GLint location, GLint v0, GLint v1, GLint v2,
                                  GLint v3)
@@ -1204,13 +1157,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1219,8 +1171,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform1ui(GLint location, GLuint v0)
   {
@@ -1230,13 +1182,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1245,8 +1196,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform2ui(GLint location, GLuint v0, GLuint v1)
   {
@@ -1256,13 +1207,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1271,8 +1221,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform3ui(GLint location, GLuint v0, GLuint v1,
                                   GLuint v2)
@@ -1283,13 +1233,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1298,8 +1247,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform4ui(GLint location, GLuint v0, GLuint v1,
                                   GLuint v2, GLuint v3)
@@ -1310,13 +1259,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1325,8 +1273,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform1fv(GLint location, GLsizei count,
                                   const GLfloat *value)
@@ -1337,13 +1285,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1352,8 +1299,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform2fv(GLint location, GLsizei count,
                                   const GLfloat *value)
@@ -1364,13 +1311,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1379,8 +1325,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform3fv(GLint location, GLsizei count,
                                   const GLfloat *value)
@@ -1391,13 +1337,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1406,8 +1351,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform4fv(GLint location, GLsizei count,
                                   const GLfloat *value)
@@ -1418,13 +1363,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1433,8 +1377,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform1iv(GLint location, GLsizei count,
                                   const GLint *value)
@@ -1445,13 +1389,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1460,8 +1403,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform2iv(GLint location, GLsizei count,
                                   const GLint *value)
@@ -1472,13 +1415,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1487,8 +1429,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform3iv(GLint location, GLsizei count,
                                   const GLint *value)
@@ -1499,13 +1441,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1514,8 +1455,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform4iv(GLint location, GLsizei count,
                                   const GLint *value)
@@ -1526,13 +1467,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1541,8 +1481,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform1uiv(GLint location, GLsizei count,
                                    const GLuint *value)
@@ -1553,13 +1493,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1568,8 +1507,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform2uiv(GLint location, GLsizei count,
                                    const GLuint *value)
@@ -1580,13 +1519,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1595,8 +1533,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform3uiv(GLint location, GLsizei count,
                                    const GLuint *value)
@@ -1607,13 +1545,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1622,8 +1559,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniform4uiv(GLint location, GLsizei count,
                                    const GLuint *value)
@@ -1634,13 +1571,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1649,8 +1585,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniformMatrix2fv(GLint location, GLsizei count,
                                         GLboolean transpose,
@@ -1662,13 +1598,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1677,8 +1612,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniformMatrix3fv(GLint location, GLsizei count,
                                         GLboolean transpose,
@@ -1690,13 +1625,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1705,8 +1639,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniformMatrix4fv(GLint location, GLsizei count,
                                         GLboolean transpose,
@@ -1718,13 +1652,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1733,8 +1666,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniformMatrix2x3fv(GLint location, GLsizei count,
                                           GLboolean transpose,
@@ -1746,13 +1679,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1761,8 +1693,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniformMatrix3x2fv(GLint location, GLsizei count,
                                           GLboolean transpose,
@@ -1774,13 +1706,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1789,8 +1720,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniformMatrix2x4fv(GLint location, GLsizei count,
                                           GLboolean transpose,
@@ -1802,13 +1733,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1817,8 +1747,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniformMatrix4x2fv(GLint location, GLsizei count,
                                           GLboolean transpose,
@@ -1830,13 +1760,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1845,8 +1774,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniformMatrix3x4fv(GLint location, GLsizei count,
                                           GLboolean transpose,
@@ -1858,13 +1787,12 @@ extern "C"
    * glUniform — Specify the value of a uniform variable for the current program
    * object
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector (glUniform*v) commands,
-   *                 specifies the number of elements that are to be modified.
-   *                 This should be 1 if the targeted uniform variable is not an
-   *                 array, and 1 or more if it is an array.
+   * @param [count] For the vector (glUniform*v) commands, specifies the number
+   * of elements that are to be modified. This should be 1 if the targeted
+   * uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -1873,8 +1801,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glUniformMatrix4x3fv(GLint location, GLsizei count,
                                           GLboolean transpose,
@@ -1915,14 +1843,12 @@ extern "C"
   /**
    * glViewport — set the viewport
    *
-   * @param [x, y] Specify the lower left corner of the viewport rectangle,
-   *                     in pixels. The initial value is (0,0).
+   * @param [x, y] Specify the lower left corner of the viewport rectangle, in
+   * pixels. The initial value is (0,0).
    *
-   * @param [width, height] Specify the width and height
-   *                     of the viewport.
-   *                     When a GL context is first attached to a window,
-   *                     width and height are set to the dimensions of that
-   *                     window.
+   * @param [width, height] Specify the width and height of the viewport. When a
+   * GL context is first attached to a window, width and height are set to the
+   * dimensions of that window.
    */
   static inline void glViewport(GLint x, GLint y, GLsizei width, GLsizei height)
   {
@@ -1947,31 +1873,19 @@ extern "C"
   /**
    * glBlendFunc — specify pixel arithmetic
    *
-   * @param [buf] For glBlendFunci, specifies the index of the draw
-   *                     buffer for which to set the blend function.
+   * @param [buf] For glBlendFunci, specifies the index of the draw buffer for
+   * which to set the blend function.
    *
-   * @param [sfactor] Specifies how the red, green, blue,
-   *                     and alpha source blending factors are computed.
-   *                     The initial value is GL_ONE.
+   * @param [sfactor] Specifies how the red, green, blue, and alpha source
+   * blending factors are computed. The initial value is GL_ONE.
    *
-   * @param [dfactor] Specifies how the red, green, blue,
-   *                     and alpha destination blending factors are computed.
-   *                     The following symbolic constants are accepted:
-   *                     GL_ZERO,
-   *                     GL_ONE,
-   *                     GL_SRC_COLOR,
-   *                     GL_ONE_MINUS_SRC_COLOR,
-   *                     GL_DST_COLOR,
-   *                     GL_ONE_MINUS_DST_COLOR,
-   *                     GL_SRC_ALPHA,
-   *                     GL_ONE_MINUS_SRC_ALPHA,
-   *                     GL_DST_ALPHA,
-   *                     GL_ONE_MINUS_DST_ALPHA.
-   *                     GL_CONSTANT_COLOR,
-   *                     GL_ONE_MINUS_CONSTANT_COLOR,
-   *                     GL_CONSTANT_ALPHA, and
-   *                     GL_ONE_MINUS_CONSTANT_ALPHA.
-   *                     The initial value is GL_ZERO.
+   * @param [dfactor] Specifies how the red, green, blue, and alpha destination
+   * blending factors are computed. The following symbolic constants are
+   * accepted: GL_ZERO, GL_ONE, GL_SRC_COLOR, GL_ONE_MINUS_SRC_COLOR,
+   * GL_DST_COLOR, GL_ONE_MINUS_DST_COLOR, GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA,
+   * GL_DST_ALPHA, GL_ONE_MINUS_DST_ALPHA. GL_CONSTANT_COLOR,
+   * GL_ONE_MINUS_CONSTANT_COLOR, GL_CONSTANT_ALPHA, and
+   * GL_ONE_MINUS_CONSTANT_ALPHA. The initial value is GL_ZERO.
    */
   static inline void glBlendFunc(GLenum sfactor, GLenum dfactor)
   {
@@ -1980,31 +1894,19 @@ extern "C"
   /**
    * glBlendFunc — specify pixel arithmetic
    *
-   * @param [buf] For glBlendFunci, specifies the index of the draw
-   *                     buffer for which to set the blend function.
+   * @param [buf] For glBlendFunci, specifies the index of the draw buffer for
+   * which to set the blend function.
    *
-   * @param [sfactor] Specifies how the red, green, blue,
-   *                     and alpha source blending factors are computed.
-   *                     The initial value is GL_ONE.
+   * @param [sfactor] Specifies how the red, green, blue, and alpha source
+   * blending factors are computed. The initial value is GL_ONE.
    *
-   * @param [dfactor] Specifies how the red, green, blue,
-   *                     and alpha destination blending factors are computed.
-   *                     The following symbolic constants are accepted:
-   *                     GL_ZERO,
-   *                     GL_ONE,
-   *                     GL_SRC_COLOR,
-   *                     GL_ONE_MINUS_SRC_COLOR,
-   *                     GL_DST_COLOR,
-   *                     GL_ONE_MINUS_DST_COLOR,
-   *                     GL_SRC_ALPHA,
-   *                     GL_ONE_MINUS_SRC_ALPHA,
-   *                     GL_DST_ALPHA,
-   *                     GL_ONE_MINUS_DST_ALPHA.
-   *                     GL_CONSTANT_COLOR,
-   *                     GL_ONE_MINUS_CONSTANT_COLOR,
-   *                     GL_CONSTANT_ALPHA, and
-   *                     GL_ONE_MINUS_CONSTANT_ALPHA.
-   *                     The initial value is GL_ZERO.
+   * @param [dfactor] Specifies how the red, green, blue, and alpha destination
+   * blending factors are computed. The following symbolic constants are
+   * accepted: GL_ZERO, GL_ONE, GL_SRC_COLOR, GL_ONE_MINUS_SRC_COLOR,
+   * GL_DST_COLOR, GL_ONE_MINUS_DST_COLOR, GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA,
+   * GL_DST_ALPHA, GL_ONE_MINUS_DST_ALPHA. GL_CONSTANT_COLOR,
+   * GL_ONE_MINUS_CONSTANT_COLOR, GL_CONSTANT_ALPHA, and
+   * GL_ONE_MINUS_CONSTANT_ALPHA. The initial value is GL_ZERO.
    */
   static inline void glBlendFunci(GLuint buf, GLenum sfactor, GLenum dfactor)
   {
@@ -2014,8 +1916,8 @@ extern "C"
    * glColorMask, glColorMaski — enable and disable writing of frame buffer
    * color components
    *
-   * @param [buf] For glColorMaski, specifies the index of the
-   *                     draw buffer whose color mask to set.
+   * @param [buf] For glColorMaski, specifies the index of the draw buffer whose
+   * color mask to set.
    *
    * @param [red, green, blue, alpha] Specify whether red, green, blue, and
    * alpha are to be written into the frame buffer. The initial values are all
@@ -2030,8 +1932,8 @@ extern "C"
    * glColorMask, glColorMaski — enable and disable writing of frame buffer
    * color components
    *
-   * @param [buf] For glColorMaski, specifies the index of the
-   *                     draw buffer whose color mask to set.
+   * @param [buf] For glColorMaski, specifies the index of the draw buffer whose
+   * color mask to set.
    *
    * @param [red, green, blue, alpha] Specify whether red, green, blue, and
    * alpha are to be written into the frame buffer. The initial values are all
@@ -2045,27 +1947,17 @@ extern "C"
   /**
    * glDepthFunc — specify the value used for depth buffer comparisons
    *
-   * @param [func] Specifies the depth comparison function.
-   *                     Symbolic constants
-   *                     GL_NEVER,
-   *                     GL_LESS,
-   *                     GL_EQUAL,
-   *                     GL_LEQUAL,
-   *                     GL_GREATER,
-   *                     GL_NOTEQUAL,
-   *                     GL_GEQUAL, and
-   *                     GL_ALWAYS are accepted.
-   *                     The initial value is GL_LESS.
+   * @param [func] Specifies the depth comparison function. Symbolic constants
+   * GL_NEVER, GL_LESS, GL_EQUAL, GL_LEQUAL, GL_GREATER, GL_NOTEQUAL, GL_GEQUAL,
+   * and GL_ALWAYS are accepted. The initial value is GL_LESS.
    */
   static inline void glDepthFunc(GLenum func) { glad_glDepthFunc(func); }
   /**
    * glDepthMask — enable or disable writing into the depth buffer
    *
-   * @param [flag] Specifies whether the depth buffer is enabled for writing.
-   *                     If flag is GL_FALSE,
-   *                     depth buffer writing is disabled.
-   *                     Otherwise, it is enabled.
-   *                     Initially, depth buffer writing is enabled.
+   * @param [flag] Specifies whether the depth buffer is enabled for writing. If
+   * flag is GL_FALSE, depth buffer writing is disabled. Otherwise, it is
+   * enabled. Initially, depth buffer writing is enabled.
    */
   static inline void glDepthMask(GLboolean flag) { glad_glDepthMask(flag); }
   /**
@@ -2087,24 +1979,18 @@ extern "C"
   /**
    * glFrontFace — define front- and back-facing polygons
    *
-   * @param [mode] Specifies the orientation of front-facing polygons.
-   *                     GL_CW and GL_CCW are accepted.
-   *                     The initial value is GL_CCW.
+   * @param [mode] Specifies the orientation of front-facing polygons. GL_CW and
+   * GL_CCW are accepted. The initial value is GL_CCW.
    */
   static inline void glFrontFace(GLenum mode) { glad_glFrontFace(mode); }
   /**
    * glGetShaderiv — Returns a parameter from a shader object
    *
-   * @param [shader] Specifies the shader object to be
-   *                     queried.
+   * @param [shader] Specifies the shader object to be queried.
    *
-   * @param [pname] Specifies the object parameter. Accepted
-   *                     symbolic names are
-   *                     GL_SHADER_TYPE,
-   *                     GL_DELETE_STATUS,
-   *                     GL_COMPILE_STATUS,
-   *                     GL_INFO_LOG_LENGTH,
-   *                     GL_SHADER_SOURCE_LENGTH.
+   * @param [pname] Specifies the object parameter. Accepted symbolic names are
+   * GL_SHADER_TYPE, GL_DELETE_STATUS, GL_COMPILE_STATUS, GL_INFO_LOG_LENGTH,
+   * GL_SHADER_SOURCE_LENGTH.
    *
    * @param [params] Returns the requested object parameter.
    */
@@ -2164,41 +2050,33 @@ extern "C"
   /**
    * glLineWidth — specify the width of rasterized lines
    *
-   * @param [width] Specifies the width of rasterized lines.
-   *                     The initial value is 1.
+   * @param [width] Specifies the width of rasterized lines. The initial value
+   * is 1.
    */
   static inline void glLineWidth(GLfloat width) { glad_glLineWidth(width); }
   /**
    * glPointSize — specify the diameter of rasterized points
    *
-   * @param [size] Specifies the diameter of rasterized points.
-   *                     The initial value is 1.
+   * @param [size] Specifies the diameter of rasterized points. The initial
+   * value is 1.
    */
   static inline void glPointSize(GLfloat size) { glad_glPointSize(size); }
   /**
    * glStencilOp — set front and back stencil test actions
    *
    * @param [sfail] Specifies the action to take when the stencil test fails.
-   *                     Eight symbolic constants are accepted:
-   *                     GL_KEEP,
-   *                     GL_ZERO,
-   *                     GL_REPLACE,
-   *                     GL_INCR,
-   *                     GL_INCR_WRAP,
-   *                     GL_DECR,
-   *                     GL_DECR_WRAP, and
-   *                     GL_INVERT. The initial value is GL_KEEP.
+   * Eight symbolic constants are accepted: GL_KEEP, GL_ZERO, GL_REPLACE,
+   * GL_INCR, GL_INCR_WRAP, GL_DECR, GL_DECR_WRAP, and GL_INVERT. The initial
+   * value is GL_KEEP.
    *
    * @param [dpfail] Specifies the stencil action when the stencil test passes,
-   *                     but the depth test fails.
-   *                     dpfail accepts the same symbolic constants as sfail.
-   * The initial value is GL_KEEP.
+   * but the depth test fails. dpfail accepts the same symbolic constants as
+   * sfail. The initial value is GL_KEEP.
    *
    * @param [dppass] Specifies the stencil action when both the stencil test and
    * the depth test pass, or when the stencil test passes and either there is no
-   *                     depth buffer or depth testing is not enabled.
-   *                     dppass accepts the same symbolic constants as sfail.
-   * The initial value is GL_KEEP.
+   * depth buffer or depth testing is not enabled. dppass accepts the same
+   * symbolic constants as sfail. The initial value is GL_KEEP.
    */
   static inline void glStencilOp(GLenum sfail, GLenum dpfail, GLenum dppass)
   {
@@ -2209,17 +2087,15 @@ extern "C"
    * buffer texture object
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *                     glTexBuffer. Must be
-   *                     GL_TEXTURE_BUFFER.
+   * glTexBuffer. Must be GL_TEXTURE_BUFFER.
    *
-   * @param [texture] Specifies the texture object name for
-   *                     glTextureBuffer.
+   * @param [texture] Specifies the texture object name for glTextureBuffer.
    *
    * @param [internalFormat] Specifies the internal format of the data in the
    * store belonging to buffer.
    *
    * @param [buffer] Specifies the name of the buffer object whose storage to
-   *                     attach to the active buffer texture.
+   * attach to the active buffer texture.
    */
   static inline void glTexBuffer(GLenum target, GLenum internalFormat,
                                  GLuint buffer)
@@ -2231,17 +2107,15 @@ extern "C"
    * buffer texture object
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *                     glTexBuffer. Must be
-   *                     GL_TEXTURE_BUFFER.
+   * glTexBuffer. Must be GL_TEXTURE_BUFFER.
    *
-   * @param [texture] Specifies the texture object name for
-   *                     glTextureBuffer.
+   * @param [texture] Specifies the texture object name for glTextureBuffer.
    *
    * @param [internalFormat] Specifies the internal format of the data in the
    * store belonging to buffer.
    *
    * @param [buffer] Specifies the name of the buffer object whose storage to
-   *                     attach to the active buffer texture.
+   * attach to the active buffer texture.
    */
   static inline void glTextureBuffer(GLuint texture, GLenum internalformat,
                                      GLuint buffer)
@@ -2251,10 +2125,10 @@ extern "C"
   /**
    * glBeginQuery — delimit the boundaries of a query object
    *
-   * @param [target] Specifies the target type of query object to be concluded.
-   *                     The symbolic constant must be one of GL_SAMPLES_PASSED,
-   * GL_ANY_SAMPLES_PASSED, GL_ANY_SAMPLES_PASSED_CONSERVATIVE,
-   *                     GL_PRIMITIVES_GENERATED,
+   * @param [target] Specifies the target type of query object established
+   * between glBeginQuery and the subsequent glEndQuery. The symbolic constant
+   * must be one of GL_SAMPLES_PASSED, GL_ANY_SAMPLES_PASSED,
+   * GL_ANY_SAMPLES_PASSED_CONSERVATIVE, GL_PRIMITIVES_GENERATED,
    * GL_TRANSFORM_FEEDBACK_PRIMITIVES_WRITTEN, or GL_TIME_ELAPSED.
    *
    * @param [id] Specifies the name of a query object.
@@ -2266,10 +2140,10 @@ extern "C"
   /**
    * glBeginQuery — delimit the boundaries of a query object
    *
-   * @param [target] Specifies the target type of query object to be concluded.
-   *                     The symbolic constant must be one of GL_SAMPLES_PASSED,
-   * GL_ANY_SAMPLES_PASSED, GL_ANY_SAMPLES_PASSED_CONSERVATIVE,
-   *                     GL_PRIMITIVES_GENERATED,
+   * @param [target] Specifies the target type of query object established
+   * between glBeginQuery and the subsequent glEndQuery. The symbolic constant
+   * must be one of GL_SAMPLES_PASSED, GL_ANY_SAMPLES_PASSED,
+   * GL_ANY_SAMPLES_PASSED_CONSERVATIVE, GL_PRIMITIVES_GENERATED,
    * GL_TRANSFORM_FEEDBACK_PRIMITIVES_WRITTEN, or GL_TIME_ELAPSED.
    *
    * @param [id] Specifies the name of a query object.
@@ -2278,9 +2152,23 @@ extern "C"
   /**
    * glBindBuffer — bind a named buffer object
    *
-   * @param [target] Specifies the target to which the buffer object is
-   *                     bound, which must be one of the buffer binding targets
-   *                     in the following table:
+   * @param [target] Specifies the target to which the buffer object is bound,
+   * which must be one of the buffer binding targets in the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of a buffer object.
    */
@@ -2303,30 +2191,37 @@ extern "C"
    data store
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   for
-   *             glBufferData, which must be one of the
-   *             buffer binding targets in the following table:
+   for glBufferData, which must be one of the buffer binding targets in the
+   following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *           glNamedBufferData function.
+   glNamedBufferData function.
    *
    * @param [size] Specifies the size in bytes of the buffer object's new data
-   *           store.
+   store.
    *
    * @param [data] Specifies a pointer to data that will be copied into the data
-   *           store for initialization, or NULL if no data is
-   *           to be copied.
+   store for initialization, or NULL if no data is to be copied.
    *
    * @param [usage] Specifies the expected usage pattern of the data store. The
-   *           symbolic constant must be GL_STREAM_DRAW,
-   *           GL_STREAM_READ,
-   *           GL_STREAM_COPY,
-   *           GL_STATIC_DRAW,
-   *           GL_STATIC_READ,
-   *           GL_STATIC_COPY,
-   *           GL_DYNAMIC_DRAW,
-   *           GL_DYNAMIC_READ, or
-   *           GL_DYNAMIC_COPY.
+   symbolic constant must be GL_STREAM_DRAW, GL_STREAM_READ, GL_STREAM_COPY,
+   GL_STATIC_DRAW, GL_STATIC_READ, GL_STATIC_COPY, GL_DYNAMIC_DRAW,
+   GL_DYNAMIC_READ, or GL_DYNAMIC_COPY.
    */
   static inline void glBufferData(GLenum target, GLsizeiptr size,
                                   const GLvoid *data, GLenum usage)
@@ -2338,30 +2233,37 @@ extern "C"
    data store
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   for
-   *             glBufferData, which must be one of the
-   *             buffer binding targets in the following table:
+   for glBufferData, which must be one of the buffer binding targets in the
+   following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *           glNamedBufferData function.
+   glNamedBufferData function.
    *
    * @param [size] Specifies the size in bytes of the buffer object's new data
-   *           store.
+   store.
    *
    * @param [data] Specifies a pointer to data that will be copied into the data
-   *           store for initialization, or NULL if no data is
-   *           to be copied.
+   store for initialization, or NULL if no data is to be copied.
    *
    * @param [usage] Specifies the expected usage pattern of the data store. The
-   *           symbolic constant must be GL_STREAM_DRAW,
-   *           GL_STREAM_READ,
-   *           GL_STREAM_COPY,
-   *           GL_STATIC_DRAW,
-   *           GL_STATIC_READ,
-   *           GL_STATIC_COPY,
-   *           GL_DYNAMIC_DRAW,
-   *           GL_DYNAMIC_READ, or
-   *           GL_DYNAMIC_COPY.
+   symbolic constant must be GL_STREAM_DRAW, GL_STREAM_READ, GL_STREAM_COPY,
+   GL_STATIC_DRAW, GL_STATIC_READ, GL_STATIC_COPY, GL_DYNAMIC_DRAW,
+   GL_DYNAMIC_READ, or GL_DYNAMIC_COPY.
    */
   static inline void glNamedBufferData(GLuint buffer, GLsizeiptr size,
                                        const void *data, GLenum usage)
@@ -2444,20 +2346,11 @@ extern "C"
   /**
    * glDrawArrays — render primitives from array data
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY and GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY and GL_PATCHES are accepted.
    *
    * @param [first] Specifies the starting index in the enabled arrays.
    *
@@ -2472,24 +2365,16 @@ extern "C"
    * are to be drawn into
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *           glNamedFramebufferDrawBuffer function. Must be
-   *           zero or the name of a framebuffer object.
+   * glNamedFramebufferDrawBuffer function. Must be zero or the name of a
+   * framebuffer object.
    *
    * @param [buf] For default framebuffer, the argument specifies up to four
-   *           color buffers to be drawn into. Symbolic constants
-   *           GL_NONE, GL_FRONT_LEFT,
-   *           GL_FRONT_RIGHT,
-   *           GL_BACK_LEFT,
-   *           GL_BACK_RIGHT, GL_FRONT,
-   *           GL_BACK, GL_LEFT,
-   *           GL_RIGHT, and
-   *           GL_FRONT_AND_BACK are accepted. The initial
-   *           value is GL_FRONT for single-buffered contexts,
-   *           and GL_BACK for double-buffered contexts. For
-   *           framebuffer objects, GL_COLOR_ATTACHMENT$m$ and
-   *           GL_NONE enums are accepted, where
-   *           $m$ is a value between 0 and
-   *           GL_MAX_COLOR_ATTACHMENTS.
+   * color buffers to be drawn into. Symbolic constants GL_NONE, GL_FRONT_LEFT,
+   * GL_FRONT_RIGHT, GL_BACK_LEFT, GL_BACK_RIGHT, GL_FRONT, GL_BACK, GL_LEFT,
+   * GL_RIGHT, and GL_FRONT_AND_BACK are accepted. The initial value is GL_FRONT
+   * for single-buffered contexts, and GL_BACK for double-buffered contexts. For
+   * framebuffer objects, GL_COLOR_ATTACHMENT$m$ and GL_NONE enums are accepted,
+   * where $m$ is a value between 0 and GL_MAX_COLOR_ATTACHMENTS.
    */
   static inline void glDrawBuffer(GLenum buf) { glad_glDrawBuffer(buf); }
   /**
@@ -2497,24 +2382,16 @@ extern "C"
    * are to be drawn into
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *           glNamedFramebufferDrawBuffer function. Must be
-   *           zero or the name of a framebuffer object.
+   * glNamedFramebufferDrawBuffer function. Must be zero or the name of a
+   * framebuffer object.
    *
    * @param [buf] For default framebuffer, the argument specifies up to four
-   *           color buffers to be drawn into. Symbolic constants
-   *           GL_NONE, GL_FRONT_LEFT,
-   *           GL_FRONT_RIGHT,
-   *           GL_BACK_LEFT,
-   *           GL_BACK_RIGHT, GL_FRONT,
-   *           GL_BACK, GL_LEFT,
-   *           GL_RIGHT, and
-   *           GL_FRONT_AND_BACK are accepted. The initial
-   *           value is GL_FRONT for single-buffered contexts,
-   *           and GL_BACK for double-buffered contexts. For
-   *           framebuffer objects, GL_COLOR_ATTACHMENT$m$ and
-   *           GL_NONE enums are accepted, where
-   *           $m$ is a value between 0 and
-   *           GL_MAX_COLOR_ATTACHMENTS.
+   * color buffers to be drawn into. Symbolic constants GL_NONE, GL_FRONT_LEFT,
+   * GL_FRONT_RIGHT, GL_BACK_LEFT, GL_BACK_RIGHT, GL_FRONT, GL_BACK, GL_LEFT,
+   * GL_RIGHT, and GL_FRONT_AND_BACK are accepted. The initial value is GL_FRONT
+   * for single-buffered contexts, and GL_BACK for double-buffered contexts. For
+   * framebuffer objects, GL_COLOR_ATTACHMENT$m$ and GL_NONE enums are accepted,
+   * where $m$ is a value between 0 and GL_MAX_COLOR_ATTACHMENTS.
    */
   static inline void glNamedFramebufferDrawBuffer(GLuint framebuffer,
                                                   GLenum buf)
@@ -2548,31 +2425,18 @@ extern "C"
   /**
    * glGetProgramiv — Returns a parameter from a program object
    *
-   * @param [program] Specifies the program object to be
-   *             queried.
+   * @param [program] Specifies the program object to be queried.
    *
-   * @param [pname] Specifies the object parameter. Accepted
-   *             symbolic names are
-   *             GL_DELETE_STATUS,
-   *             GL_LINK_STATUS,
-   *             GL_VALIDATE_STATUS,
-   *             GL_INFO_LOG_LENGTH,
-   *             GL_ATTACHED_SHADERS,
-   *             GL_ACTIVE_ATOMIC_COUNTER_BUFFERS,
-   *             GL_ACTIVE_ATTRIBUTES,
-   *             GL_ACTIVE_ATTRIBUTE_MAX_LENGTH,
-   *             GL_ACTIVE_UNIFORMS,
-   *             GL_ACTIVE_UNIFORM_BLOCKS,
-   *             GL_ACTIVE_UNIFORM_BLOCK_MAX_NAME_LENGTH,
-   *             GL_ACTIVE_UNIFORM_MAX_LENGTH,
-   *             GL_COMPUTE_WORK_GROUP_SIZE,
-   *             GL_PROGRAM_BINARY_LENGTH,
-   *             GL_TRANSFORM_FEEDBACK_BUFFER_MODE,
-   *             GL_TRANSFORM_FEEDBACK_VARYINGS,
-   *             GL_TRANSFORM_FEEDBACK_VARYING_MAX_LENGTH,
-   *             GL_GEOMETRY_VERTICES_OUT,
-   *             GL_GEOMETRY_INPUT_TYPE, and
-   *             GL_GEOMETRY_OUTPUT_TYPE.
+   * @param [pname] Specifies the object parameter. Accepted symbolic names are
+   * GL_DELETE_STATUS, GL_LINK_STATUS, GL_VALIDATE_STATUS, GL_INFO_LOG_LENGTH,
+   * GL_ATTACHED_SHADERS, GL_ACTIVE_ATOMIC_COUNTER_BUFFERS,
+   * GL_ACTIVE_ATTRIBUTES, GL_ACTIVE_ATTRIBUTE_MAX_LENGTH, GL_ACTIVE_UNIFORMS,
+   * GL_ACTIVE_UNIFORM_BLOCKS, GL_ACTIVE_UNIFORM_BLOCK_MAX_NAME_LENGTH,
+   * GL_ACTIVE_UNIFORM_MAX_LENGTH, GL_COMPUTE_WORK_GROUP_SIZE,
+   * GL_PROGRAM_BINARY_LENGTH, GL_TRANSFORM_FEEDBACK_BUFFER_MODE,
+   * GL_TRANSFORM_FEEDBACK_VARYINGS, GL_TRANSFORM_FEEDBACK_VARYING_MAX_LENGTH,
+   * GL_GEOMETRY_VERTICES_OUT, GL_GEOMETRY_INPUT_TYPE, and
+   * GL_GEOMETRY_OUTPUT_TYPE.
    *
    * @param [params] Returns the requested object parameter.
    */
@@ -2583,10 +2447,10 @@ extern "C"
   /**
    * glGetQueryiv — return parameters of a query object target
    *
-   * @param [target] Specifies a query object target.
-   *                     Must be GL_SAMPLES_PASSED, GL_ANY_SAMPLES_PASSED,
-   * GL_ANY_SAMPLES_PASSED_CONSERVATIVE GL_PRIMITIVES_GENERATED,
-   * GL_TRANSFORM_FEEDBACK_PRIMITIVES_WRITTEN, GL_TIME_ELAPSED, or GL_TIMESTAMP.
+   * @param [target] Specifies a query object target. Must be GL_SAMPLES_PASSED,
+   * GL_ANY_SAMPLES_PASSED, GL_ANY_SAMPLES_PASSED_CONSERVATIVE
+   * GL_PRIMITIVES_GENERATED, GL_TRANSFORM_FEEDBACK_PRIMITIVES_WRITTEN,
+   * GL_TIME_ELAPSED, or GL_TIMESTAMP.
    *
    * @param [pname] Specifies the symbolic name of a query object target
    * parameter. Accepted values are GL_CURRENT_QUERY or GL_QUERY_COUNTER_BITS.
@@ -2603,10 +2467,9 @@ extern "C"
    * @param [program] Specifies the program object to be queried.
    *
    * @param [location] Specifies the location of the uniform variable to be
-   *           queried.
+   * queried.
    *
-   * @param [bufSize] Specifies the size of the buffer
-   *           params.
+   * @param [bufSize] Specifies the size of the buffer params.
    *
    * @param [params] Returns the value of the specified uniform variable.
    */
@@ -2621,10 +2484,9 @@ extern "C"
    * @param [program] Specifies the program object to be queried.
    *
    * @param [location] Specifies the location of the uniform variable to be
-   *           queried.
+   * queried.
    *
-   * @param [bufSize] Specifies the size of the buffer
-   *           params.
+   * @param [bufSize] Specifies the size of the buffer params.
    *
    * @param [params] Returns the value of the specified uniform variable.
    */
@@ -2639,10 +2501,9 @@ extern "C"
    * @param [program] Specifies the program object to be queried.
    *
    * @param [location] Specifies the location of the uniform variable to be
-   *           queried.
+   * queried.
    *
-   * @param [bufSize] Specifies the size of the buffer
-   *           params.
+   * @param [bufSize] Specifies the size of the buffer params.
    *
    * @param [params] Returns the value of the specified uniform variable.
    */
@@ -2657,10 +2518,9 @@ extern "C"
    * @param [program] Specifies the program object to be queried.
    *
    * @param [location] Specifies the location of the uniform variable to be
-   *           queried.
+   * queried.
    *
-   * @param [bufSize] Specifies the size of the buffer
-   *           params.
+   * @param [bufSize] Specifies the size of the buffer params.
    *
    * @param [params] Returns the value of the specified uniform variable.
    */
@@ -2675,10 +2535,9 @@ extern "C"
    * @param [program] Specifies the program object to be queried.
    *
    * @param [location] Specifies the location of the uniform variable to be
-   *           queried.
+   * queried.
    *
-   * @param [bufSize] Specifies the size of the buffer
-   *           params.
+   * @param [bufSize] Specifies the size of the buffer params.
    *
    * @param [params] Returns the value of the specified uniform variable.
    */
@@ -2693,10 +2552,9 @@ extern "C"
    * @param [program] Specifies the program object to be queried.
    *
    * @param [location] Specifies the location of the uniform variable to be
-   *           queried.
+   * queried.
    *
-   * @param [bufSize] Specifies the size of the buffer
-   *           params.
+   * @param [bufSize] Specifies the size of the buffer params.
    *
    * @param [params] Returns the value of the specified uniform variable.
    */
@@ -2711,10 +2569,9 @@ extern "C"
    * @param [program] Specifies the program object to be queried.
    *
    * @param [location] Specifies the location of the uniform variable to be
-   *           queried.
+   * queried.
    *
-   * @param [bufSize] Specifies the size of the buffer
-   *           params.
+   * @param [bufSize] Specifies the size of the buffer params.
    *
    * @param [params] Returns the value of the specified uniform variable.
    */
@@ -2729,10 +2586,9 @@ extern "C"
    * @param [program] Specifies the program object to be queried.
    *
    * @param [location] Specifies the location of the uniform variable to be
-   *           queried.
+   * queried.
    *
-   * @param [bufSize] Specifies the size of the buffer
-   *           params.
+   * @param [bufSize] Specifies the size of the buffer params.
    *
    * @param [params] Returns the value of the specified uniform variable.
    */
@@ -2744,21 +2600,14 @@ extern "C"
   /**
    * glPixelStore — set pixel storage modes
    *
-   * @param [pname] Specifies the symbolic name of the parameter to be set.
-   *                     Six values affect the packing of pixel data into
-   * memory: GL_PACK_SWAP_BYTES, GL_PACK_LSB_FIRST, GL_PACK_ROW_LENGTH,
-   *                     GL_PACK_IMAGE_HEIGHT,
-   *                     GL_PACK_SKIP_PIXELS,
-   *                     GL_PACK_SKIP_ROWS,
-   *                     GL_PACK_SKIP_IMAGES, and
-   *                     GL_PACK_ALIGNMENT.
-   *                     Six more affect the unpacking of pixel data from
-   * memory: GL_UNPACK_SWAP_BYTES, GL_UNPACK_LSB_FIRST, GL_UNPACK_ROW_LENGTH,
-   *                     GL_UNPACK_IMAGE_HEIGHT,
-   *                     GL_UNPACK_SKIP_PIXELS,
-   *                     GL_UNPACK_SKIP_ROWS,
-   *                     GL_UNPACK_SKIP_IMAGES, and
-   *                     GL_UNPACK_ALIGNMENT.
+   * @param [pname] Specifies the symbolic name of the parameter to be set. Six
+   * values affect the packing of pixel data into memory: GL_PACK_SWAP_BYTES,
+   * GL_PACK_LSB_FIRST, GL_PACK_ROW_LENGTH, GL_PACK_IMAGE_HEIGHT,
+   * GL_PACK_SKIP_PIXELS, GL_PACK_SKIP_ROWS, GL_PACK_SKIP_IMAGES, and
+   * GL_PACK_ALIGNMENT. Six more affect the unpacking of pixel data from memory:
+   * GL_UNPACK_SWAP_BYTES, GL_UNPACK_LSB_FIRST, GL_UNPACK_ROW_LENGTH,
+   * GL_UNPACK_IMAGE_HEIGHT, GL_UNPACK_SKIP_PIXELS, GL_UNPACK_SKIP_ROWS,
+   * GL_UNPACK_SKIP_IMAGES, and GL_UNPACK_ALIGNMENT.
    *
    * @param [param] Specifies the value that pname is set to.
    */
@@ -2769,21 +2618,14 @@ extern "C"
   /**
    * glPixelStore — set pixel storage modes
    *
-   * @param [pname] Specifies the symbolic name of the parameter to be set.
-   *                     Six values affect the packing of pixel data into
-   * memory: GL_PACK_SWAP_BYTES, GL_PACK_LSB_FIRST, GL_PACK_ROW_LENGTH,
-   *                     GL_PACK_IMAGE_HEIGHT,
-   *                     GL_PACK_SKIP_PIXELS,
-   *                     GL_PACK_SKIP_ROWS,
-   *                     GL_PACK_SKIP_IMAGES, and
-   *                     GL_PACK_ALIGNMENT.
-   *                     Six more affect the unpacking of pixel data from
-   * memory: GL_UNPACK_SWAP_BYTES, GL_UNPACK_LSB_FIRST, GL_UNPACK_ROW_LENGTH,
-   *                     GL_UNPACK_IMAGE_HEIGHT,
-   *                     GL_UNPACK_SKIP_PIXELS,
-   *                     GL_UNPACK_SKIP_ROWS,
-   *                     GL_UNPACK_SKIP_IMAGES, and
-   *                     GL_UNPACK_ALIGNMENT.
+   * @param [pname] Specifies the symbolic name of the parameter to be set. Six
+   * values affect the packing of pixel data into memory: GL_PACK_SWAP_BYTES,
+   * GL_PACK_LSB_FIRST, GL_PACK_ROW_LENGTH, GL_PACK_IMAGE_HEIGHT,
+   * GL_PACK_SKIP_PIXELS, GL_PACK_SKIP_ROWS, GL_PACK_SKIP_IMAGES, and
+   * GL_PACK_ALIGNMENT. Six more affect the unpacking of pixel data from memory:
+   * GL_UNPACK_SWAP_BYTES, GL_UNPACK_LSB_FIRST, GL_UNPACK_ROW_LENGTH,
+   * GL_UNPACK_IMAGE_HEIGHT, GL_UNPACK_SKIP_PIXELS, GL_UNPACK_SKIP_ROWS,
+   * GL_UNPACK_SKIP_IMAGES, and GL_UNPACK_ALIGNMENT.
    *
    * @param [param] Specifies the value that pname is set to.
    */
@@ -2796,16 +2638,11 @@ extern "C"
    * for pixels
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *           glNamedFramebufferReadBuffer function.
+   * glNamedFramebufferReadBuffer function.
    *
-   * @param [mode] Specifies a color buffer. Accepted values are
-   *           GL_FRONT_LEFT,
-   *           GL_FRONT_RIGHT,
-   *           GL_BACK_LEFT,
-   *           GL_BACK_RIGHT, GL_FRONT,
-   *           GL_BACK, GL_LEFT,
-   *           GL_RIGHT, and the constants
-   *           GL_COLOR_ATTACHMENTi.
+   * @param [mode] Specifies a color buffer. Accepted values are GL_FRONT_LEFT,
+   * GL_FRONT_RIGHT, GL_BACK_LEFT, GL_BACK_RIGHT, GL_FRONT, GL_BACK, GL_LEFT,
+   * GL_RIGHT, and the constants GL_COLOR_ATTACHMENTi.
    */
   static inline void glReadBuffer(GLenum mode) { glad_glReadBuffer(mode); }
   /**
@@ -2813,16 +2650,11 @@ extern "C"
    * for pixels
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *           glNamedFramebufferReadBuffer function.
+   * glNamedFramebufferReadBuffer function.
    *
-   * @param [mode] Specifies a color buffer. Accepted values are
-   *           GL_FRONT_LEFT,
-   *           GL_FRONT_RIGHT,
-   *           GL_BACK_LEFT,
-   *           GL_BACK_RIGHT, GL_FRONT,
-   *           GL_BACK, GL_LEFT,
-   *           GL_RIGHT, and the constants
-   *           GL_COLOR_ATTACHMENTi.
+   * @param [mode] Specifies a color buffer. Accepted values are GL_FRONT_LEFT,
+   * GL_FRONT_RIGHT, GL_BACK_LEFT, GL_BACK_RIGHT, GL_FRONT, GL_BACK, GL_LEFT,
+   * GL_RIGHT, and the constants GL_COLOR_ATTACHMENTi.
    */
   static inline void glNamedFramebufferReadBuffer(GLuint framebuffer,
                                                   GLenum mode)
@@ -2834,45 +2666,30 @@ extern "C"
    *
    * @param [x, y] Specify the window coordinates of the first pixel that is
    * read from the frame buffer. This location is the lower left corner of a
-   *           rectangular block of pixels.
+   * rectangular block of pixels.
    *
-   * @param [width, height] Specify the dimensions of the pixel rectangle.
-   *           width and height of
-   *           one correspond to a single pixel.
+   * @param [width, height] Specify the dimensions of the pixel rectangle. width
+   * and height of one correspond to a single pixel.
    *
    * @param [format] Specifies the format of the pixel data. The following
    * symbolic values are accepted: GL_STENCIL_INDEX, GL_DEPTH_COMPONENT,
-   *           GL_DEPTH_STENCIL, GL_RED,
-   *           GL_GREEN, GL_BLUE,
-   *           GL_RGB, GL_BGR,
-   *           GL_RGBA, and
-   *           GL_BGRA.
+   * GL_DEPTH_STENCIL, GL_RED, GL_GREEN, GL_BLUE, GL_RGB, GL_BGR, GL_RGBA, and
+   * GL_BGRA.
    *
    * @param [type] Specifies the data type of the pixel data. Must be one of
-   *           GL_UNSIGNED_BYTE, GL_BYTE,
-   *           GL_UNSIGNED_SHORT,
-   *           GL_SHORT, GL_UNSIGNED_INT,
-   *           GL_INT, GL_HALF_FLOAT,
-   *           GL_FLOAT,
-   *           GL_UNSIGNED_BYTE_3_3_2,
-   *           GL_UNSIGNED_BYTE_2_3_3_REV,
-   *           GL_UNSIGNED_SHORT_5_6_5,
-   *           GL_UNSIGNED_SHORT_5_6_5_REV,
-   *           GL_UNSIGNED_SHORT_4_4_4_4,
-   *           GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *           GL_UNSIGNED_SHORT_5_5_5_1,
-   *           GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *           GL_UNSIGNED_INT_8_8_8_8,
-   *           GL_UNSIGNED_INT_8_8_8_8_REV,
-   *           GL_UNSIGNED_INT_10_10_10_2,
-   *           GL_UNSIGNED_INT_2_10_10_10_REV,
-   *           GL_UNSIGNED_INT_24_8,
-   *           GL_UNSIGNED_INT_10F_11F_11F_REV,
-   *           GL_UNSIGNED_INT_5_9_9_9_REV, or
-   *           GL_FLOAT_32_UNSIGNED_INT_24_8_REV.
+   * GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT, GL_SHORT, GL_UNSIGNED_INT,
+   * GL_INT, GL_HALF_FLOAT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   * GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   * GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   * GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   * GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   * GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2,
+   * GL_UNSIGNED_INT_2_10_10_10_REV, GL_UNSIGNED_INT_24_8,
+   * GL_UNSIGNED_INT_10F_11F_11F_REV, GL_UNSIGNED_INT_5_9_9_9_REV, or
+   * GL_FLOAT_32_UNSIGNED_INT_24_8_REV.
    *
-   * @param [bufSize] Specifies the size of the buffer data
-   *           for glReadnPixels function.
+   * @param [bufSize] Specifies the size of the buffer data for glReadnPixels
+   * function.
    *
    * @param [data] Returns the pixel data.
    */
@@ -2887,45 +2704,30 @@ extern "C"
    *
    * @param [x, y] Specify the window coordinates of the first pixel that is
    * read from the frame buffer. This location is the lower left corner of a
-   *           rectangular block of pixels.
+   * rectangular block of pixels.
    *
-   * @param [width, height] Specify the dimensions of the pixel rectangle.
-   *           width and height of
-   *           one correspond to a single pixel.
+   * @param [width, height] Specify the dimensions of the pixel rectangle. width
+   * and height of one correspond to a single pixel.
    *
    * @param [format] Specifies the format of the pixel data. The following
    * symbolic values are accepted: GL_STENCIL_INDEX, GL_DEPTH_COMPONENT,
-   *           GL_DEPTH_STENCIL, GL_RED,
-   *           GL_GREEN, GL_BLUE,
-   *           GL_RGB, GL_BGR,
-   *           GL_RGBA, and
-   *           GL_BGRA.
+   * GL_DEPTH_STENCIL, GL_RED, GL_GREEN, GL_BLUE, GL_RGB, GL_BGR, GL_RGBA, and
+   * GL_BGRA.
    *
    * @param [type] Specifies the data type of the pixel data. Must be one of
-   *           GL_UNSIGNED_BYTE, GL_BYTE,
-   *           GL_UNSIGNED_SHORT,
-   *           GL_SHORT, GL_UNSIGNED_INT,
-   *           GL_INT, GL_HALF_FLOAT,
-   *           GL_FLOAT,
-   *           GL_UNSIGNED_BYTE_3_3_2,
-   *           GL_UNSIGNED_BYTE_2_3_3_REV,
-   *           GL_UNSIGNED_SHORT_5_6_5,
-   *           GL_UNSIGNED_SHORT_5_6_5_REV,
-   *           GL_UNSIGNED_SHORT_4_4_4_4,
-   *           GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *           GL_UNSIGNED_SHORT_5_5_5_1,
-   *           GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *           GL_UNSIGNED_INT_8_8_8_8,
-   *           GL_UNSIGNED_INT_8_8_8_8_REV,
-   *           GL_UNSIGNED_INT_10_10_10_2,
-   *           GL_UNSIGNED_INT_2_10_10_10_REV,
-   *           GL_UNSIGNED_INT_24_8,
-   *           GL_UNSIGNED_INT_10F_11F_11F_REV,
-   *           GL_UNSIGNED_INT_5_9_9_9_REV, or
-   *           GL_FLOAT_32_UNSIGNED_INT_24_8_REV.
+   * GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT, GL_SHORT, GL_UNSIGNED_INT,
+   * GL_INT, GL_HALF_FLOAT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   * GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   * GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   * GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   * GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   * GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2,
+   * GL_UNSIGNED_INT_2_10_10_10_REV, GL_UNSIGNED_INT_24_8,
+   * GL_UNSIGNED_INT_10F_11F_11F_REV, GL_UNSIGNED_INT_5_9_9_9_REV, or
+   * GL_FLOAT_32_UNSIGNED_INT_24_8_REV.
    *
-   * @param [bufSize] Specifies the size of the buffer data
-   *           for glReadnPixels function.
+   * @param [bufSize] Specifies the size of the buffer data for glReadnPixels
+   * function.
    *
    * @param [data] Returns the pixel data.
    */
@@ -2938,63 +2740,38 @@ extern "C"
   /**
    * glTexImage1D — specify a one-dimensional texture image
    *
-   * @param [target] Specifies the target texture.
-   *                     Must be GL_TEXTURE_1D or GL_PROXY_TEXTURE_1D.
+   * @param [target] Specifies the target texture. Must be GL_TEXTURE_1D or
+   * GL_PROXY_TEXTURE_1D.
    *
-   * @param [level] Specifies the level-of-detail number.
-   *                     Level 0 is the base image level.
-   *                     Level n is the nth mipmap reduction image.
+   * @param [level] Specifies the level-of-detail number. Level 0 is the base
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [internalFormat] Specifies the number of color components in the
    * texture. Must be one of base internal formats given in Table 1, one of the
    * sized internal formats given in Table 2, or one of the compressed internal
    * formats given in Table 3, below.
    *
-   * @param [width] Specifies the width of the texture image.
-   *                     All implementations support texture images that are at
-   * least 1024 texels wide. The height of the 1D texture image is 1.
+   * @param [width] Specifies the width of the texture image. All
+   * implementations support texture images that are at least 1024 texels wide.
+   * The height of the 1D texture image is 1.
    *
    * @param [border] This value must be 0.
    *
-   * @param [format] Specifies the format of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_RED,
-   *                     GL_RG,
-   *                     GL_RGB,
-   *                     GL_BGR,
-   *                     GL_RGBA,
-   *                     GL_BGRA,
-   *                     GL_RED_INTEGER,
-   *                     GL_RG_INTEGER,
-   *                     GL_RGB_INTEGER,
-   *                     GL_BGR_INTEGER,
-   *                     GL_RGBA_INTEGER,
-   *                     GL_BGRA_INTEGER,
-   *                     GL_STENCIL_INDEX,
-   *                     GL_DEPTH_COMPONENT,
-   *                     GL_DEPTH_STENCIL.
+   * @param [format] Specifies the format of the pixel data. The following
+   * symbolic values are accepted: GL_RED, GL_RG, GL_RGB, GL_BGR, GL_RGBA,
+   * GL_BGRA, GL_RED_INTEGER, GL_RG_INTEGER, GL_RGB_INTEGER, GL_BGR_INTEGER,
+   * GL_RGBA_INTEGER, GL_BGRA_INTEGER, GL_STENCIL_INDEX, GL_DEPTH_COMPONENT,
+   * GL_DEPTH_STENCIL.
    *
-   * @param [type] Specifies the data type of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_UNSIGNED_BYTE,
-   *                     GL_BYTE,
-   *                     GL_UNSIGNED_SHORT,
-   *                     GL_SHORT,
-   *                     GL_UNSIGNED_INT,
-   *                     GL_INT,
-   *                     GL_FLOAT,
-   *                     GL_UNSIGNED_BYTE_3_3_2,
-   *                     GL_UNSIGNED_BYTE_2_3_3_REV,
-   *                     GL_UNSIGNED_SHORT_5_6_5,
-   *                     GL_UNSIGNED_SHORT_5_6_5_REV,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *                     GL_UNSIGNED_SHORT_5_5_5_1,
-   *                     GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *                     GL_UNSIGNED_INT_8_8_8_8,
-   *                     GL_UNSIGNED_INT_8_8_8_8_REV,
-   *                     GL_UNSIGNED_INT_10_10_10_2, and
-   *                     GL_UNSIGNED_INT_2_10_10_10_REV.
+   * @param [type] Specifies the data type of the pixel data. The following
+   * symbolic values are accepted: GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT,
+   * GL_SHORT, GL_UNSIGNED_INT, GL_INT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   * GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   * GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   * GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   * GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   * GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2, and
+   * GL_UNSIGNED_INT_2_10_10_10_REV.
    *
    * @param [data] Specifies a pointer to the image data in memory.
    */
@@ -3009,81 +2786,49 @@ extern "C"
   /**
    * glTexImage2D — specify a two-dimensional texture image
    *
-   * @param [target] Specifies the target texture.
-   *                     Must be GL_TEXTURE_2D, GL_PROXY_TEXTURE_2D,
-   *                     GL_TEXTURE_1D_ARRAY, GL_PROXY_TEXTURE_1D_ARRAY,
-   *                     GL_TEXTURE_RECTANGLE, GL_PROXY_TEXTURE_RECTANGLE,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, or
-   *                     GL_PROXY_TEXTURE_CUBE_MAP.
+   * @param [target] Specifies the target texture. Must be GL_TEXTURE_2D,
+   * GL_PROXY_TEXTURE_2D, GL_TEXTURE_1D_ARRAY, GL_PROXY_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_RECTANGLE, GL_PROXY_TEXTURE_RECTANGLE,
+   * GL_TEXTURE_CUBE_MAP_POSITIVE_X, GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
+   * GL_TEXTURE_CUBE_MAP_POSITIVE_Y, GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_POSITIVE_Z, GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, or
+   * GL_PROXY_TEXTURE_CUBE_MAP.
    *
-   * @param [level] Specifies the level-of-detail number.
-   *                     Level 0 is the base image level.
-   *                     Level n is the nth mipmap reduction image.
-   *                     If target is GL_TEXTURE_RECTANGLE or
-   *                     GL_PROXY_TEXTURE_RECTANGLE, level must be 0.
+   * @param [level] Specifies the level-of-detail number. Level 0 is the base
+   * image level. Level n is the nth mipmap reduction image. If target is
+   * GL_TEXTURE_RECTANGLE or GL_PROXY_TEXTURE_RECTANGLE, level must be 0.
    *
    * @param [internalFormat] Specifies the number of color components in the
    * texture. Must be one of base internal formats given in Table 1, one of the
    * sized internal formats given in Table 2, or one of the compressed internal
    * formats given in Table 3, below.
    *
-   * @param [width] Specifies the width of the texture image.
-   *                     All implementations support texture images that are at
-   * least 1024 texels wide.
+   * @param [width] Specifies the width of the texture image. All
+   * implementations support texture images that are at least 1024 texels wide.
    *
    * @param [height] Specifies the height of the texture image, or the number of
    * layers in a texture array, in the case of the GL_TEXTURE_1D_ARRAY and
-   *                     GL_PROXY_TEXTURE_1D_ARRAY targets.
-   *                     All implementations support 2D texture images that are
-   * at least 1024 texels high, and texture arrays that are at least 256 layers
-   * deep.
+   * GL_PROXY_TEXTURE_1D_ARRAY targets. All implementations support 2D texture
+   * images that are at least 1024 texels high, and texture arrays that are at
+   * least 256 layers deep.
    *
    * @param [border] This value must be 0.
    *
-   * @param [format] Specifies the format of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_RED,
-   *                     GL_RG,
-   *                     GL_RGB,
-   *                     GL_BGR,
-   *                     GL_RGBA,
-   *                     GL_BGRA,
-   *                     GL_RED_INTEGER,
-   *                     GL_RG_INTEGER,
-   *                     GL_RGB_INTEGER,
-   *                     GL_BGR_INTEGER,
-   *                     GL_RGBA_INTEGER,
-   *                     GL_BGRA_INTEGER,
-   *                     GL_STENCIL_INDEX,
-   *                     GL_DEPTH_COMPONENT,
-   *                     GL_DEPTH_STENCIL.
+   * @param [format] Specifies the format of the pixel data. The following
+   * symbolic values are accepted: GL_RED, GL_RG, GL_RGB, GL_BGR, GL_RGBA,
+   * GL_BGRA, GL_RED_INTEGER, GL_RG_INTEGER, GL_RGB_INTEGER, GL_BGR_INTEGER,
+   * GL_RGBA_INTEGER, GL_BGRA_INTEGER, GL_STENCIL_INDEX, GL_DEPTH_COMPONENT,
+   * GL_DEPTH_STENCIL.
    *
-   * @param [type] Specifies the data type of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_UNSIGNED_BYTE,
-   *                     GL_BYTE,
-   *                     GL_UNSIGNED_SHORT,
-   *                     GL_SHORT,
-   *                     GL_UNSIGNED_INT,
-   *                     GL_INT,
-   *                     GL_FLOAT,
-   *                     GL_UNSIGNED_BYTE_3_3_2,
-   *                     GL_UNSIGNED_BYTE_2_3_3_REV,
-   *                     GL_UNSIGNED_SHORT_5_6_5,
-   *                     GL_UNSIGNED_SHORT_5_6_5_REV,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *                     GL_UNSIGNED_SHORT_5_5_5_1,
-   *                     GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *                     GL_UNSIGNED_INT_8_8_8_8,
-   *                     GL_UNSIGNED_INT_8_8_8_8_REV,
-   *                     GL_UNSIGNED_INT_10_10_10_2, and
-   *                     GL_UNSIGNED_INT_2_10_10_10_REV.
+   * @param [type] Specifies the data type of the pixel data. The following
+   * symbolic values are accepted: GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT,
+   * GL_SHORT, GL_UNSIGNED_INT, GL_INT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   * GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   * GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   * GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   * GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   * GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2, and
+   * GL_UNSIGNED_INT_2_10_10_10_REV.
    *
    * @param [data] Specifies a pointer to the image data in memory.
    */
@@ -3098,34 +2843,23 @@ extern "C"
   /**
    * glTexImage3D — specify a three-dimensional texture image
    *
-   * @param [target] Specifies the target texture.
-   *                     Must be one of GL_TEXTURE_3D, GL_PROXY_TEXTURE_3D,
-   *                     GL_TEXTURE_2D_ARRAY or GL_PROXY_TEXTURE_2D_ARRAY.
+   * @param [target] Specifies the target texture. Must be one of GL_TEXTURE_3D,
+   * GL_PROXY_TEXTURE_3D, GL_TEXTURE_2D_ARRAY or GL_PROXY_TEXTURE_2D_ARRAY.
    *
-   * @param [level] Specifies the level-of-detail number.
-   *                     Level 0 is the base image level.
-   *                     Level
-   *                     n
-   *                     is the
-   *
-   * n
-   * th
-   *
-   *
-   *                     mipmap reduction image.
+   * @param [level] Specifies the level-of-detail number. Level 0 is the base
+   * image level. Level n is the n th mipmap reduction image.
    *
    * @param [internalFormat] Specifies the number of color components in the
    * texture. Must be one of base internal formats given in Table 1, one of the
    * sized internal formats given in Table 2, or one of the compressed internal
    * formats given in Table 3, below.
    *
-   * @param [width] Specifies the width of the texture image.
-   *                     All implementations support 3D texture images that are
-   * at least 16 texels wide.
+   * @param [width] Specifies the width of the texture image. All
+   * implementations support 3D texture images that are at least 16 texels wide.
    *
-   * @param [height] Specifies the height of the texture image.
-   *                     All implementations support 3D texture images that are
-   * at least 256 texels high.
+   * @param [height] Specifies the height of the texture image. All
+   * implementations support 3D texture images that are at least 256 texels
+   * high.
    *
    * @param [depth] Specifies the depth of the texture image, or the number of
    * layers in a texture array. All implementations support 3D texture images
@@ -3134,45 +2868,21 @@ extern "C"
    *
    * @param [border] This value must be 0.
    *
-   * @param [format] Specifies the format of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_RED,
-   *                     GL_RG,
-   *                     GL_RGB,
-   *                     GL_BGR,
-   *                     GL_RGBA,
-   *                     GL_BGRA,
-   *                     GL_RED_INTEGER,
-   *                     GL_RG_INTEGER,
-   *                     GL_RGB_INTEGER,
-   *                     GL_BGR_INTEGER,
-   *                     GL_RGBA_INTEGER,
-   *                     GL_BGRA_INTEGER,
-   *                     GL_STENCIL_INDEX,
-   *                     GL_DEPTH_COMPONENT,
-   *                     GL_DEPTH_STENCIL.
+   * @param [format] Specifies the format of the pixel data. The following
+   * symbolic values are accepted: GL_RED, GL_RG, GL_RGB, GL_BGR, GL_RGBA,
+   * GL_BGRA, GL_RED_INTEGER, GL_RG_INTEGER, GL_RGB_INTEGER, GL_BGR_INTEGER,
+   * GL_RGBA_INTEGER, GL_BGRA_INTEGER, GL_STENCIL_INDEX, GL_DEPTH_COMPONENT,
+   * GL_DEPTH_STENCIL.
    *
-   * @param [type] Specifies the data type of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_UNSIGNED_BYTE,
-   *                     GL_BYTE,
-   *                     GL_UNSIGNED_SHORT,
-   *                     GL_SHORT,
-   *                     GL_UNSIGNED_INT,
-   *                     GL_INT,
-   *                     GL_FLOAT,
-   *                     GL_UNSIGNED_BYTE_3_3_2,
-   *                     GL_UNSIGNED_BYTE_2_3_3_REV,
-   *                     GL_UNSIGNED_SHORT_5_6_5,
-   *                     GL_UNSIGNED_SHORT_5_6_5_REV,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *                     GL_UNSIGNED_SHORT_5_5_5_1,
-   *                     GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *                     GL_UNSIGNED_INT_8_8_8_8,
-   *                     GL_UNSIGNED_INT_8_8_8_8_REV,
-   *                     GL_UNSIGNED_INT_10_10_10_2, and
-   *                     GL_UNSIGNED_INT_2_10_10_10_REV.
+   * @param [type] Specifies the data type of the pixel data. The following
+   * symbolic values are accepted: GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT,
+   * GL_SHORT, GL_UNSIGNED_INT, GL_INT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   * GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   * GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   * GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   * GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   * GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2, and
+   * GL_UNSIGNED_INT_2_10_10_10_REV.
    *
    * @param [data] Specifies a pointer to the image data in memory.
    */
@@ -3188,9 +2898,8 @@ extern "C"
   /**
    * glUseProgram — Installs a program object as part of current rendering state
    *
-   * @param [program] Specifies the handle of the program object
-   *                     whose executables are to be used as part of current
-   *                     rendering state.
+   * @param [program] Specifies the handle of the program object whose
+   * executables are to be used as part of current rendering state.
    */
   static inline void glUseProgram(GLuint program)
   {
@@ -3211,19 +2920,11 @@ extern "C"
   /**
    * glBindTexture — bind a named texture to a texturing target
    *
-   * @param [target] Specifies the target to which the texture is bound.
-   *                     Must be one of
-   *                     GL_TEXTURE_1D,
-   *                     GL_TEXTURE_2D,
-   *                     GL_TEXTURE_3D,
-   *                     GL_TEXTURE_1D_ARRAY,
-   *                     GL_TEXTURE_2D_ARRAY,
-   *                     GL_TEXTURE_RECTANGLE,
-   *                     GL_TEXTURE_CUBE_MAP,
-   *                     GL_TEXTURE_CUBE_MAP_ARRAY,
-   *                     GL_TEXTURE_BUFFER,
-   *                     GL_TEXTURE_2D_MULTISAMPLE or
-   *                     GL_TEXTURE_2D_MULTISAMPLE_ARRAY.
+   * @param [target] Specifies the target to which the texture is bound. Must be
+   * one of GL_TEXTURE_1D, GL_TEXTURE_2D, GL_TEXTURE_3D, GL_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_2D_ARRAY, GL_TEXTURE_RECTANGLE, GL_TEXTURE_CUBE_MAP,
+   * GL_TEXTURE_CUBE_MAP_ARRAY, GL_TEXTURE_BUFFER, GL_TEXTURE_2D_MULTISAMPLE or
+   * GL_TEXTURE_2D_MULTISAMPLE_ARRAY.
    *
    * @param [texture] Specifies the name of a texture.
    */
@@ -3235,7 +2936,7 @@ extern "C"
    * glClearBuffer — clear individual buffers of a framebuffer
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glClearNamedFramebuffer*.
+   * glClearNamedFramebuffer*.
    *
    * @param [buffer] Specify the buffer to clear.
    *
@@ -3256,7 +2957,7 @@ extern "C"
    * glClearBuffer — clear individual buffers of a framebuffer
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glClearNamedFramebuffer*.
+   * glClearNamedFramebuffer*.
    *
    * @param [buffer] Specify the buffer to clear.
    *
@@ -3277,7 +2978,7 @@ extern "C"
    * glClearBuffer — clear individual buffers of a framebuffer
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glClearNamedFramebuffer*.
+   * glClearNamedFramebuffer*.
    *
    * @param [buffer] Specify the buffer to clear.
    *
@@ -3298,7 +2999,7 @@ extern "C"
    * glClearBuffer — clear individual buffers of a framebuffer
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glClearNamedFramebuffer*.
+   * glClearNamedFramebuffer*.
    *
    * @param [buffer] Specify the buffer to clear.
    *
@@ -3319,7 +3020,7 @@ extern "C"
    * glClearBuffer — clear individual buffers of a framebuffer
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glClearNamedFramebuffer*.
+   * glClearNamedFramebuffer*.
    *
    * @param [buffer] Specify the buffer to clear.
    *
@@ -3341,7 +3042,7 @@ extern "C"
    * glClearBuffer — clear individual buffers of a framebuffer
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glClearNamedFramebuffer*.
+   * glClearNamedFramebuffer*.
    *
    * @param [buffer] Specify the buffer to clear.
    *
@@ -3363,7 +3064,7 @@ extern "C"
    * glClearBuffer — clear individual buffers of a framebuffer
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glClearNamedFramebuffer*.
+   * glClearNamedFramebuffer*.
    *
    * @param [buffer] Specify the buffer to clear.
    *
@@ -3385,7 +3086,7 @@ extern "C"
    * glClearBuffer — clear individual buffers of a framebuffer
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glClearNamedFramebuffer*.
+   * glClearNamedFramebuffer*.
    *
    * @param [buffer] Specify the buffer to clear.
    *
@@ -3409,12 +3110,10 @@ extern "C"
    * glClipControl — control clip coordinate to window coordinate behavior
    *
    * @param [origin] Specifies the clip control origin. Must be one of
-   *                          GL_LOWER_LEFT or
-   *                          GL_UPPER_LEFT.
+   * GL_LOWER_LEFT or GL_UPPER_LEFT.
    *
-   * @param [depth] Specifies the clip control depth mode. Must be one
-   *                         of GL_NEGATIVE_ONE_TO_ONE or
-   *                         GL_ZERO_TO_ONE.
+   * @param [depth] Specifies the clip control depth mode. Must be one of
+   * GL_NEGATIVE_ONE_TO_ONE or GL_ZERO_TO_ONE.
    */
   static inline void glClipControl(GLenum origin, GLenum depth)
   {
@@ -3425,14 +3124,12 @@ extern "C"
    buffers to be drawn into
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *           glNamedFramebufferDrawBuffers.
+   glNamedFramebufferDrawBuffers.
    *
-   * @param [n] Specifies the number of buffers in
-   *           bufs.
+   * @param [n] Specifies the number of buffers in bufs.
    *
    * @param [bufs] Points to an array of symbolic constants specifying the
-   *           buffers into which fragment colors or data values will be
-   *           written.
+   buffers into which fragment colors or data values will be written.
    */
   static inline void glDrawBuffers(GLsizei n, const GLenum *bufs)
   {
@@ -3443,14 +3140,12 @@ extern "C"
    buffers to be drawn into
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *           glNamedFramebufferDrawBuffers.
+   glNamedFramebufferDrawBuffers.
    *
-   * @param [n] Specifies the number of buffers in
-   *           bufs.
+   * @param [n] Specifies the number of buffers in bufs.
    *
    * @param [bufs] Points to an array of symbolic constants specifying the
-   *           buffers into which fragment colors or data values will be
-   *           written.
+   buffers into which fragment colors or data values will be written.
    */
   static inline void glNamedFramebufferDrawBuffers(GLuint framebuffer,
                                                    GLsizei n,
@@ -3486,8 +3181,7 @@ extern "C"
    * glGetPointerv — return the address of the specified pointer
    *
    * @param [pname] Specifies the pointer to be returned. Must be one of
-   *                     GL_DEBUG_CALLBACK_FUNCTION or
-   *                     GL_DEBUG_CALLBACK_USER_PARAM.
+   * GL_DEBUG_CALLBACK_FUNCTION or GL_DEBUG_CALLBACK_USER_PARAM.
    *
    * @param [params] Returns the pointer value specified by pname.
    */
@@ -3499,74 +3193,40 @@ extern "C"
    * glGetTexImage — return a texture image
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexImage and
-   *           glGetnTexImage functions.
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_RECTANGLE,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, and
-   *           GL_TEXTURE_CUBE_MAP_ARRAY are acceptable.
+   * glGetTexImage and glGetnTexImage functions. GL_TEXTURE_1D, GL_TEXTURE_2D,
+   * GL_TEXTURE_3D, GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_RECTANGLE, GL_TEXTURE_CUBE_MAP_POSITIVE_X,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_X, GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Y, GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, and GL_TEXTURE_CUBE_MAP_ARRAY are
+   * acceptable.
    *
    * @param [texture] Specifies the texture object name.
    *
    * @param [level] Specifies the level-of-detail number of the desired image.
-   *                     Level 0 is the base image level.
-   *                     Level
-   *                     n
-   *                     is the
-   *                     nth
-   *                     mipmap reduction image.
+   * Level 0 is the base image level. Level n is the nth mipmap reduction image.
    *
    * @param [format] Specifies a pixel format for the returned data. The
    * supported formats are GL_STENCIL_INDEX, GL_DEPTH_COMPONENT,
-   *           GL_DEPTH_STENCIL, GL_RED,
-   *           GL_GREEN, GL_BLUE,
-   *           GL_RG, GL_RGB,
-   *           GL_RGBA, GL_BGR,
-   *           GL_BGRA, GL_RED_INTEGER,
-   *           GL_GREEN_INTEGER,
-   *           GL_BLUE_INTEGER,
-   *           GL_RG_INTEGER,
-   *           GL_RGB_INTEGER,
-   *           GL_RGBA_INTEGER,
-   *           GL_BGR_INTEGER,
-   *           GL_BGRA_INTEGER.
+   * GL_DEPTH_STENCIL, GL_RED, GL_GREEN, GL_BLUE, GL_RG, GL_RGB, GL_RGBA,
+   * GL_BGR, GL_BGRA, GL_RED_INTEGER, GL_GREEN_INTEGER, GL_BLUE_INTEGER,
+   * GL_RG_INTEGER, GL_RGB_INTEGER, GL_RGBA_INTEGER, GL_BGR_INTEGER,
+   * GL_BGRA_INTEGER.
    *
    * @param [type] Specifies a pixel type for the returned data. The supported
-   *           types are GL_UNSIGNED_BYTE,
-   *           GL_BYTE,
-   *           GL_UNSIGNED_SHORT,
-   *           GL_SHORT, GL_UNSIGNED_INT,
-   *           GL_INT, GL_HALF_FLOAT,
-   *           GL_FLOAT,
-   *           GL_UNSIGNED_BYTE_3_3_2,
-   *           GL_UNSIGNED_BYTE_2_3_3_REV,
-   *           GL_UNSIGNED_SHORT_5_6_5,
-   *           GL_UNSIGNED_SHORT_5_6_5_REV,
-   *           GL_UNSIGNED_SHORT_4_4_4_4,
-   *           GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *           GL_UNSIGNED_SHORT_5_5_5_1,
-   *           GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *           GL_UNSIGNED_INT_8_8_8_8,
-   *           GL_UNSIGNED_INT_8_8_8_8_REV,
-   *           GL_UNSIGNED_INT_10_10_10_2,
-   *           GL_UNSIGNED_INT_2_10_10_10_REV,
-   *           GL_UNSIGNED_INT_24_8,
-   *           GL_UNSIGNED_INT_10F_11F_11F_REV,
-   *           GL_UNSIGNED_INT_5_9_9_9_REV, and
-   *           GL_FLOAT_32_UNSIGNED_INT_24_8_REV.
+   * types are GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT, GL_SHORT,
+   * GL_UNSIGNED_INT, GL_INT, GL_HALF_FLOAT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   * GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   * GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   * GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   * GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   * GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2,
+   * GL_UNSIGNED_INT_2_10_10_10_REV, GL_UNSIGNED_INT_24_8,
+   * GL_UNSIGNED_INT_10F_11F_11F_REV, GL_UNSIGNED_INT_5_9_9_9_REV, and
+   * GL_FLOAT_32_UNSIGNED_INT_24_8_REV.
    *
-   * @param [bufSize] Specifies the size of the buffer pixels
-   *           for glGetnTexImage and
-   *           glGetTextureImage functions.
+   * @param [bufSize] Specifies the size of the buffer pixels for glGetnTexImage
+   * and glGetTextureImage functions.
    *
    * @param [pixels] Returns the texture image. Should be a pointer to an array
    * of the type specified by type.
@@ -3580,74 +3240,40 @@ extern "C"
    * glGetTexImage — return a texture image
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexImage and
-   *           glGetnTexImage functions.
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_RECTANGLE,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, and
-   *           GL_TEXTURE_CUBE_MAP_ARRAY are acceptable.
+   * glGetTexImage and glGetnTexImage functions. GL_TEXTURE_1D, GL_TEXTURE_2D,
+   * GL_TEXTURE_3D, GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_RECTANGLE, GL_TEXTURE_CUBE_MAP_POSITIVE_X,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_X, GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Y, GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, and GL_TEXTURE_CUBE_MAP_ARRAY are
+   * acceptable.
    *
    * @param [texture] Specifies the texture object name.
    *
    * @param [level] Specifies the level-of-detail number of the desired image.
-   *                     Level 0 is the base image level.
-   *                     Level
-   *                     n
-   *                     is the
-   *                     nth
-   *                     mipmap reduction image.
+   * Level 0 is the base image level. Level n is the nth mipmap reduction image.
    *
    * @param [format] Specifies a pixel format for the returned data. The
    * supported formats are GL_STENCIL_INDEX, GL_DEPTH_COMPONENT,
-   *           GL_DEPTH_STENCIL, GL_RED,
-   *           GL_GREEN, GL_BLUE,
-   *           GL_RG, GL_RGB,
-   *           GL_RGBA, GL_BGR,
-   *           GL_BGRA, GL_RED_INTEGER,
-   *           GL_GREEN_INTEGER,
-   *           GL_BLUE_INTEGER,
-   *           GL_RG_INTEGER,
-   *           GL_RGB_INTEGER,
-   *           GL_RGBA_INTEGER,
-   *           GL_BGR_INTEGER,
-   *           GL_BGRA_INTEGER.
+   * GL_DEPTH_STENCIL, GL_RED, GL_GREEN, GL_BLUE, GL_RG, GL_RGB, GL_RGBA,
+   * GL_BGR, GL_BGRA, GL_RED_INTEGER, GL_GREEN_INTEGER, GL_BLUE_INTEGER,
+   * GL_RG_INTEGER, GL_RGB_INTEGER, GL_RGBA_INTEGER, GL_BGR_INTEGER,
+   * GL_BGRA_INTEGER.
    *
    * @param [type] Specifies a pixel type for the returned data. The supported
-   *           types are GL_UNSIGNED_BYTE,
-   *           GL_BYTE,
-   *           GL_UNSIGNED_SHORT,
-   *           GL_SHORT, GL_UNSIGNED_INT,
-   *           GL_INT, GL_HALF_FLOAT,
-   *           GL_FLOAT,
-   *           GL_UNSIGNED_BYTE_3_3_2,
-   *           GL_UNSIGNED_BYTE_2_3_3_REV,
-   *           GL_UNSIGNED_SHORT_5_6_5,
-   *           GL_UNSIGNED_SHORT_5_6_5_REV,
-   *           GL_UNSIGNED_SHORT_4_4_4_4,
-   *           GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *           GL_UNSIGNED_SHORT_5_5_5_1,
-   *           GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *           GL_UNSIGNED_INT_8_8_8_8,
-   *           GL_UNSIGNED_INT_8_8_8_8_REV,
-   *           GL_UNSIGNED_INT_10_10_10_2,
-   *           GL_UNSIGNED_INT_2_10_10_10_REV,
-   *           GL_UNSIGNED_INT_24_8,
-   *           GL_UNSIGNED_INT_10F_11F_11F_REV,
-   *           GL_UNSIGNED_INT_5_9_9_9_REV, and
-   *           GL_FLOAT_32_UNSIGNED_INT_24_8_REV.
+   * types are GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT, GL_SHORT,
+   * GL_UNSIGNED_INT, GL_INT, GL_HALF_FLOAT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   * GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   * GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   * GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   * GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   * GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2,
+   * GL_UNSIGNED_INT_2_10_10_10_REV, GL_UNSIGNED_INT_24_8,
+   * GL_UNSIGNED_INT_10F_11F_11F_REV, GL_UNSIGNED_INT_5_9_9_9_REV, and
+   * GL_FLOAT_32_UNSIGNED_INT_24_8_REV.
    *
-   * @param [bufSize] Specifies the size of the buffer pixels
-   *           for glGetnTexImage and
-   *           glGetTextureImage functions.
+   * @param [bufSize] Specifies the size of the buffer pixels for glGetnTexImage
+   * and glGetTextureImage functions.
    *
    * @param [pixels] Returns the texture image. Should be a pointer to an array
    * of the type specified by type.
@@ -3661,74 +3287,40 @@ extern "C"
    * glGetTexImage — return a texture image
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexImage and
-   *           glGetnTexImage functions.
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_RECTANGLE,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, and
-   *           GL_TEXTURE_CUBE_MAP_ARRAY are acceptable.
+   * glGetTexImage and glGetnTexImage functions. GL_TEXTURE_1D, GL_TEXTURE_2D,
+   * GL_TEXTURE_3D, GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_RECTANGLE, GL_TEXTURE_CUBE_MAP_POSITIVE_X,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_X, GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Y, GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, and GL_TEXTURE_CUBE_MAP_ARRAY are
+   * acceptable.
    *
    * @param [texture] Specifies the texture object name.
    *
    * @param [level] Specifies the level-of-detail number of the desired image.
-   *                     Level 0 is the base image level.
-   *                     Level
-   *                     n
-   *                     is the
-   *                     nth
-   *                     mipmap reduction image.
+   * Level 0 is the base image level. Level n is the nth mipmap reduction image.
    *
    * @param [format] Specifies a pixel format for the returned data. The
    * supported formats are GL_STENCIL_INDEX, GL_DEPTH_COMPONENT,
-   *           GL_DEPTH_STENCIL, GL_RED,
-   *           GL_GREEN, GL_BLUE,
-   *           GL_RG, GL_RGB,
-   *           GL_RGBA, GL_BGR,
-   *           GL_BGRA, GL_RED_INTEGER,
-   *           GL_GREEN_INTEGER,
-   *           GL_BLUE_INTEGER,
-   *           GL_RG_INTEGER,
-   *           GL_RGB_INTEGER,
-   *           GL_RGBA_INTEGER,
-   *           GL_BGR_INTEGER,
-   *           GL_BGRA_INTEGER.
+   * GL_DEPTH_STENCIL, GL_RED, GL_GREEN, GL_BLUE, GL_RG, GL_RGB, GL_RGBA,
+   * GL_BGR, GL_BGRA, GL_RED_INTEGER, GL_GREEN_INTEGER, GL_BLUE_INTEGER,
+   * GL_RG_INTEGER, GL_RGB_INTEGER, GL_RGBA_INTEGER, GL_BGR_INTEGER,
+   * GL_BGRA_INTEGER.
    *
    * @param [type] Specifies a pixel type for the returned data. The supported
-   *           types are GL_UNSIGNED_BYTE,
-   *           GL_BYTE,
-   *           GL_UNSIGNED_SHORT,
-   *           GL_SHORT, GL_UNSIGNED_INT,
-   *           GL_INT, GL_HALF_FLOAT,
-   *           GL_FLOAT,
-   *           GL_UNSIGNED_BYTE_3_3_2,
-   *           GL_UNSIGNED_BYTE_2_3_3_REV,
-   *           GL_UNSIGNED_SHORT_5_6_5,
-   *           GL_UNSIGNED_SHORT_5_6_5_REV,
-   *           GL_UNSIGNED_SHORT_4_4_4_4,
-   *           GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *           GL_UNSIGNED_SHORT_5_5_5_1,
-   *           GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *           GL_UNSIGNED_INT_8_8_8_8,
-   *           GL_UNSIGNED_INT_8_8_8_8_REV,
-   *           GL_UNSIGNED_INT_10_10_10_2,
-   *           GL_UNSIGNED_INT_2_10_10_10_REV,
-   *           GL_UNSIGNED_INT_24_8,
-   *           GL_UNSIGNED_INT_10F_11F_11F_REV,
-   *           GL_UNSIGNED_INT_5_9_9_9_REV, and
-   *           GL_FLOAT_32_UNSIGNED_INT_24_8_REV.
+   * types are GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT, GL_SHORT,
+   * GL_UNSIGNED_INT, GL_INT, GL_HALF_FLOAT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   * GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   * GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   * GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   * GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   * GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2,
+   * GL_UNSIGNED_INT_2_10_10_10_REV, GL_UNSIGNED_INT_24_8,
+   * GL_UNSIGNED_INT_10F_11F_11F_REV, GL_UNSIGNED_INT_5_9_9_9_REV, and
+   * GL_FLOAT_32_UNSIGNED_INT_24_8_REV.
    *
-   * @param [bufSize] Specifies the size of the buffer pixels
-   *           for glGetnTexImage and
-   *           glGetTextureImage functions.
+   * @param [bufSize] Specifies the size of the buffer pixels for glGetnTexImage
+   * and glGetTextureImage functions.
    *
    * @param [pixels] Returns the texture image. Should be a pointer to an array
    * of the type specified by type.
@@ -3769,17 +3361,12 @@ extern "C"
   /**
    * glPolygonMode — select a polygon rasterization mode
    *
-   * @param [face] Specifies the polygons that mode applies to.
-   *                     Must be GL_FRONT_AND_BACK for front- and back-facing
-   * polygons.
+   * @param [face] Specifies the polygons that mode applies to. Must be
+   * GL_FRONT_AND_BACK for front- and back-facing polygons.
    *
-   * @param [mode] Specifies how polygons will be rasterized.
-   *                     Accepted values are
-   *                     GL_POINT,
-   *                     GL_LINE, and
-   *                     GL_FILL.
-   *                     The initial value is GL_FILL for both front- and
-   * back-facing polygons.
+   * @param [mode] Specifies how polygons will be rasterized. Accepted values
+   * are GL_POINT, GL_LINE, and GL_FILL. The initial value is GL_FILL for both
+   * front- and back-facing polygons.
    */
   static inline void glPolygonMode(GLenum face, GLenum mode)
   {
@@ -3801,25 +3388,17 @@ extern "C"
    * glStencilFunc — set front and back function and reference value for stencil
    * testing
    *
-   * @param [func] Specifies the test function.
-   *                     Eight symbolic constants are valid:
-   *                     GL_NEVER,
-   *                     GL_LESS,
-   *                     GL_LEQUAL,
-   *                     GL_GREATER,
-   *                     GL_GEQUAL,
-   *                     GL_EQUAL,
-   *                     GL_NOTEQUAL, and
-   *                     GL_ALWAYS. The initial value is GL_ALWAYS.
+   * @param [func] Specifies the test function. Eight symbolic constants are
+   * valid: GL_NEVER, GL_LESS, GL_LEQUAL, GL_GREATER, GL_GEQUAL, GL_EQUAL,
+   * GL_NOTEQUAL, and GL_ALWAYS. The initial value is GL_ALWAYS.
    *
    * @param [ref] Specifies the reference value for the stencil test. ref is
-   *              clamped to the range [0, (2^n) − 1], where n is the number of
-   *              bitplanes in the stencil buffer. The initial value is 0.
-   *
+   * clamped to the range [0, 2^n - 1] , where n is the number of bitplanes in
+   * the stencil buffer. The initial value is 0.
    *
    * @param [mask] Specifies a mask that is ANDed with both the reference value
-   *                     and the stored stencil value when the test is done. The
-   * initial value is all 1's.
+   * and the stored stencil value when the test is done. The initial value is
+   * all 1's.
    */
   static inline void glStencilFunc(GLenum func, GLint ref, GLuint mask)
   {
@@ -3871,12 +3450,26 @@ extern "C"
    * object's data store into the client's address space
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glUnmapBuffer, which must be
-   *                     one of the buffer binding targets in the following
-   *                     table:
+   * for glUnmapBuffer, which must be one of the buffer binding targets in the
+   * following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glUnmapNamedBuffer.
+   * glUnmapNamedBuffer.
    */
   static inline GLboolean glUnmapBuffer(GLenum target)
   {
@@ -3887,12 +3480,26 @@ extern "C"
    * object's data store into the client's address space
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glUnmapBuffer, which must be
-   *                     one of the buffer binding targets in the following
-   *                     table:
+   * for glUnmapBuffer, which must be one of the buffer binding targets in the
+   * following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glUnmapNamedBuffer.
+   * glUnmapNamedBuffer.
    */
   static inline GLboolean glUnmapNamedBuffer(GLuint buffer)
   {
@@ -3901,8 +3508,8 @@ extern "C"
   /**
    * glAttachShader — Attaches a shader object to a program object
    *
-   * @param [program] Specifies the program object to which a shader
-   *                     object will be attached.
+   * @param [program] Specifies the program object to which a shader object will
+   * be attached.
    *
    * @param [shader] Specifies the shader object that is to be attached.
    */
@@ -3947,20 +3554,16 @@ extern "C"
   /**
    * glClearStencil — specify the clear value for the stencil buffer
    *
-   * @param [s] Specifies the index used when the stencil buffer is cleared.
-   *                     The initial value is 0.
+   * @param [s] Specifies the index used when the stencil buffer is cleared. The
+   * initial value is 0.
    */
   static inline void glClearStencil(GLint s) { glad_glClearStencil(s); }
   /**
    * glCreateShader — Creates a shader object
    *
-   * @param [shaderType] Specifies the type of shader to be created.
-   *                     Must be one of GL_COMPUTE_SHADER,
-   *                     GL_VERTEX_SHADER,
-   *                     GL_TESS_CONTROL_SHADER,
-   *                     GL_TESS_EVALUATION_SHADER,
-   *                     GL_GEOMETRY_SHADER,
-   *                     or GL_FRAGMENT_SHADER.
+   * @param [shaderType] Specifies the type of shader to be created. Must be one
+   * of GL_COMPUTE_SHADER, GL_VERTEX_SHADER, GL_TESS_CONTROL_SHADER,
+   * GL_TESS_EVALUATION_SHADER, GL_GEOMETRY_SHADER, or GL_FRAGMENT_SHADER.
    */
   static inline GLuint glCreateShader(GLenum shaderType)
   {
@@ -3979,11 +3582,10 @@ extern "C"
    * glDetachShader — Detaches a shader object from a program object to which it
    * is attached
    *
-   * @param [program] Specifies the program object from which to
-   *             detach the shader object.
+   * @param [program] Specifies the program object from which to detach the
+   * shader object.
    *
-   * @param [shader] Specifies the shader object to be
-   *             detached.
+   * @param [shader] Specifies the shader object to be detached.
    */
   static inline void glDetachShader(GLuint program, GLuint shader)
   {
@@ -3992,26 +3594,16 @@ extern "C"
   /**
    * glDrawElements — render primitives from array data
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY and GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY and GL_PATCHES are accepted.
    *
    * @param [count] Specifies the number of elements to be rendered.
    *
    * @param [type] Specifies the type of the values in indices. Must be one of
-   *                     GL_UNSIGNED_BYTE, GL_UNSIGNED_SHORT, or
-   *                     GL_UNSIGNED_INT.
+   * GL_UNSIGNED_BYTE, GL_UNSIGNED_SHORT, or GL_UNSIGNED_INT.
    *
    * @param [indices] Specifies an offset of the first index in the array in the
    * data store of the buffer currently bound to the GL_ELEMENT_ARRAY_BUFFER
@@ -4078,17 +3670,14 @@ extern "C"
   /**
    * glShaderSource — Replaces the source code in a shader object
    *
-   * @param [shader] Specifies the handle of the shader object
-   *                     whose source code is to be replaced.
+   * @param [shader] Specifies the handle of the shader object whose source code
+   * is to be replaced.
    *
-   * @param [count] Specifies the number of elements in the
-   *                     string and
-   *                     length
-   *                     arrays.
+   * @param [count] Specifies the number of elements in the string and length
+   * arrays.
    *
-   * @param [string] Specifies an array of pointers to strings
-   *                     containing the source code to be loaded into the
-   *                     shader.
+   * @param [string] Specifies an array of pointers to strings containing the
+   * source code to be loaded into the shader.
    *
    * @param [length] Specifies an array of string lengths.
    */
@@ -4101,43 +3690,24 @@ extern "C"
    * glTexParameter, glTextureParameter — set texture parameters
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glTexParameter functions. Must be one of
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY, or
-   *           GL_TEXTURE_RECTANGLE.
+   * glTexParameter functions. Must be one of GL_TEXTURE_1D,
+   * GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D,
+   * GL_TEXTURE_CUBE_MAP, GL_TEXTURE_CUBE_MAP_ARRAY, or GL_TEXTURE_RECTANGLE.
    *
-   * @param [texture] Specifies the texture object name for
-   *           glTextureParameter functions.
+   * @param [texture] Specifies the texture object name for glTextureParameter
+   * functions.
    *
    * @param [pname] Specifies the symbolic name of a single-valued texture
-   *           parameter. pname can be one of the following:
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, or
-   *           GL_TEXTURE_WRAP_R.
+   * parameter. pname can be one of the following:
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_TEXTURE_BASE_LEVEL,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_COMPARE_MODE, GL_TEXTURE_LOD_BIAS,
+   * GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_SWIZZLE_R,
+   * GL_TEXTURE_SWIZZLE_G, GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A,
+   * GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T, or GL_TEXTURE_WRAP_R.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *           pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
    * @param [params] For the vector commands, specifies a pointer to an array
    * where the value or values of pname are stored.
@@ -4150,43 +3720,24 @@ extern "C"
    * glTexParameter, glTextureParameter — set texture parameters
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glTexParameter functions. Must be one of
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY, or
-   *           GL_TEXTURE_RECTANGLE.
+   * glTexParameter functions. Must be one of GL_TEXTURE_1D,
+   * GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D,
+   * GL_TEXTURE_CUBE_MAP, GL_TEXTURE_CUBE_MAP_ARRAY, or GL_TEXTURE_RECTANGLE.
    *
-   * @param [texture] Specifies the texture object name for
-   *           glTextureParameter functions.
+   * @param [texture] Specifies the texture object name for glTextureParameter
+   * functions.
    *
    * @param [pname] Specifies the symbolic name of a single-valued texture
-   *           parameter. pname can be one of the following:
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, or
-   *           GL_TEXTURE_WRAP_R.
+   * parameter. pname can be one of the following:
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_TEXTURE_BASE_LEVEL,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_COMPARE_MODE, GL_TEXTURE_LOD_BIAS,
+   * GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_SWIZZLE_R,
+   * GL_TEXTURE_SWIZZLE_G, GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A,
+   * GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T, or GL_TEXTURE_WRAP_R.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *           pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
    * @param [params] For the vector commands, specifies a pointer to an array
    * where the value or values of pname are stored.
@@ -4199,43 +3750,24 @@ extern "C"
    * glTexParameter, glTextureParameter — set texture parameters
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glTexParameter functions. Must be one of
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY, or
-   *           GL_TEXTURE_RECTANGLE.
+   * glTexParameter functions. Must be one of GL_TEXTURE_1D,
+   * GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D,
+   * GL_TEXTURE_CUBE_MAP, GL_TEXTURE_CUBE_MAP_ARRAY, or GL_TEXTURE_RECTANGLE.
    *
-   * @param [texture] Specifies the texture object name for
-   *           glTextureParameter functions.
+   * @param [texture] Specifies the texture object name for glTextureParameter
+   * functions.
    *
    * @param [pname] Specifies the symbolic name of a single-valued texture
-   *           parameter. pname can be one of the following:
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, or
-   *           GL_TEXTURE_WRAP_R.
+   * parameter. pname can be one of the following:
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_TEXTURE_BASE_LEVEL,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_COMPARE_MODE, GL_TEXTURE_LOD_BIAS,
+   * GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_SWIZZLE_R,
+   * GL_TEXTURE_SWIZZLE_G, GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A,
+   * GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T, or GL_TEXTURE_WRAP_R.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *           pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
    * @param [params] For the vector commands, specifies a pointer to an array
    * where the value or values of pname are stored.
@@ -4249,43 +3781,24 @@ extern "C"
    * glTexParameter, glTextureParameter — set texture parameters
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glTexParameter functions. Must be one of
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY, or
-   *           GL_TEXTURE_RECTANGLE.
+   * glTexParameter functions. Must be one of GL_TEXTURE_1D,
+   * GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D,
+   * GL_TEXTURE_CUBE_MAP, GL_TEXTURE_CUBE_MAP_ARRAY, or GL_TEXTURE_RECTANGLE.
    *
-   * @param [texture] Specifies the texture object name for
-   *           glTextureParameter functions.
+   * @param [texture] Specifies the texture object name for glTextureParameter
+   * functions.
    *
    * @param [pname] Specifies the symbolic name of a single-valued texture
-   *           parameter. pname can be one of the following:
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, or
-   *           GL_TEXTURE_WRAP_R.
+   * parameter. pname can be one of the following:
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_TEXTURE_BASE_LEVEL,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_COMPARE_MODE, GL_TEXTURE_LOD_BIAS,
+   * GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_SWIZZLE_R,
+   * GL_TEXTURE_SWIZZLE_G, GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A,
+   * GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T, or GL_TEXTURE_WRAP_R.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *           pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
    * @param [params] For the vector commands, specifies a pointer to an array
    * where the value or values of pname are stored.
@@ -4299,43 +3812,24 @@ extern "C"
    * glTexParameter, glTextureParameter — set texture parameters
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glTexParameter functions. Must be one of
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY, or
-   *           GL_TEXTURE_RECTANGLE.
+   * glTexParameter functions. Must be one of GL_TEXTURE_1D,
+   * GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D,
+   * GL_TEXTURE_CUBE_MAP, GL_TEXTURE_CUBE_MAP_ARRAY, or GL_TEXTURE_RECTANGLE.
    *
-   * @param [texture] Specifies the texture object name for
-   *           glTextureParameter functions.
+   * @param [texture] Specifies the texture object name for glTextureParameter
+   * functions.
    *
    * @param [pname] Specifies the symbolic name of a single-valued texture
-   *           parameter. pname can be one of the following:
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, or
-   *           GL_TEXTURE_WRAP_R.
+   * parameter. pname can be one of the following:
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_TEXTURE_BASE_LEVEL,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_COMPARE_MODE, GL_TEXTURE_LOD_BIAS,
+   * GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_SWIZZLE_R,
+   * GL_TEXTURE_SWIZZLE_G, GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A,
+   * GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T, or GL_TEXTURE_WRAP_R.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *           pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
    * @param [params] For the vector commands, specifies a pointer to an array
    * where the value or values of pname are stored.
@@ -4349,43 +3843,24 @@ extern "C"
    * glTexParameter, glTextureParameter — set texture parameters
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glTexParameter functions. Must be one of
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY, or
-   *           GL_TEXTURE_RECTANGLE.
+   * glTexParameter functions. Must be one of GL_TEXTURE_1D,
+   * GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D,
+   * GL_TEXTURE_CUBE_MAP, GL_TEXTURE_CUBE_MAP_ARRAY, or GL_TEXTURE_RECTANGLE.
    *
-   * @param [texture] Specifies the texture object name for
-   *           glTextureParameter functions.
+   * @param [texture] Specifies the texture object name for glTextureParameter
+   * functions.
    *
    * @param [pname] Specifies the symbolic name of a single-valued texture
-   *           parameter. pname can be one of the following:
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, or
-   *           GL_TEXTURE_WRAP_R.
+   * parameter. pname can be one of the following:
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_TEXTURE_BASE_LEVEL,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_COMPARE_MODE, GL_TEXTURE_LOD_BIAS,
+   * GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_SWIZZLE_R,
+   * GL_TEXTURE_SWIZZLE_G, GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A,
+   * GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T, or GL_TEXTURE_WRAP_R.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *           pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
    * @param [params] For the vector commands, specifies a pointer to an array
    * where the value or values of pname are stored.
@@ -4399,43 +3874,24 @@ extern "C"
    * glTexParameter, glTextureParameter — set texture parameters
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glTexParameter functions. Must be one of
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY, or
-   *           GL_TEXTURE_RECTANGLE.
+   * glTexParameter functions. Must be one of GL_TEXTURE_1D,
+   * GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D,
+   * GL_TEXTURE_CUBE_MAP, GL_TEXTURE_CUBE_MAP_ARRAY, or GL_TEXTURE_RECTANGLE.
    *
-   * @param [texture] Specifies the texture object name for
-   *           glTextureParameter functions.
+   * @param [texture] Specifies the texture object name for glTextureParameter
+   * functions.
    *
    * @param [pname] Specifies the symbolic name of a single-valued texture
-   *           parameter. pname can be one of the following:
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, or
-   *           GL_TEXTURE_WRAP_R.
+   * parameter. pname can be one of the following:
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_TEXTURE_BASE_LEVEL,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_COMPARE_MODE, GL_TEXTURE_LOD_BIAS,
+   * GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_SWIZZLE_R,
+   * GL_TEXTURE_SWIZZLE_G, GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A,
+   * GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T, or GL_TEXTURE_WRAP_R.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *           pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
    * @param [params] For the vector commands, specifies a pointer to an array
    * where the value or values of pname are stored.
@@ -4449,43 +3905,24 @@ extern "C"
    * glTexParameter, glTextureParameter — set texture parameters
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glTexParameter functions. Must be one of
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY, or
-   *           GL_TEXTURE_RECTANGLE.
+   * glTexParameter functions. Must be one of GL_TEXTURE_1D,
+   * GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D,
+   * GL_TEXTURE_CUBE_MAP, GL_TEXTURE_CUBE_MAP_ARRAY, or GL_TEXTURE_RECTANGLE.
    *
-   * @param [texture] Specifies the texture object name for
-   *           glTextureParameter functions.
+   * @param [texture] Specifies the texture object name for glTextureParameter
+   * functions.
    *
    * @param [pname] Specifies the symbolic name of a single-valued texture
-   *           parameter. pname can be one of the following:
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, or
-   *           GL_TEXTURE_WRAP_R.
+   * parameter. pname can be one of the following:
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_TEXTURE_BASE_LEVEL,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_COMPARE_MODE, GL_TEXTURE_LOD_BIAS,
+   * GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_SWIZZLE_R,
+   * GL_TEXTURE_SWIZZLE_G, GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A,
+   * GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T, or GL_TEXTURE_WRAP_R.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *           pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
    * @param [params] For the vector commands, specifies a pointer to an array
    * where the value or values of pname are stored.
@@ -4499,43 +3936,24 @@ extern "C"
    * glTexParameter, glTextureParameter — set texture parameters
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glTexParameter functions. Must be one of
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY, or
-   *           GL_TEXTURE_RECTANGLE.
+   * glTexParameter functions. Must be one of GL_TEXTURE_1D,
+   * GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D,
+   * GL_TEXTURE_CUBE_MAP, GL_TEXTURE_CUBE_MAP_ARRAY, or GL_TEXTURE_RECTANGLE.
    *
-   * @param [texture] Specifies the texture object name for
-   *           glTextureParameter functions.
+   * @param [texture] Specifies the texture object name for glTextureParameter
+   * functions.
    *
    * @param [pname] Specifies the symbolic name of a single-valued texture
-   *           parameter. pname can be one of the following:
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, or
-   *           GL_TEXTURE_WRAP_R.
+   * parameter. pname can be one of the following:
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_TEXTURE_BASE_LEVEL,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_COMPARE_MODE, GL_TEXTURE_LOD_BIAS,
+   * GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_SWIZZLE_R,
+   * GL_TEXTURE_SWIZZLE_G, GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A,
+   * GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T, or GL_TEXTURE_WRAP_R.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *           pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
    * @param [params] For the vector commands, specifies a pointer to an array
    * where the value or values of pname are stored.
@@ -4549,43 +3967,24 @@ extern "C"
    * glTexParameter, glTextureParameter — set texture parameters
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glTexParameter functions. Must be one of
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY, or
-   *           GL_TEXTURE_RECTANGLE.
+   * glTexParameter functions. Must be one of GL_TEXTURE_1D,
+   * GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D,
+   * GL_TEXTURE_CUBE_MAP, GL_TEXTURE_CUBE_MAP_ARRAY, or GL_TEXTURE_RECTANGLE.
    *
-   * @param [texture] Specifies the texture object name for
-   *           glTextureParameter functions.
+   * @param [texture] Specifies the texture object name for glTextureParameter
+   * functions.
    *
    * @param [pname] Specifies the symbolic name of a single-valued texture
-   *           parameter. pname can be one of the following:
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, or
-   *           GL_TEXTURE_WRAP_R.
+   * parameter. pname can be one of the following:
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_TEXTURE_BASE_LEVEL,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_COMPARE_MODE, GL_TEXTURE_LOD_BIAS,
+   * GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_SWIZZLE_R,
+   * GL_TEXTURE_SWIZZLE_G, GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A,
+   * GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T, or GL_TEXTURE_WRAP_R.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *           pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
    * @param [params] For the vector commands, specifies a pointer to an array
    * where the value or values of pname are stored.
@@ -4599,43 +3998,24 @@ extern "C"
    * glTexParameter, glTextureParameter — set texture parameters
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glTexParameter functions. Must be one of
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY, or
-   *           GL_TEXTURE_RECTANGLE.
+   * glTexParameter functions. Must be one of GL_TEXTURE_1D,
+   * GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D,
+   * GL_TEXTURE_CUBE_MAP, GL_TEXTURE_CUBE_MAP_ARRAY, or GL_TEXTURE_RECTANGLE.
    *
-   * @param [texture] Specifies the texture object name for
-   *           glTextureParameter functions.
+   * @param [texture] Specifies the texture object name for glTextureParameter
+   * functions.
    *
    * @param [pname] Specifies the symbolic name of a single-valued texture
-   *           parameter. pname can be one of the following:
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, or
-   *           GL_TEXTURE_WRAP_R.
+   * parameter. pname can be one of the following:
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_TEXTURE_BASE_LEVEL,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_COMPARE_MODE, GL_TEXTURE_LOD_BIAS,
+   * GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_SWIZZLE_R,
+   * GL_TEXTURE_SWIZZLE_G, GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A,
+   * GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T, or GL_TEXTURE_WRAP_R.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *           pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
    * @param [params] For the vector commands, specifies a pointer to an array
    * where the value or values of pname are stored.
@@ -4649,43 +4029,24 @@ extern "C"
    * glTexParameter, glTextureParameter — set texture parameters
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glTexParameter functions. Must be one of
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY, or
-   *           GL_TEXTURE_RECTANGLE.
+   * glTexParameter functions. Must be one of GL_TEXTURE_1D,
+   * GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D,
+   * GL_TEXTURE_CUBE_MAP, GL_TEXTURE_CUBE_MAP_ARRAY, or GL_TEXTURE_RECTANGLE.
    *
-   * @param [texture] Specifies the texture object name for
-   *           glTextureParameter functions.
+   * @param [texture] Specifies the texture object name for glTextureParameter
+   * functions.
    *
    * @param [pname] Specifies the symbolic name of a single-valued texture
-   *           parameter. pname can be one of the following:
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, or
-   *           GL_TEXTURE_WRAP_R.
+   * parameter. pname can be one of the following:
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_TEXTURE_BASE_LEVEL,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_COMPARE_MODE, GL_TEXTURE_LOD_BIAS,
+   * GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_SWIZZLE_R,
+   * GL_TEXTURE_SWIZZLE_G, GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A,
+   * GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T, or GL_TEXTURE_WRAP_R.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *           pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
    * @param [params] For the vector commands, specifies a pointer to an array
    * where the value or values of pname are stored.
@@ -4699,16 +4060,12 @@ extern "C"
    * glTexStorage1D, glTextureStorage1D — simultaneously specify storage for all
    * levels of a one-dimensional texture
    *
-   * @param [target] Specifies the target to which the texture object is
-   *                     bound for glTexStorage1D. Must be
-   *                     one of GL_TEXTURE_1D or
-   *                     GL_PROXY_TEXTURE_1D.
+   * @param [target] Specifies the target to which the texture object is bound
+   * for glTexStorage1D. Must be one of GL_TEXTURE_1D or GL_PROXY_TEXTURE_1D.
    *
-   * @param [texture] Specifies the texture object name for
-   *                     glTextureStorage1D. The effective
-   *                     target of texture must be one of
-   *                     the valid non-proxy target values
-   *                     above.
+   * @param [texture] Specifies the texture object name for glTextureStorage1D.
+   * The effective target of texture must be one of the valid non-proxy target
+   * values above.
    *
    * @param [levels] Specify the number of texture levels.
    *
@@ -4726,16 +4083,12 @@ extern "C"
    * glTexStorage1D, glTextureStorage1D — simultaneously specify storage for all
    * levels of a one-dimensional texture
    *
-   * @param [target] Specifies the target to which the texture object is
-   *                     bound for glTexStorage1D. Must be
-   *                     one of GL_TEXTURE_1D or
-   *                     GL_PROXY_TEXTURE_1D.
+   * @param [target] Specifies the target to which the texture object is bound
+   * for glTexStorage1D. Must be one of GL_TEXTURE_1D or GL_PROXY_TEXTURE_1D.
    *
-   * @param [texture] Specifies the texture object name for
-   *                     glTextureStorage1D. The effective
-   *                     target of texture must be one of
-   *                     the valid non-proxy target values
-   *                     above.
+   * @param [texture] Specifies the texture object name for glTextureStorage1D.
+   * The effective target of texture must be one of the valid non-proxy target
+   * values above.
    *
    * @param [levels] Specify the number of texture levels.
    *
@@ -4753,21 +4106,14 @@ extern "C"
    * glTexStorage2D, glTextureStorage2D — simultaneously specify storage for all
    * levels of a two-dimensional or one-dimensional array texture
    *
-   * @param [target] Specifies the target to which the texture object is
-   *                     bound for glTexStorage2D. Must be
-   *                     one of GL_TEXTURE_2D,
-   *                     GL_TEXTURE_1D_ARRAY,
-   *                     GL_TEXTURE_RECTANGLE,
-   *                     GL_PROXY_TEXTURE_2D,
-   *                     GL_PROXY_TEXTURE_1D_ARRAY,
-   *                     GL_PROXY_TEXTURE_RECTANGLE, or
-   *                     GL_PROXY_TEXTURE_CUBE_MAP.
+   * @param [target] Specifies the target to which the texture object is bound
+   * for glTexStorage2D. Must be one of GL_TEXTURE_2D, GL_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_RECTANGLE, GL_PROXY_TEXTURE_2D, GL_PROXY_TEXTURE_1D_ARRAY,
+   * GL_PROXY_TEXTURE_RECTANGLE, or GL_PROXY_TEXTURE_CUBE_MAP.
    *
-   * @param [texture] Specifies the texture object name for
-   *                     glTextureStorage2D. The effective
-   *                     target of texture must be one of
-   *                     the valid non-proxy target values
-   *                     above.
+   * @param [texture] Specifies the texture object name for glTextureStorage2D.
+   * The effective target of texture must be one of the valid non-proxy target
+   * values above.
    *
    * @param [levels] Specify the number of texture levels.
    *
@@ -4788,21 +4134,14 @@ extern "C"
    * glTexStorage2D, glTextureStorage2D — simultaneously specify storage for all
    * levels of a two-dimensional or one-dimensional array texture
    *
-   * @param [target] Specifies the target to which the texture object is
-   *                     bound for glTexStorage2D. Must be
-   *                     one of GL_TEXTURE_2D,
-   *                     GL_TEXTURE_1D_ARRAY,
-   *                     GL_TEXTURE_RECTANGLE,
-   *                     GL_PROXY_TEXTURE_2D,
-   *                     GL_PROXY_TEXTURE_1D_ARRAY,
-   *                     GL_PROXY_TEXTURE_RECTANGLE, or
-   *                     GL_PROXY_TEXTURE_CUBE_MAP.
+   * @param [target] Specifies the target to which the texture object is bound
+   * for glTexStorage2D. Must be one of GL_TEXTURE_2D, GL_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_RECTANGLE, GL_PROXY_TEXTURE_2D, GL_PROXY_TEXTURE_1D_ARRAY,
+   * GL_PROXY_TEXTURE_RECTANGLE, or GL_PROXY_TEXTURE_CUBE_MAP.
    *
-   * @param [texture] Specifies the texture object name for
-   *                     glTextureStorage2D. The effective
-   *                     target of texture must be one of
-   *                     the valid non-proxy target values
-   *                     above.
+   * @param [texture] Specifies the texture object name for glTextureStorage2D.
+   * The effective target of texture must be one of the valid non-proxy target
+   * values above.
    *
    * @param [levels] Specify the number of texture levels.
    *
@@ -4824,20 +4163,14 @@ extern "C"
    * levels of a three-dimensional, two-dimensional array or cube-map array
    * texture
    *
-   * @param [target] Specifies the target to which the texture object is
-   *                     bound for glTexStorage3D. Must be
-   *                     one of GL_TEXTURE_3D,
-   *                     GL_TEXTURE_2D_ARRAY,
-   *                     GL_TEXTURE_CUBE_ARRAY,
-   *                     GL_PROXY_TEXTURE_3D,
-   *                     GL_PROXY_TEXTURE_2D_ARRAY or
-   *                     GL_PROXY_TEXTURE_CUBE_ARRAY.
+   * @param [target] Specifies the target to which the texture object is bound
+   * for glTexStorage3D. Must be one of GL_TEXTURE_3D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_CUBE_ARRAY, GL_PROXY_TEXTURE_3D, GL_PROXY_TEXTURE_2D_ARRAY or
+   * GL_PROXY_TEXTURE_CUBE_ARRAY.
    *
-   * @param [texture] Specifies the texture object name for
-   *                     glTextureStorage3D. The effective
-   *                     target of texture must be one of
-   *                     the valid non-proxy target values
-   *                     above.
+   * @param [texture] Specifies the texture object name for glTextureStorage3D.
+   * The effective target of texture must be one of the valid non-proxy target
+   * values above.
    *
    * @param [levels] Specify the number of texture levels.
    *
@@ -4861,20 +4194,14 @@ extern "C"
    * levels of a three-dimensional, two-dimensional array or cube-map array
    * texture
    *
-   * @param [target] Specifies the target to which the texture object is
-   *                     bound for glTexStorage3D. Must be
-   *                     one of GL_TEXTURE_3D,
-   *                     GL_TEXTURE_2D_ARRAY,
-   *                     GL_TEXTURE_CUBE_ARRAY,
-   *                     GL_PROXY_TEXTURE_3D,
-   *                     GL_PROXY_TEXTURE_2D_ARRAY or
-   *                     GL_PROXY_TEXTURE_CUBE_ARRAY.
+   * @param [target] Specifies the target to which the texture object is bound
+   * for glTexStorage3D. Must be one of GL_TEXTURE_3D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_CUBE_ARRAY, GL_PROXY_TEXTURE_3D, GL_PROXY_TEXTURE_2D_ARRAY or
+   * GL_PROXY_TEXTURE_CUBE_ARRAY.
    *
-   * @param [texture] Specifies the texture object name for
-   *                     glTextureStorage3D. The effective
-   *                     target of texture must be one of
-   *                     the valid non-proxy target values
-   *                     above.
+   * @param [texture] Specifies the texture object name for glTextureStorage3D.
+   * The effective target of texture must be one of the valid non-proxy target
+   * values above.
    *
    * @param [levels] Specify the number of texture levels.
    *
@@ -4897,36 +4224,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib1f(GLuint index, GLfloat v0)
   {
@@ -4935,36 +4254,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib1s(GLuint index, GLshort v0)
   {
@@ -4973,36 +4284,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib1d(GLuint index, GLdouble v0)
   {
@@ -5011,36 +4314,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI1i(GLuint index, GLint v0)
   {
@@ -5049,36 +4344,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI1ui(GLuint index, GLuint v0)
   {
@@ -5087,36 +4374,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib2f(GLuint index, GLfloat v0, GLfloat v1)
   {
@@ -5125,36 +4404,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib2s(GLuint index, GLshort v0, GLshort v1)
   {
@@ -5163,36 +4434,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib2d(GLuint index, GLdouble v0, GLdouble v1)
   {
@@ -5201,36 +4464,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI2i(GLuint index, GLint v0, GLint v1)
   {
@@ -5239,36 +4494,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI2ui(GLuint index, GLuint v0, GLuint v1)
   {
@@ -5277,36 +4524,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib3f(GLuint index, GLfloat v0, GLfloat v1,
                                       GLfloat v2)
@@ -5316,36 +4555,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib3s(GLuint index, GLshort v0, GLshort v1,
                                       GLshort v2)
@@ -5355,36 +4586,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib3d(GLuint index, GLdouble v0, GLdouble v1,
                                       GLdouble v2)
@@ -5394,36 +4617,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI3i(GLuint index, GLint v0, GLint v1,
                                        GLint v2)
@@ -5433,36 +4648,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI3ui(GLuint index, GLuint v0, GLuint v1,
                                         GLuint v2)
@@ -5472,36 +4679,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4f(GLuint index, GLfloat v0, GLfloat v1,
                                       GLfloat v2, GLfloat v3)
@@ -5511,36 +4710,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4s(GLuint index, GLshort v0, GLshort v1,
                                       GLshort v2, GLshort v3)
@@ -5550,36 +4741,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4d(GLuint index, GLdouble v0, GLdouble v1,
                                       GLdouble v2, GLdouble v3)
@@ -5589,36 +4772,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4Nub(GLuint index, GLubyte v0, GLubyte v1,
                                         GLubyte v2, GLubyte v3)
@@ -5628,36 +4803,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI4i(GLuint index, GLint v0, GLint v1,
                                        GLint v2, GLint v3)
@@ -5667,36 +4834,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI4ui(GLuint index, GLuint v0, GLuint v1,
                                         GLuint v2, GLuint v3)
@@ -5706,36 +4865,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribL1d(GLuint index, GLdouble v0)
   {
@@ -5744,36 +4895,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribL2d(GLuint index, GLdouble v0, GLdouble v1)
   {
@@ -5782,36 +4925,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribL3d(GLuint index, GLdouble v0, GLdouble v1,
                                        GLdouble v2)
@@ -5821,36 +4956,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribL4d(GLuint index, GLdouble v0, GLdouble v1,
                                        GLdouble v2, GLdouble v3)
@@ -5860,36 +4987,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib1fv(GLuint index, const GLfloat *v)
   {
@@ -5898,36 +5017,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib1sv(GLuint index, const GLshort *v)
   {
@@ -5936,36 +5047,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib1dv(GLuint index, const GLdouble *v)
   {
@@ -5974,36 +5077,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI1iv(GLuint index, const GLint *v)
   {
@@ -6012,36 +5107,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI1uiv(GLuint index, const GLuint *v)
   {
@@ -6050,36 +5137,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib2fv(GLuint index, const GLfloat *v)
   {
@@ -6088,36 +5167,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib2sv(GLuint index, const GLshort *v)
   {
@@ -6126,36 +5197,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib2dv(GLuint index, const GLdouble *v)
   {
@@ -6164,36 +5227,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI2iv(GLuint index, const GLint *v)
   {
@@ -6202,36 +5257,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI2uiv(GLuint index, const GLuint *v)
   {
@@ -6240,36 +5287,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib3fv(GLuint index, const GLfloat *v)
   {
@@ -6278,36 +5317,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib3sv(GLuint index, const GLshort *v)
   {
@@ -6316,36 +5347,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib3dv(GLuint index, const GLdouble *v)
   {
@@ -6354,36 +5377,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI3iv(GLuint index, const GLint *v)
   {
@@ -6392,36 +5407,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI3uiv(GLuint index, const GLuint *v)
   {
@@ -6430,36 +5437,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4fv(GLuint index, const GLfloat *v)
   {
@@ -6468,36 +5467,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4sv(GLuint index, const GLshort *v)
   {
@@ -6506,36 +5497,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4dv(GLuint index, const GLdouble *v)
   {
@@ -6544,36 +5527,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4iv(GLuint index, const GLint *v)
   {
@@ -6582,36 +5557,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4bv(GLuint index, const GLbyte *v)
   {
@@ -6620,36 +5587,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4ubv(GLuint index, const GLubyte *v)
   {
@@ -6658,36 +5617,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4usv(GLuint index, const GLushort *v)
   {
@@ -6696,36 +5647,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4uiv(GLuint index, const GLuint *v)
   {
@@ -6734,36 +5677,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4Nbv(GLuint index, const GLbyte *v)
   {
@@ -6772,36 +5707,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4Nsv(GLuint index, const GLshort *v)
   {
@@ -6810,36 +5737,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4Niv(GLuint index, const GLint *v)
   {
@@ -6848,36 +5767,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4Nubv(GLuint index, const GLubyte *v)
   {
@@ -6886,36 +5797,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4Nusv(GLuint index, const GLushort *v)
   {
@@ -6924,36 +5827,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttrib4Nuiv(GLuint index, const GLuint *v)
   {
@@ -6962,36 +5857,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI4bv(GLuint index, const GLbyte *v)
   {
@@ -7000,36 +5887,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI4ubv(GLuint index, const GLubyte *v)
   {
@@ -7038,36 +5917,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI4sv(GLuint index, const GLshort *v)
   {
@@ -7076,36 +5947,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI4usv(GLuint index, const GLushort *v)
   {
@@ -7114,36 +5977,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI4iv(GLuint index, const GLint *v)
   {
@@ -7152,36 +6007,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribI4uiv(GLuint index, const GLuint *v)
   {
@@ -7190,36 +6037,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribL1dv(GLuint index, const GLdouble *v)
   {
@@ -7228,36 +6067,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribL2dv(GLuint index, const GLdouble *v)
   {
@@ -7266,36 +6097,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribL3dv(GLuint index, const GLdouble *v)
   {
@@ -7304,36 +6127,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribL4dv(GLuint index, const GLdouble *v)
   {
@@ -7342,36 +6157,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribP1ui(GLuint index, GLenum type,
                                         GLboolean normalized, GLuint value)
@@ -7381,36 +6188,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribP2ui(GLuint index, GLenum type,
                                         GLboolean normalized, GLuint value)
@@ -7420,36 +6219,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribP3ui(GLuint index, GLenum type,
                                         GLboolean normalized, GLuint value)
@@ -7459,36 +6250,28 @@ extern "C"
   /**
    * glVertexAttrib — Specifies the value of a generic vertex attribute
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
    * @param [v0, v1, v2, v3] For the scalar commands, specifies the new values
    * to be used for the specified vertex attribute.
    *
-   * @param [v] For the vector commands
-   *                 (glVertexAttrib*v), specifies a pointer
-   *                 to an array of values to be used for the generic vertex
-   *                 attribute.
+   * @param [v] For the vector commands (glVertexAttrib*v), specifies a pointer
+   * to an array of values to be used for the generic vertex attribute.
    *
-   * @param [type] For the packed commands
-   *                 (glVertexAttribP*), specified the type
-   *                 of packing used on the data. This parameter must be
-   *                 GL_INT_2_10_10_10_REV or
-   *                 GL_UNSIGNED_INT_2_10_10_10_REV, to
-   *                 specify signed or unsigned data, respectively, or
-   *                 GL_UNSIGNED_INT_10F_11F_11F_REV to
-   *                 specify floating point data.
+   * @param [type] For the packed commands (glVertexAttribP*), specified the
+   * type of packing used on the data. This parameter must be
+   * GL_INT_2_10_10_10_REV or GL_UNSIGNED_INT_2_10_10_10_REV, to specify signed
+   * or unsigned data, respectively, or GL_UNSIGNED_INT_10F_11F_11F_REV to
+   * specify floating point data.
    *
-   * @param [normalized] For the packed commands, if GL_TRUE,
-   *                 then the values are to be converted to floating point
-   * values by normalizing. Otherwise, they are converted directly to
-   *                 floating-point values. If type
-   *                 indicates a floating-pont format, then
-   *                 normalized value must be
-   *                 GL_FALSE.
+   * @param [normalized] For the packed commands, if GL_TRUE, then the values
+   * are to be converted to floating point values by normalizing. Otherwise,
+   * they are converted directly to floating-point values. If type indicates a
+   * floating-pont format, then normalized value must be GL_FALSE.
    *
    * @param [value] For the packed commands, specifies the new packed value to
-   *                 be used for the specified vertex attribute.
+   * be used for the specified vertex attribute.
    */
   static inline void glVertexAttribP4ui(GLuint index, GLenum type,
                                         GLboolean normalized, GLuint value)
@@ -7498,16 +6281,11 @@ extern "C"
   /**
    * glActiveTexture — select active texture unit
    *
-   * @param [texture] Specifies which texture unit to make active. The number
-   *                     of texture units is implementation dependent, but must
-   *                     be at least 80. texture must be
-   *                     one of
-   *                     GL_TEXTUREi,
-   *                     where i ranges from zero to the value
-   *                     of
-   *                     GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS
-   *                     minus one. The initial value is
-   *                     GL_TEXTURE0.
+   * @param [texture] Specifies which texture unit to make active. The number of
+   * texture units is implementation dependent, but must be at least 80. texture
+   * must be one of GL_TEXTUREi, where i ranges from zero to the value of
+   * GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS minus one. The initial value is
+   * GL_TEXTURE0.
    */
   static inline void glActiveTexture(GLenum texture)
   {
@@ -7518,11 +6296,11 @@ extern "C"
    * and the Alpha blend equation
    *
    * @param [buf] for glBlendEquationi, specifies the index of the draw buffer
-   *                     for which to set the blend equation.
+   * for which to set the blend equation.
    *
-   * @param [mode] specifies how source and destination colors are combined.
-   *                     It must be GL_FUNC_ADD, GL_FUNC_SUBTRACT,
-   *                     GL_FUNC_REVERSE_SUBTRACT, GL_MIN, GL_MAX.
+   * @param [mode] specifies how source and destination colors are combined. It
+   * must be GL_FUNC_ADD, GL_FUNC_SUBTRACT, GL_FUNC_REVERSE_SUBTRACT, GL_MIN,
+   * GL_MAX.
    */
   static inline void glBlendEquation(GLenum mode)
   {
@@ -7533,11 +6311,11 @@ extern "C"
    * and the Alpha blend equation
    *
    * @param [buf] for glBlendEquationi, specifies the index of the draw buffer
-   *                     for which to set the blend equation.
+   * for which to set the blend equation.
    *
-   * @param [mode] specifies how source and destination colors are combined.
-   *                     It must be GL_FUNC_ADD, GL_FUNC_SUBTRACT,
-   *                     GL_FUNC_REVERSE_SUBTRACT, GL_MIN, GL_MAX.
+   * @param [mode] specifies how source and destination colors are combined. It
+   * must be GL_FUNC_ADD, GL_FUNC_SUBTRACT, GL_FUNC_REVERSE_SUBTRACT, GL_MIN,
+   * GL_MAX.
    */
   static inline void glBlendEquationi(GLuint buf, GLenum mode)
   {
@@ -7548,29 +6326,37 @@ extern "C"
    object's immutable data store
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   for
-   *             glBufferStorage, which must be one of the
-   *             buffer binding targets in the following table:
+   for glBufferStorage, which must be one of the buffer binding targets in the
+   following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *           glNamedBufferStorage function.
+   glNamedBufferStorage function.
    *
    * @param [size] Specifies the size in bytes of the buffer object's new data
-   *           store.
+   store.
    *
    * @param [data] Specifies a pointer to data that will be copied into the data
-   *           store for initialization, or NULL if no data is
-   *           to be copied.
+   store for initialization, or NULL if no data is to be copied.
    *
    * @param [flags] Specifies the intended usage of the buffer's data store.
-   Must
-   *           be a bitwise combination of the following flags.
-   *           GL_DYNAMIC_STORAGE_BIT,
-   *           GL_MAP_READ_BIT
-   * GL_MAP_WRITE_BIT,
-   *           GL_MAP_PERSISTENT_BIT,
-   *           GL_MAP_COHERENT_BIT, and
-   *           GL_CLIENT_STORAGE_BIT.
+   Must be a bitwise combination of the following flags. GL_DYNAMIC_STORAGE_BIT,
+   GL_MAP_READ_BIT GL_MAP_WRITE_BIT, GL_MAP_PERSISTENT_BIT, GL_MAP_COHERENT_BIT,
+   and GL_CLIENT_STORAGE_BIT.
    */
   static inline void glBufferStorage(GLenum target, GLsizeiptr size,
                                      const GLvoid *data, GLbitfield flags)
@@ -7582,29 +6368,37 @@ extern "C"
    object's immutable data store
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   for
-   *             glBufferStorage, which must be one of the
-   *             buffer binding targets in the following table:
+   for glBufferStorage, which must be one of the buffer binding targets in the
+   following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *           glNamedBufferStorage function.
+   glNamedBufferStorage function.
    *
    * @param [size] Specifies the size in bytes of the buffer object's new data
-   *           store.
+   store.
    *
    * @param [data] Specifies a pointer to data that will be copied into the data
-   *           store for initialization, or NULL if no data is
-   *           to be copied.
+   store for initialization, or NULL if no data is to be copied.
    *
    * @param [flags] Specifies the intended usage of the buffer's data store.
-   Must
-   *           be a bitwise combination of the following flags.
-   *           GL_DYNAMIC_STORAGE_BIT,
-   *           GL_MAP_READ_BIT
-   * GL_MAP_WRITE_BIT,
-   *           GL_MAP_PERSISTENT_BIT,
-   *           GL_MAP_COHERENT_BIT, and
-   *           GL_CLIENT_STORAGE_BIT.
+   Must be a bitwise combination of the following flags. GL_DYNAMIC_STORAGE_BIT,
+   GL_MAP_READ_BIT GL_MAP_WRITE_BIT, GL_MAP_PERSISTENT_BIT, GL_MAP_COHERENT_BIT,
+   and GL_CLIENT_STORAGE_BIT.
    */
   static inline void glNamedBufferStorage(GLuint buffer, GLsizeiptr size,
                                           const void *data, GLbitfield flags)
@@ -7616,21 +6410,35 @@ extern "C"
    * object's data store
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glBufferSubData, which must be
-   *                     one of the buffer binding targets in the following
-   *                     table:
+   * for glBufferSubData, which must be one of the buffer binding targets in the
+   * following table:
    *
-   * @param [buffer] Specifies the name of the buffer object
-   *                     for glNamedBufferSubData.
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
+   *
+   * @param [buffer] Specifies the name of the buffer object for
+   * glNamedBufferSubData.
    *
    * @param [offset] Specifies the offset into the buffer object's data store
-   *                     where data replacement will begin, measured in bytes.
+   * where data replacement will begin, measured in bytes.
    *
-   * @param [size] Specifies the size in bytes of the data store region
-   *                     being replaced.
+   * @param [size] Specifies the size in bytes of the data store region being
+   * replaced.
    *
-   * @param [data] Specifies a pointer to the new data that will be copied
-   *                     into the data store.
+   * @param [data] Specifies a pointer to the new data that will be copied into
+   * the data store.
    */
   static inline void glBufferSubData(GLenum target, GLintptr offset,
                                      GLsizeiptr size, const GLvoid *data)
@@ -7642,21 +6450,35 @@ extern "C"
    * object's data store
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glBufferSubData, which must be
-   *                     one of the buffer binding targets in the following
-   *                     table:
+   * for glBufferSubData, which must be one of the buffer binding targets in the
+   * following table:
    *
-   * @param [buffer] Specifies the name of the buffer object
-   *                     for glNamedBufferSubData.
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
+   *
+   * @param [buffer] Specifies the name of the buffer object for
+   * glNamedBufferSubData.
    *
    * @param [offset] Specifies the offset into the buffer object's data store
-   *                     where data replacement will begin, measured in bytes.
+   * where data replacement will begin, measured in bytes.
    *
-   * @param [size] Specifies the size in bytes of the data store region
-   *                     being replaced.
+   * @param [size] Specifies the size in bytes of the data store region being
+   * replaced.
    *
-   * @param [data] Specifies a pointer to the new data that will be copied
-   *                     into the data store.
+   * @param [data] Specifies a pointer to the new data that will be copied into
+   * the data store.
    */
   static inline void glNamedBufferSubData(GLuint buffer, GLintptr offset,
                                           GLsizei size, const void *data)
@@ -7688,8 +6510,7 @@ extern "C"
   /**
    * glCompileShader — Compiles a shader object
    *
-   * @param [shader] Specifies the shader object to be
-   *             compiled.
+   * @param [shader] Specifies the shader object to be compiled.
    */
   static inline void glCompileShader(GLuint shader)
   {
@@ -7701,7 +6522,7 @@ extern "C"
    * @param [n] Specifies the number of buffer objects to create.
    *
    * @param [buffers] Specifies an array in which names of the new buffer
-   *                         objects are stored.
+   * objects are stored.
    */
   static inline void glCreateBuffers(GLsizei n, GLuint *buffers)
   {
@@ -7718,8 +6539,8 @@ extern "C"
    *
    * @param [n] Number of query objects to create.
    *
-   * @param [ids] Specifies an array in which names of the new query
-   *                         objects are stored.
+   * @param [ids] Specifies an array in which names of the new query objects are
+   * stored.
    */
   static inline void glCreateQueries(GLenum target, GLsizei n, GLuint *ids)
   {
@@ -7739,8 +6560,7 @@ extern "C"
   /**
    * glDeleteProgram — Deletes a program object
    *
-   * @param [program] Specifies the program object to be
-   *             deleted.
+   * @param [program] Specifies the program object to be deleted.
    */
   static inline void glDeleteProgram(GLuint program)
   {
@@ -7799,10 +6619,10 @@ extern "C"
    * glPolygonOffset — set the scale and units used to calculate depth values
    *
    * @param [factor] Specifies a scale factor that is used to create a variable
-   *                     depth offset for each polygon. The initial value is 0.
+   * depth offset for each polygon. The initial value is 0.
    *
-   * @param [units] Is multiplied by an implementation-specific value to
-   *                     create a constant depth offset. The initial value is 0.
+   * @param [units] Is multiplied by an implementation-specific value to create
+   * a constant depth offset. The initial value is 0.
    */
   static inline void glPolygonOffset(GLfloat factor, GLfloat units)
   {
@@ -7835,54 +6655,33 @@ extern "C"
    * subimage
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *                     glTexSubImage1D.
-   *                     Must be GL_TEXTURE_1D.
+   * glTexSubImage1D. Must be GL_TEXTURE_1D.
    *
-   * @param [texture] Specifies the texture object name for
-   *                     glTextureSubImage1D. The effective
-   *                     target of texture must be one of
-   *                     the valid target values above.
+   * @param [texture] Specifies the texture object name for glTextureSubImage1D.
+   * The effective target of texture must be one of the valid target values
+   * above.
    *
-   * @param [level] Specifies the level-of-detail number.
-   *                     Level 0 is the base image level.
-   *                     Level n is the nth mipmap reduction image.
+   * @param [level] Specifies the level-of-detail number. Level 0 is the base
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
    * texture array.
    *
    * @param [width] Specifies the width of the texture subimage.
    *
-   * @param [format] Specifies the format of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_RED,
-   *                     GL_RG,
-   *                     GL_RGB,
-   *                     GL_BGR,
-   *                     GL_RGBA,
-   *                     GL_DEPTH_COMPONENT, and
-   *                     GL_STENCIL_INDEX.
+   * @param [format] Specifies the format of the pixel data. The following
+   * symbolic values are accepted: GL_RED, GL_RG, GL_RGB, GL_BGR, GL_RGBA,
+   * GL_DEPTH_COMPONENT, and GL_STENCIL_INDEX.
    *
-   * @param [type] Specifies the data type of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_UNSIGNED_BYTE,
-   *                     GL_BYTE,
-   *                     GL_UNSIGNED_SHORT,
-   *                     GL_SHORT,
-   *                     GL_UNSIGNED_INT,
-   *                     GL_INT,
-   *                     GL_FLOAT,
-   *                     GL_UNSIGNED_BYTE_3_3_2,
-   *                     GL_UNSIGNED_BYTE_2_3_3_REV,
-   *                     GL_UNSIGNED_SHORT_5_6_5,
-   *                     GL_UNSIGNED_SHORT_5_6_5_REV,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *                     GL_UNSIGNED_SHORT_5_5_5_1,
-   *                     GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *                     GL_UNSIGNED_INT_8_8_8_8,
-   *                     GL_UNSIGNED_INT_8_8_8_8_REV,
-   *                     GL_UNSIGNED_INT_10_10_10_2, and
-   *                     GL_UNSIGNED_INT_2_10_10_10_REV.
+   * @param [type] Specifies the data type of the pixel data. The following
+   * symbolic values are accepted: GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT,
+   * GL_SHORT, GL_UNSIGNED_INT, GL_INT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   * GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   * GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   * GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   * GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   * GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2, and
+   * GL_UNSIGNED_INT_2_10_10_10_REV.
    *
    * @param [pixels] Specifies a pointer to the image data in memory.
    */
@@ -7897,54 +6696,33 @@ extern "C"
    * subimage
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *                     glTexSubImage1D.
-   *                     Must be GL_TEXTURE_1D.
+   * glTexSubImage1D. Must be GL_TEXTURE_1D.
    *
-   * @param [texture] Specifies the texture object name for
-   *                     glTextureSubImage1D. The effective
-   *                     target of texture must be one of
-   *                     the valid target values above.
+   * @param [texture] Specifies the texture object name for glTextureSubImage1D.
+   * The effective target of texture must be one of the valid target values
+   * above.
    *
-   * @param [level] Specifies the level-of-detail number.
-   *                     Level 0 is the base image level.
-   *                     Level n is the nth mipmap reduction image.
+   * @param [level] Specifies the level-of-detail number. Level 0 is the base
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
    * texture array.
    *
    * @param [width] Specifies the width of the texture subimage.
    *
-   * @param [format] Specifies the format of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_RED,
-   *                     GL_RG,
-   *                     GL_RGB,
-   *                     GL_BGR,
-   *                     GL_RGBA,
-   *                     GL_DEPTH_COMPONENT, and
-   *                     GL_STENCIL_INDEX.
+   * @param [format] Specifies the format of the pixel data. The following
+   * symbolic values are accepted: GL_RED, GL_RG, GL_RGB, GL_BGR, GL_RGBA,
+   * GL_DEPTH_COMPONENT, and GL_STENCIL_INDEX.
    *
-   * @param [type] Specifies the data type of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_UNSIGNED_BYTE,
-   *                     GL_BYTE,
-   *                     GL_UNSIGNED_SHORT,
-   *                     GL_SHORT,
-   *                     GL_UNSIGNED_INT,
-   *                     GL_INT,
-   *                     GL_FLOAT,
-   *                     GL_UNSIGNED_BYTE_3_3_2,
-   *                     GL_UNSIGNED_BYTE_2_3_3_REV,
-   *                     GL_UNSIGNED_SHORT_5_6_5,
-   *                     GL_UNSIGNED_SHORT_5_6_5_REV,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *                     GL_UNSIGNED_SHORT_5_5_5_1,
-   *                     GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *                     GL_UNSIGNED_INT_8_8_8_8,
-   *                     GL_UNSIGNED_INT_8_8_8_8_REV,
-   *                     GL_UNSIGNED_INT_10_10_10_2, and
-   *                     GL_UNSIGNED_INT_2_10_10_10_REV.
+   * @param [type] Specifies the data type of the pixel data. The following
+   * symbolic values are accepted: GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT,
+   * GL_SHORT, GL_UNSIGNED_INT, GL_INT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   * GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   * GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   * GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   * GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   * GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2, and
+   * GL_UNSIGNED_INT_2_10_10_10_REV.
    *
    * @param [pixels] Specifies a pointer to the image data in memory.
    */
@@ -7960,25 +6738,18 @@ extern "C"
    * glTexSubImage2D, glTextureSubImage2D — specify a two-dimensional texture
    * subimage
    *
-   * @param [target] Specifies the target to which the texture is bound
-   *                     for glTexSubImage2D.
-   *                     Must be GL_TEXTURE_2D,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_Z,
-   *                     or GL_TEXTURE_1D_ARRAY.
+   * @param [target] Specifies the target to which the texture is bound for
+   * glTexSubImage2D. Must be GL_TEXTURE_2D, GL_TEXTURE_CUBE_MAP_POSITIVE_X,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_X, GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Y, GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, or GL_TEXTURE_1D_ARRAY.
    *
-   * @param [texture] Specifies the texture object name for
-   *                     glTextureSubImage2D. The effective
-   *                     target of texture must be one of
-   *                     the valid target values above.
+   * @param [texture] Specifies the texture object name for glTextureSubImage2D.
+   * The effective target of texture must be one of the valid target values
+   * above.
    *
-   * @param [level] Specifies the level-of-detail number.
-   *                     Level 0 is the base image level.
-   *                     Level n is the nth mipmap reduction image.
+   * @param [level] Specifies the level-of-detail number. Level 0 is the base
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
    * texture array.
@@ -7990,38 +6761,19 @@ extern "C"
    *
    * @param [height] Specifies the height of the texture subimage.
    *
-   * @param [format] Specifies the format of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_RED,
-   *                     GL_RG,
-   *                     GL_RGB,
-   *                     GL_BGR,
-   *                     GL_RGBA,
-   *                     GL_BGRA,
-   *                     GL_DEPTH_COMPONENT, and
-   *                     GL_STENCIL_INDEX.
+   * @param [format] Specifies the format of the pixel data. The following
+   * symbolic values are accepted: GL_RED, GL_RG, GL_RGB, GL_BGR, GL_RGBA,
+   * GL_BGRA, GL_DEPTH_COMPONENT, and GL_STENCIL_INDEX.
    *
-   * @param [type] Specifies the data type of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_UNSIGNED_BYTE,
-   *                     GL_BYTE,
-   *                     GL_UNSIGNED_SHORT,
-   *                     GL_SHORT,
-   *                     GL_UNSIGNED_INT,
-   *                     GL_INT,
-   *                     GL_FLOAT,
-   *                     GL_UNSIGNED_BYTE_3_3_2,
-   *                     GL_UNSIGNED_BYTE_2_3_3_REV,
-   *                     GL_UNSIGNED_SHORT_5_6_5,
-   *                     GL_UNSIGNED_SHORT_5_6_5_REV,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *                     GL_UNSIGNED_SHORT_5_5_5_1,
-   *                     GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *                     GL_UNSIGNED_INT_8_8_8_8,
-   *                     GL_UNSIGNED_INT_8_8_8_8_REV,
-   *                     GL_UNSIGNED_INT_10_10_10_2, and
-   *                     GL_UNSIGNED_INT_2_10_10_10_REV.
+   * @param [type] Specifies the data type of the pixel data. The following
+   * symbolic values are accepted: GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT,
+   * GL_SHORT, GL_UNSIGNED_INT, GL_INT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   * GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   * GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   * GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   * GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   * GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2, and
+   * GL_UNSIGNED_INT_2_10_10_10_REV.
    *
    * @param [pixels] Specifies a pointer to the image data in memory.
    */
@@ -8037,25 +6789,18 @@ extern "C"
    * glTexSubImage2D, glTextureSubImage2D — specify a two-dimensional texture
    * subimage
    *
-   * @param [target] Specifies the target to which the texture is bound
-   *                     for glTexSubImage2D.
-   *                     Must be GL_TEXTURE_2D,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_Z,
-   *                     or GL_TEXTURE_1D_ARRAY.
+   * @param [target] Specifies the target to which the texture is bound for
+   * glTexSubImage2D. Must be GL_TEXTURE_2D, GL_TEXTURE_CUBE_MAP_POSITIVE_X,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_X, GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Y, GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, or GL_TEXTURE_1D_ARRAY.
    *
-   * @param [texture] Specifies the texture object name for
-   *                     glTextureSubImage2D. The effective
-   *                     target of texture must be one of
-   *                     the valid target values above.
+   * @param [texture] Specifies the texture object name for glTextureSubImage2D.
+   * The effective target of texture must be one of the valid target values
+   * above.
    *
-   * @param [level] Specifies the level-of-detail number.
-   *                     Level 0 is the base image level.
-   *                     Level n is the nth mipmap reduction image.
+   * @param [level] Specifies the level-of-detail number. Level 0 is the base
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
    * texture array.
@@ -8067,38 +6812,19 @@ extern "C"
    *
    * @param [height] Specifies the height of the texture subimage.
    *
-   * @param [format] Specifies the format of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_RED,
-   *                     GL_RG,
-   *                     GL_RGB,
-   *                     GL_BGR,
-   *                     GL_RGBA,
-   *                     GL_BGRA,
-   *                     GL_DEPTH_COMPONENT, and
-   *                     GL_STENCIL_INDEX.
+   * @param [format] Specifies the format of the pixel data. The following
+   * symbolic values are accepted: GL_RED, GL_RG, GL_RGB, GL_BGR, GL_RGBA,
+   * GL_BGRA, GL_DEPTH_COMPONENT, and GL_STENCIL_INDEX.
    *
-   * @param [type] Specifies the data type of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_UNSIGNED_BYTE,
-   *                     GL_BYTE,
-   *                     GL_UNSIGNED_SHORT,
-   *                     GL_SHORT,
-   *                     GL_UNSIGNED_INT,
-   *                     GL_INT,
-   *                     GL_FLOAT,
-   *                     GL_UNSIGNED_BYTE_3_3_2,
-   *                     GL_UNSIGNED_BYTE_2_3_3_REV,
-   *                     GL_UNSIGNED_SHORT_5_6_5,
-   *                     GL_UNSIGNED_SHORT_5_6_5_REV,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *                     GL_UNSIGNED_SHORT_5_5_5_1,
-   *                     GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *                     GL_UNSIGNED_INT_8_8_8_8,
-   *                     GL_UNSIGNED_INT_8_8_8_8_REV,
-   *                     GL_UNSIGNED_INT_10_10_10_2, and
-   *                     GL_UNSIGNED_INT_2_10_10_10_REV.
+   * @param [type] Specifies the data type of the pixel data. The following
+   * symbolic values are accepted: GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT,
+   * GL_SHORT, GL_UNSIGNED_INT, GL_INT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   * GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   * GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   * GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   * GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   * GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2, and
+   * GL_UNSIGNED_INT_2_10_10_10_REV.
    *
    * @param [pixels] Specifies a pointer to the image data in memory.
    */
@@ -8115,19 +6841,15 @@ extern "C"
    * glTexSubImage3D, glTextureSubImage3D — specify a three-dimensional texture
    * subimage
    *
-   * @param [target] Specifies the target to which the texture is bound
-   *                     for glTexSubImage3D.
-   *                     Must be GL_TEXTURE_3D or
-   *                     GL_TEXTURE_2D_ARRAY.
+   * @param [target] Specifies the target to which the texture is bound for
+   * glTexSubImage3D. Must be GL_TEXTURE_3D or GL_TEXTURE_2D_ARRAY.
    *
-   * @param [texture] Specifies the texture object name for
-   *                     glTextureSubImage3D. The effective
-   *                     target of texture must be one of
-   *                     the valid target values above.
+   * @param [texture] Specifies the texture object name for glTextureSubImage3D.
+   * The effective target of texture must be one of the valid target values
+   * above.
    *
-   * @param [level] Specifies the level-of-detail number.
-   *                     Level 0 is the base image level.
-   *                     Level n is the nth mipmap reduction image.
+   * @param [level] Specifies the level-of-detail number. Level 0 is the base
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
    * texture array.
@@ -8144,37 +6866,19 @@ extern "C"
    *
    * @param [depth] Specifies the depth of the texture subimage.
    *
-   * @param [format] Specifies the format of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_RED,
-   *                     GL_RG,
-   *                     GL_RGB,
-   *                     GL_BGR,
-   *                     GL_RGBA,
-   *                     GL_DEPTH_COMPONENT, and
-   *                     GL_STENCIL_INDEX.
+   * @param [format] Specifies the format of the pixel data. The following
+   * symbolic values are accepted: GL_RED, GL_RG, GL_RGB, GL_BGR, GL_RGBA,
+   * GL_DEPTH_COMPONENT, and GL_STENCIL_INDEX.
    *
-   * @param [type] Specifies the data type of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_UNSIGNED_BYTE,
-   *                     GL_BYTE,
-   *                     GL_UNSIGNED_SHORT,
-   *                     GL_SHORT,
-   *                     GL_UNSIGNED_INT,
-   *                     GL_INT,
-   *                     GL_FLOAT,
-   *                     GL_UNSIGNED_BYTE_3_3_2,
-   *                     GL_UNSIGNED_BYTE_2_3_3_REV,
-   *                     GL_UNSIGNED_SHORT_5_6_5,
-   *                     GL_UNSIGNED_SHORT_5_6_5_REV,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *                     GL_UNSIGNED_SHORT_5_5_5_1,
-   *                     GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *                     GL_UNSIGNED_INT_8_8_8_8,
-   *                     GL_UNSIGNED_INT_8_8_8_8_REV,
-   *                     GL_UNSIGNED_INT_10_10_10_2, and
-   *                     GL_UNSIGNED_INT_2_10_10_10_REV.
+   * @param [type] Specifies the data type of the pixel data. The following
+   * symbolic values are accepted: GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT,
+   * GL_SHORT, GL_UNSIGNED_INT, GL_INT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   * GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   * GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   * GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   * GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   * GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2, and
+   * GL_UNSIGNED_INT_2_10_10_10_REV.
    *
    * @param [pixels] Specifies a pointer to the image data in memory.
    */
@@ -8191,19 +6895,15 @@ extern "C"
    * glTexSubImage3D, glTextureSubImage3D — specify a three-dimensional texture
    * subimage
    *
-   * @param [target] Specifies the target to which the texture is bound
-   *                     for glTexSubImage3D.
-   *                     Must be GL_TEXTURE_3D or
-   *                     GL_TEXTURE_2D_ARRAY.
+   * @param [target] Specifies the target to which the texture is bound for
+   * glTexSubImage3D. Must be GL_TEXTURE_3D or GL_TEXTURE_2D_ARRAY.
    *
-   * @param [texture] Specifies the texture object name for
-   *                     glTextureSubImage3D. The effective
-   *                     target of texture must be one of
-   *                     the valid target values above.
+   * @param [texture] Specifies the texture object name for glTextureSubImage3D.
+   * The effective target of texture must be one of the valid target values
+   * above.
    *
-   * @param [level] Specifies the level-of-detail number.
-   *                     Level 0 is the base image level.
-   *                     Level n is the nth mipmap reduction image.
+   * @param [level] Specifies the level-of-detail number. Level 0 is the base
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
    * texture array.
@@ -8220,37 +6920,19 @@ extern "C"
    *
    * @param [depth] Specifies the depth of the texture subimage.
    *
-   * @param [format] Specifies the format of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_RED,
-   *                     GL_RG,
-   *                     GL_RGB,
-   *                     GL_BGR,
-   *                     GL_RGBA,
-   *                     GL_DEPTH_COMPONENT, and
-   *                     GL_STENCIL_INDEX.
+   * @param [format] Specifies the format of the pixel data. The following
+   * symbolic values are accepted: GL_RED, GL_RG, GL_RGB, GL_BGR, GL_RGBA,
+   * GL_DEPTH_COMPONENT, and GL_STENCIL_INDEX.
    *
-   * @param [type] Specifies the data type of the pixel data.
-   *                     The following symbolic values are accepted:
-   *                     GL_UNSIGNED_BYTE,
-   *                     GL_BYTE,
-   *                     GL_UNSIGNED_SHORT,
-   *                     GL_SHORT,
-   *                     GL_UNSIGNED_INT,
-   *                     GL_INT,
-   *                     GL_FLOAT,
-   *                     GL_UNSIGNED_BYTE_3_3_2,
-   *                     GL_UNSIGNED_BYTE_2_3_3_REV,
-   *                     GL_UNSIGNED_SHORT_5_6_5,
-   *                     GL_UNSIGNED_SHORT_5_6_5_REV,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4,
-   *                     GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *                     GL_UNSIGNED_SHORT_5_5_5_1,
-   *                     GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *                     GL_UNSIGNED_INT_8_8_8_8,
-   *                     GL_UNSIGNED_INT_8_8_8_8_REV,
-   *                     GL_UNSIGNED_INT_10_10_10_2, and
-   *                     GL_UNSIGNED_INT_2_10_10_10_REV.
+   * @param [type] Specifies the data type of the pixel data. The following
+   * symbolic values are accepted: GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT,
+   * GL_SHORT, GL_UNSIGNED_INT, GL_INT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   * GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   * GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   * GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   * GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   * GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2, and
+   * GL_UNSIGNED_INT_2_10_10_10_REV.
    *
    * @param [pixels] Specifies a pointer to the image data in memory.
    */
@@ -8283,9 +6965,8 @@ extern "C"
    * glBindBufferBase — bind a buffer object to an indexed buffer target
    *
    * @param [target] Specify the target of the bind operation. target must be
-   *                     one of GL_ATOMIC_COUNTER_BUFFER,
-   *                     GL_TRANSFORM_FEEDBACK_BUFFER, GL_UNIFORM_BUFFER or
-   *                     GL_SHADER_STORAGE_BUFFER.
+   * one of GL_ATOMIC_COUNTER_BUFFER, GL_TRANSFORM_FEEDBACK_BUFFER,
+   * GL_UNIFORM_BUFFER or GL_SHADER_STORAGE_BUFFER.
    *
    * @param [index] Specify the index of the binding point within the array
    * specified by target.
@@ -8317,54 +6998,26 @@ extern "C"
   /**
    * glCopyTexImage1D — copy pixels into a 1D texture image
    *
-   * @param [target] Specifies the target texture.
-   *                     Must be GL_TEXTURE_1D.
+   * @param [target] Specifies the target texture. Must be GL_TEXTURE_1D.
    *
-   * @param [level] Specifies the level-of-detail number.
-   *                     Level 0 is the base image level.
-   *                     Level n is the nth mipmap reduction image.
+   * @param [level] Specifies the level-of-detail number. Level 0 is the base
+   * image level. Level n is the nth mipmap reduction image.
    *
-   * @param [internalformat] Specifies the internal format of the texture.
-   *                     Must be one of the following symbolic constants:
-   *                     GL_COMPRESSED_RED,
-   *                     GL_COMPRESSED_RG,
-   *                     GL_COMPRESSED_RGB,
-   *                     GL_COMPRESSED_RGBA.
-   *                     GL_COMPRESSED_SRGB,
-   *                     GL_COMPRESSED_SRGB_ALPHA.
-   *                     GL_DEPTH_COMPONENT,
-   *                     GL_DEPTH_COMPONENT16,
-   *                     GL_DEPTH_COMPONENT24,
-   *                     GL_DEPTH_COMPONENT32,
-   *                     GL_STENCIL_INDEX8,
-   *                     GL_RED,
-   *                     GL_RG,
-   *                     GL_RGB,
-   *                     GL_R3_G3_B2,
-   *                     GL_RGB4,
-   *                     GL_RGB5,
-   *                     GL_RGB8,
-   *                     GL_RGB10,
-   *                     GL_RGB12,
-   *                     GL_RGB16,
-   *                     GL_RGBA,
-   *                     GL_RGBA2,
-   *                     GL_RGBA4,
-   *                     GL_RGB5_A1,
-   *                     GL_RGBA8,
-   *                     GL_RGB10_A2,
-   *                     GL_RGBA12,
-   *                     GL_RGBA16,
-   *                     GL_SRGB,
-   *                     GL_SRGB8,
-   *                     GL_SRGB_ALPHA, or
-   *                     GL_SRGB8_ALPHA8.
+   * @param [internalformat] Specifies the internal format of the texture. Must
+   * be one of the following symbolic constants: GL_COMPRESSED_RED,
+   * GL_COMPRESSED_RG, GL_COMPRESSED_RGB, GL_COMPRESSED_RGBA.
+   * GL_COMPRESSED_SRGB, GL_COMPRESSED_SRGB_ALPHA. GL_DEPTH_COMPONENT,
+   * GL_DEPTH_COMPONENT16, GL_DEPTH_COMPONENT24, GL_DEPTH_COMPONENT32,
+   * GL_STENCIL_INDEX8, GL_RED, GL_RG, GL_RGB, GL_R3_G3_B2, GL_RGB4, GL_RGB5,
+   * GL_RGB8, GL_RGB10, GL_RGB12, GL_RGB16, GL_RGBA, GL_RGBA2, GL_RGBA4,
+   * GL_RGB5_A1, GL_RGBA8, GL_RGB10_A2, GL_RGBA12, GL_RGBA16, GL_SRGB, GL_SRGB8,
+   * GL_SRGB_ALPHA, or GL_SRGB8_ALPHA8.
    *
-   * @param [x, y] Specify the window coordinates of the left corner
-   *                     of the row of pixels to be copied.
+   * @param [x, y] Specify the window coordinates of the left corner of the row
+   * of pixels to be copied.
    *
-   * @param [width] Specifies the width of the texture image.
-   *                     The height of the texture image is 1.
+   * @param [width] Specifies the width of the texture image. The height of the
+   * texture image is 1.
    *
    * @param [border] Must be 0.
    */
@@ -8377,57 +7030,26 @@ extern "C"
   /**
    * glCopyTexImage2D — copy pixels into a 2D texture image
    *
-   * @param [target] Specifies the target texture.
-   *                     Must be GL_TEXTURE_2D,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_Z, or
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_Z.
+   * @param [target] Specifies the target texture. Must be GL_TEXTURE_2D,
+   * GL_TEXTURE_CUBE_MAP_POSITIVE_X, GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
+   * GL_TEXTURE_CUBE_MAP_POSITIVE_Y, GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_POSITIVE_Z, or GL_TEXTURE_CUBE_MAP_NEGATIVE_Z.
    *
-   * @param [level] Specifies the level-of-detail number.
-   *                     Level 0 is the base image level.
-   *                     Level n is the nth mipmap reduction image.
+   * @param [level] Specifies the level-of-detail number. Level 0 is the base
+   * image level. Level n is the nth mipmap reduction image.
    *
-   * @param [internalformat] Specifies the internal format of the texture.
-   *                     Must be one of the following symbolic constants:
-   *                     GL_COMPRESSED_RED,
-   *                     GL_COMPRESSED_RG,
-   *                     GL_COMPRESSED_RGB,
-   *                     GL_COMPRESSED_RGBA.
-   *                     GL_COMPRESSED_SRGB,
-   *                     GL_COMPRESSED_SRGB_ALPHA.
-   *                     GL_DEPTH_COMPONENT,
-   *                     GL_DEPTH_COMPONENT16,
-   *                     GL_DEPTH_COMPONENT24,
-   *                     GL_DEPTH_COMPONENT32,
-   *                     GL_STENCIL_INDEX8,
-   *                     GL_RED,
-   *                     GL_RG,
-   *                     GL_RGB,
-   *                     GL_R3_G3_B2,
-   *                     GL_RGB4,
-   *                     GL_RGB5,
-   *                     GL_RGB8,
-   *                     GL_RGB10,
-   *                     GL_RGB12,
-   *                     GL_RGB16,
-   *                     GL_RGBA,
-   *                     GL_RGBA2,
-   *                     GL_RGBA4,
-   *                     GL_RGB5_A1,
-   *                     GL_RGBA8,
-   *                     GL_RGB10_A2,
-   *                     GL_RGBA12,
-   *                     GL_RGBA16,
-   *                     GL_SRGB,
-   *                     GL_SRGB8,
-   *                     GL_SRGB_ALPHA, or
-   *                     GL_SRGB8_ALPHA8.
+   * @param [internalformat] Specifies the internal format of the texture. Must
+   * be one of the following symbolic constants: GL_COMPRESSED_RED,
+   * GL_COMPRESSED_RG, GL_COMPRESSED_RGB, GL_COMPRESSED_RGBA.
+   * GL_COMPRESSED_SRGB, GL_COMPRESSED_SRGB_ALPHA. GL_DEPTH_COMPONENT,
+   * GL_DEPTH_COMPONENT16, GL_DEPTH_COMPONENT24, GL_DEPTH_COMPONENT32,
+   * GL_STENCIL_INDEX8, GL_RED, GL_RG, GL_RGB, GL_R3_G3_B2, GL_RGB4, GL_RGB5,
+   * GL_RGB8, GL_RGB10, GL_RGB12, GL_RGB16, GL_RGBA, GL_RGBA2, GL_RGBA4,
+   * GL_RGB5_A1, GL_RGBA8, GL_RGB10_A2, GL_RGBA12, GL_RGBA16, GL_SRGB, GL_SRGB8,
+   * GL_SRGB_ALPHA, or GL_SRGB8_ALPHA8.
    *
-   * @param [x, y] Specify the window coordinates of the lower left corner
-   *                     of the rectangular region of pixels to be copied.
+   * @param [x, y] Specify the window coordinates of the lower left corner of
+   * the rectangular region of pixels to be copied.
    *
    * @param [width] Specifies the width of the texture image.
    *
@@ -8449,7 +7071,7 @@ extern "C"
    * @param [n] Number of sampler objects to create.
    *
    * @param [samplers] Specifies an array in which names of the new sampler
-   *                         objects are stored.
+   * objects are stored.
    */
   static inline void glCreateSamplers(GLsizei n, GLuint *samplers)
   {
@@ -8458,13 +7080,13 @@ extern "C"
   /**
    * glCreateTextures — create texture objects
    *
-   * @param [target] Specifies the effective texture target
-   *                         of each created texture.
+   * @param [target] Specifies the effective texture target of each created
+   * texture.
    *
    * @param [n] Number of texture objects to create.
    *
    * @param [textures] Specifies an array in which names of the new texture
-   *                         objects are stored.
+   * objects are stored.
    */
   static inline void glCreateTextures(GLenum target, GLsizei n,
                                       GLuint *textures)
@@ -8497,18 +7119,13 @@ extern "C"
    * glGenerateMipmap, glGenerateTextureMipmap — generate mipmaps for a
    * specified texture object
    *
-   * @param [target] Specifies the target to which the texture object is
-   *                     bound for glGenerateMipmap. Must be
-   *                     one of GL_TEXTURE_1D,
-   *                     GL_TEXTURE_2D,
-   *                     GL_TEXTURE_3D,
-   *                     GL_TEXTURE_1D_ARRAY,
-   *                     GL_TEXTURE_2D_ARRAY,
-   *                     GL_TEXTURE_CUBE_MAP, or
-   *                     GL_TEXTURE_CUBE_MAP_ARRAY.
+   * @param [target] Specifies the target to which the texture object is bound
+   * for glGenerateMipmap. Must be one of GL_TEXTURE_1D, GL_TEXTURE_2D,
+   * GL_TEXTURE_3D, GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_CUBE_MAP, or GL_TEXTURE_CUBE_MAP_ARRAY.
    *
    * @param [texture] Specifies the texture object name for
-   *                     glGenerateTextureMipmap.
+   * glGenerateTextureMipmap.
    */
   static inline void glGenerateMipmap(GLenum target)
   {
@@ -8518,18 +7135,13 @@ extern "C"
    * glGenerateMipmap, glGenerateTextureMipmap — generate mipmaps for a
    * specified texture object
    *
-   * @param [target] Specifies the target to which the texture object is
-   *                     bound for glGenerateMipmap. Must be
-   *                     one of GL_TEXTURE_1D,
-   *                     GL_TEXTURE_2D,
-   *                     GL_TEXTURE_3D,
-   *                     GL_TEXTURE_1D_ARRAY,
-   *                     GL_TEXTURE_2D_ARRAY,
-   *                     GL_TEXTURE_CUBE_MAP, or
-   *                     GL_TEXTURE_CUBE_MAP_ARRAY.
+   * @param [target] Specifies the target to which the texture object is bound
+   * for glGenerateMipmap. Must be one of GL_TEXTURE_1D, GL_TEXTURE_2D,
+   * GL_TEXTURE_3D, GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_CUBE_MAP, or GL_TEXTURE_CUBE_MAP_ARRAY.
    *
    * @param [texture] Specifies the texture object name for
-   *                     glGenerateTextureMipmap.
+   * glGenerateTextureMipmap.
    */
   static inline void glGenerateTextureMipmap(GLuint texture)
   {
@@ -8579,8 +7191,8 @@ extern "C"
    * @param [id] Specifies the name of a query object.
    *
    * @param [pname] Specifies the symbolic name of a query object parameter.
-   *                     Accepted values are GL_QUERY_RESULT,
-   * GL_QUERY_RESULT_NO_WAIT or GL_QUERY_RESULT_AVAILABLE.
+   * Accepted values are GL_QUERY_RESULT, GL_QUERY_RESULT_NO_WAIT or
+   * GL_QUERY_RESULT_AVAILABLE.
    *
    * @param [params] If a buffer is bound to the GL_QUERY_RESULT_BUFFER target,
    * then params is treated as an offset to a location within that buffer's data
@@ -8598,8 +7210,8 @@ extern "C"
    * @param [id] Specifies the name of a query object.
    *
    * @param [pname] Specifies the symbolic name of a query object parameter.
-   *                     Accepted values are GL_QUERY_RESULT,
-   * GL_QUERY_RESULT_NO_WAIT or GL_QUERY_RESULT_AVAILABLE.
+   * Accepted values are GL_QUERY_RESULT, GL_QUERY_RESULT_NO_WAIT or
+   * GL_QUERY_RESULT_AVAILABLE.
    *
    * @param [params] If a buffer is bound to the GL_QUERY_RESULT_BUFFER target,
    * then params is treated as an offset to a location within that buffer's data
@@ -8618,8 +7230,8 @@ extern "C"
    * @param [id] Specifies the name of a query object.
    *
    * @param [pname] Specifies the symbolic name of a query object parameter.
-   *                     Accepted values are GL_QUERY_RESULT,
-   * GL_QUERY_RESULT_NO_WAIT or GL_QUERY_RESULT_AVAILABLE.
+   * Accepted values are GL_QUERY_RESULT, GL_QUERY_RESULT_NO_WAIT or
+   * GL_QUERY_RESULT_AVAILABLE.
    *
    * @param [params] If a buffer is bound to the GL_QUERY_RESULT_BUFFER target,
    * then params is treated as an offset to a location within that buffer's data
@@ -8638,8 +7250,8 @@ extern "C"
    * @param [id] Specifies the name of a query object.
    *
    * @param [pname] Specifies the symbolic name of a query object parameter.
-   *                     Accepted values are GL_QUERY_RESULT,
-   * GL_QUERY_RESULT_NO_WAIT or GL_QUERY_RESULT_AVAILABLE.
+   * Accepted values are GL_QUERY_RESULT, GL_QUERY_RESULT_NO_WAIT or
+   * GL_QUERY_RESULT_AVAILABLE.
    *
    * @param [params] If a buffer is bound to the GL_QUERY_RESULT_BUFFER target,
    * then params is treated as an offset to a location within that buffer's data
@@ -8713,18 +7325,15 @@ extern "C"
    * glPointParameter — specify point parameters
    *
    * @param [pname] Specifies a single-valued point parameter.
-   *                     GL_POINT_FADE_THRESHOLD_SIZE, and
-   *                     GL_POINT_SPRITE_COORD_ORIGIN
-   *                     are accepted.
+   * GL_POINT_FADE_THRESHOLD_SIZE, and GL_POINT_SPRITE_COORD_ORIGIN are
+   * accepted.
    *
-   * @param [param] For glPointParameterf and
-   *                     glPointParameteri, specifies the
-   *                     value that pname will be set to.
+   * @param [param] For glPointParameterf and glPointParameteri, specifies the
+   * value that pname will be set to.
    *
-   * @param [params] For glPointParameterfv and
-   *                     glPointParameteriv, specifies a
-   *                     pointer to an array where the value or values to be
-   *                     assigned to pname are stored.
+   * @param [params] For glPointParameterfv and glPointParameteriv, specifies a
+   * pointer to an array where the value or values to be assigned to pname are
+   * stored.
    */
   static inline void glPointParameterf(GLenum pname, GLfloat param)
   {
@@ -8734,18 +7343,15 @@ extern "C"
    * glPointParameter — specify point parameters
    *
    * @param [pname] Specifies a single-valued point parameter.
-   *                     GL_POINT_FADE_THRESHOLD_SIZE, and
-   *                     GL_POINT_SPRITE_COORD_ORIGIN
-   *                     are accepted.
+   * GL_POINT_FADE_THRESHOLD_SIZE, and GL_POINT_SPRITE_COORD_ORIGIN are
+   * accepted.
    *
-   * @param [param] For glPointParameterf and
-   *                     glPointParameteri, specifies the
-   *                     value that pname will be set to.
+   * @param [param] For glPointParameterf and glPointParameteri, specifies the
+   * value that pname will be set to.
    *
-   * @param [params] For glPointParameterfv and
-   *                     glPointParameteriv, specifies a
-   *                     pointer to an array where the value or values to be
-   *                     assigned to pname are stored.
+   * @param [params] For glPointParameterfv and glPointParameteriv, specifies a
+   * pointer to an array where the value or values to be assigned to pname are
+   * stored.
    */
   static inline void glPointParameteri(GLenum pname, GLint param)
   {
@@ -8755,18 +7361,15 @@ extern "C"
    * glPointParameter — specify point parameters
    *
    * @param [pname] Specifies a single-valued point parameter.
-   *                     GL_POINT_FADE_THRESHOLD_SIZE, and
-   *                     GL_POINT_SPRITE_COORD_ORIGIN
-   *                     are accepted.
+   * GL_POINT_FADE_THRESHOLD_SIZE, and GL_POINT_SPRITE_COORD_ORIGIN are
+   * accepted.
    *
-   * @param [param] For glPointParameterf and
-   *                     glPointParameteri, specifies the
-   *                     value that pname will be set to.
+   * @param [param] For glPointParameterf and glPointParameteri, specifies the
+   * value that pname will be set to.
    *
-   * @param [params] For glPointParameterfv and
-   *                     glPointParameteriv, specifies a
-   *                     pointer to an array where the value or values to be
-   *                     assigned to pname are stored.
+   * @param [params] For glPointParameterfv and glPointParameteriv, specifies a
+   * pointer to an array where the value or values to be assigned to pname are
+   * stored.
    */
   static inline void glPointParameterfv(GLenum pname, const GLfloat *params)
   {
@@ -8776,18 +7379,15 @@ extern "C"
    * glPointParameter — specify point parameters
    *
    * @param [pname] Specifies a single-valued point parameter.
-   *                     GL_POINT_FADE_THRESHOLD_SIZE, and
-   *                     GL_POINT_SPRITE_COORD_ORIGIN
-   *                     are accepted.
+   * GL_POINT_FADE_THRESHOLD_SIZE, and GL_POINT_SPRITE_COORD_ORIGIN are
+   * accepted.
    *
-   * @param [param] For glPointParameterf and
-   *                     glPointParameteri, specifies the
-   *                     value that pname will be set to.
+   * @param [param] For glPointParameterf and glPointParameteri, specifies the
+   * value that pname will be set to.
    *
-   * @param [params] For glPointParameterfv and
-   *                     glPointParameteriv, specifies a
-   *                     pointer to an array where the value or values to be
-   *                     assigned to pname are stored.
+   * @param [params] For glPointParameterfv and glPointParameteriv, specifies a
+   * pointer to an array where the value or values to be assigned to pname are
+   * stored.
    */
   static inline void glPointParameteriv(GLenum pname, const GLint *params)
   {
@@ -8798,16 +7398,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -8816,8 +7414,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform1f(GLuint program, GLint location,
                                         GLfloat v0)
@@ -8829,16 +7427,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -8847,8 +7443,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform2f(GLuint program, GLint location,
                                         GLfloat v0, GLfloat v1)
@@ -8860,16 +7456,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -8878,8 +7472,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform3f(GLuint program, GLint location,
                                         GLfloat v0, GLfloat v1, GLfloat v2)
@@ -8891,16 +7485,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -8909,8 +7501,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform4f(GLuint program, GLint location,
                                         GLfloat v0, GLfloat v1, GLfloat v2,
@@ -8923,16 +7515,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -8941,8 +7531,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform1i(GLuint program, GLint location,
                                         GLint v0)
@@ -8954,16 +7544,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -8972,8 +7560,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform2i(GLuint program, GLint location,
                                         GLint v0, GLint v1)
@@ -8985,16 +7573,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9003,8 +7589,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform3i(GLuint program, GLint location,
                                         GLint v0, GLint v1, GLint v2)
@@ -9016,16 +7602,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9034,8 +7618,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform4i(GLuint program, GLint location,
                                         GLint v0, GLint v1, GLint v2, GLint v3)
@@ -9047,16 +7631,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9065,8 +7647,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform1ui(GLuint program, GLint location,
                                          GLuint v0)
@@ -9078,16 +7660,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9096,8 +7676,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform2ui(GLuint program, GLint location,
                                          GLuint v0, GLuint v1)
@@ -9109,16 +7689,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9127,8 +7705,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform3ui(GLuint program, GLint location,
                                          GLuint v0, GLuint v1, GLuint v2)
@@ -9140,16 +7718,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9158,8 +7734,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform4ui(GLuint program, GLint location,
                                          GLuint v0, GLuint v1, GLuint v2,
@@ -9172,16 +7748,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9190,8 +7764,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform1fv(GLuint program, GLint location,
                                          GLsizei count, const GLfloat *value)
@@ -9203,16 +7777,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9221,8 +7793,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform2fv(GLuint program, GLint location,
                                          GLsizei count, const GLfloat *value)
@@ -9234,16 +7806,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9252,8 +7822,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform3fv(GLuint program, GLint location,
                                          GLsizei count, const GLfloat *value)
@@ -9265,16 +7835,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9283,8 +7851,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform4fv(GLuint program, GLint location,
                                          GLsizei count, const GLfloat *value)
@@ -9296,16 +7864,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9314,8 +7880,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform1iv(GLuint program, GLint location,
                                          GLsizei count, const GLint *value)
@@ -9327,16 +7893,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9345,8 +7909,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform2iv(GLuint program, GLint location,
                                          GLsizei count, const GLint *value)
@@ -9358,16 +7922,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9376,8 +7938,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform3iv(GLuint program, GLint location,
                                          GLsizei count, const GLint *value)
@@ -9389,16 +7951,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9407,8 +7967,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform4iv(GLuint program, GLint location,
                                          GLsizei count, const GLint *value)
@@ -9420,16 +7980,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9438,8 +7996,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform1uiv(GLuint program, GLint location,
                                           GLsizei count, const GLuint *value)
@@ -9451,16 +8009,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9469,8 +8025,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform2uiv(GLuint program, GLint location,
                                           GLsizei count, const GLuint *value)
@@ -9482,16 +8038,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9500,8 +8054,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform3uiv(GLuint program, GLint location,
                                           GLsizei count, const GLuint *value)
@@ -9513,16 +8067,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9531,8 +8083,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniform4uiv(GLuint program, GLint location,
                                           GLsizei count, const GLuint *value)
@@ -9544,16 +8096,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9562,8 +8112,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniformMatrix2fv(GLuint program, GLint location,
                                                GLsizei count,
@@ -9577,16 +8127,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9595,8 +8143,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniformMatrix3fv(GLuint program, GLint location,
                                                GLsizei count,
@@ -9610,16 +8158,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9628,8 +8174,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniformMatrix4fv(GLuint program, GLint location,
                                                GLsizei count,
@@ -9643,16 +8189,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9661,8 +8205,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniformMatrix2x3fv(GLuint program, GLint location,
                                                  GLsizei count,
@@ -9677,16 +8221,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9695,8 +8237,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniformMatrix3x2fv(GLuint program, GLint location,
                                                  GLsizei count,
@@ -9711,16 +8253,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9729,8 +8269,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniformMatrix2x4fv(GLuint program, GLint location,
                                                  GLsizei count,
@@ -9745,16 +8285,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9763,8 +8301,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniformMatrix4x2fv(GLuint program, GLint location,
                                                  GLsizei count,
@@ -9779,16 +8317,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9797,8 +8333,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniformMatrix3x4fv(GLuint program, GLint location,
                                                  GLsizei count,
@@ -9813,16 +8349,14 @@ extern "C"
    * program object
    *
    * @param [program] Specifies the handle of the program containing the uniform
-   *             variable to be modified.
+   * variable to be modified.
    *
-   * @param [location] Specifies the location of the uniform variable
-   *             to be modified.
+   * @param [location] Specifies the location of the uniform variable to be
+   * modified.
    *
-   * @param [count] For the vector commands
-   *                 (glProgramUniform*v), specifies the
-   *                 number of elements that are to be modified. This should be
-   * 1 if the targeted uniform variable is not an array, and 1 or more if it is
-   * an array.
+   * @param [count] For the vector commands (glProgramUniform*v), specifies the
+   * number of elements that are to be modified. This should be 1 if the
+   * targeted uniform variable is not an array, and 1 or more if it is an array.
    *
    * @param [transpose] For the matrix commands, specifies whether to transpose
    * the matrix as the values are loaded into the uniform variable.
@@ -9831,8 +8365,8 @@ extern "C"
    * to be used for the specified uniform variable.
    *
    * @param [value] For the vector and matrix commands, specifies a pointer to
-   *                 an array of count values that will be
-   *                 used to update the specified uniform variable.
+   * an array of count values that will be used to update the specified uniform
+   * variable.
    */
   static inline void glProgramUniformMatrix4x3fv(GLuint program, GLint location,
                                                  GLsizei count,
@@ -9864,10 +8398,10 @@ extern "C"
    * glSampleCoverage — specify multisample coverage parameters
    *
    * @param [value] Specify a single floating-point sample coverage value. The
-   * value is clamped to the range [0,1]. The initial value is 1.0.
+   * value is clamped to the range [0, 1] . The initial value is 1.0.
    *
    * @param [invert] Specify a single boolean value representing if the coverage
-   * masks should be inverted.  GL_TRUE and GL_FALSE are accepted.  The initial
+   * masks should be inverted. GL_TRUE and GL_FALSE are accepted. The initial
    * value is GL_FALSE.
    */
   static inline void glSampleCoverage(GLfloat value, GLboolean invert)
@@ -9919,24 +8453,23 @@ extern "C"
    * glTexBufferRange, glTextureBufferRange — attach a range of a buffer
    * object's data store to a buffer texture object
    *
-   * @param [target] Specifies the target to which the texture object is
-   *                     bound for glTexBufferRange. Must be
-   *                     GL_TEXTURE_BUFFER.
+   * @param [target] Specifies the target to which the texture object is bound
+   * for glTexBufferRange. Must be GL_TEXTURE_BUFFER.
    *
    * @param [texture] Specifies the texture object name for
-   *                     glTextureBufferRange.
+   * glTextureBufferRange.
    *
    * @param [internalFormat] Specifies the internal format of the data in the
    * store belonging to buffer.
    *
    * @param [buffer] Specifies the name of the buffer object whose storage to
-   *                     attach to the active buffer texture.
+   * attach to the active buffer texture.
    *
    * @param [offset] Specifies the offset of the start of the range of the
-   *                     buffer's data store to attach.
+   * buffer's data store to attach.
    *
-   * @param [size] Specifies the size of the range of the buffer's data
-   *                     store to attach.
+   * @param [size] Specifies the size of the range of the buffer's data store to
+   * attach.
    */
   static inline void glTexBufferRange(GLenum target, GLenum internalFormat,
                                       GLuint buffer, GLintptr offset,
@@ -9948,24 +8481,23 @@ extern "C"
    * glTexBufferRange, glTextureBufferRange — attach a range of a buffer
    * object's data store to a buffer texture object
    *
-   * @param [target] Specifies the target to which the texture object is
-   *                     bound for glTexBufferRange. Must be
-   *                     GL_TEXTURE_BUFFER.
+   * @param [target] Specifies the target to which the texture object is bound
+   * for glTexBufferRange. Must be GL_TEXTURE_BUFFER.
    *
    * @param [texture] Specifies the texture object name for
-   *                     glTextureBufferRange.
+   * glTextureBufferRange.
    *
    * @param [internalFormat] Specifies the internal format of the data in the
    * store belonging to buffer.
    *
    * @param [buffer] Specifies the name of the buffer object whose storage to
-   *                     attach to the active buffer texture.
+   * attach to the active buffer texture.
    *
    * @param [offset] Specifies the offset of the start of the range of the
-   *                     buffer's data store to attach.
+   * buffer's data store to attach.
    *
-   * @param [size] Specifies the size of the range of the buffer's data
-   *                     store to attach.
+   * @param [size] Specifies the size of the range of the buffer's data store to
+   * attach.
    */
   static inline void glTextureBufferRange(GLuint texture, GLenum internalformat,
                                           GLuint buffer, GLintptr offset,
@@ -9983,9 +8515,8 @@ extern "C"
    * buffer target
    *
    * @param [target] Specify the target of the bind operation. target must be
-   *                     one of GL_ATOMIC_COUNTER_BUFFER,
-   *                     GL_TRANSFORM_FEEDBACK_BUFFER, GL_UNIFORM_BUFFER,
-   *                     or GL_SHADER_STORAGE_BUFFER.
+   * one of GL_ATOMIC_COUNTER_BUFFER, GL_TRANSFORM_FEEDBACK_BUFFER,
+   * GL_UNIFORM_BUFFER, or GL_SHADER_STORAGE_BUFFER.
    *
    * @param [index] Specify the index of the binding point within the array
    * specified by target.
@@ -10010,9 +8541,8 @@ extern "C"
    * indexed buffer targets
    *
    * @param [target] Specify the target of the bind operation. target must be
-   *                     one of GL_ATOMIC_COUNTER_BUFFER,
-   *                     GL_TRANSFORM_FEEDBACK_BUFFER, GL_UNIFORM_BUFFER or
-   *                     GL_SHADER_STORAGE_BUFFER.
+   * one of GL_ATOMIC_COUNTER_BUFFER, GL_TRANSFORM_FEEDBACK_BUFFER,
+   * GL_UNIFORM_BUFFER or GL_SHADER_STORAGE_BUFFER.
    *
    * @param [index] Specify the index of the first binding point within the
    * array specified by target.
@@ -10130,24 +8660,36 @@ extern "C"
    * store with a fixed value
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glClearBufferData, which must
-   *                     must be one of the buffer binding targets in the
-   *                     following table:
+   * for glClearBufferData, which must must be one of the buffer binding targets
+   * in the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glClearNamedBufferData.
+   * glClearNamedBufferData.
    *
    * @param [internalformat] The internal format with which the data will be
    * stored in the buffer object.
    *
-   * @param [format] The format of the data in memory addressed by
-   *                     data.
+   * @param [format] The format of the data in memory addressed by data.
    *
-   * @param [type] The type of the data in memory addressed by
-   *                     data.
+   * @param [type] The type of the data in memory addressed by data.
    *
    * @param [data] The address of a memory location storing the data to be
-   *                     replicated into the buffer's data store.
+   * replicated into the buffer's data store.
    */
   static inline void glClearBufferData(GLenum target, GLenum internalformat,
                                        GLenum format, GLenum type,
@@ -10160,24 +8702,36 @@ extern "C"
    * store with a fixed value
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glClearBufferData, which must
-   *                     must be one of the buffer binding targets in the
-   *                     following table:
+   * for glClearBufferData, which must must be one of the buffer binding targets
+   * in the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glClearNamedBufferData.
+   * glClearNamedBufferData.
    *
    * @param [internalformat] The internal format with which the data will be
    * stored in the buffer object.
    *
-   * @param [format] The format of the data in memory addressed by
-   *                     data.
+   * @param [format] The format of the data in memory addressed by data.
    *
-   * @param [type] The type of the data in memory addressed by
-   *                     data.
+   * @param [type] The type of the data in memory addressed by data.
    *
    * @param [data] The address of a memory location storing the data to be
-   *                     replicated into the buffer's data store.
+   * replicated into the buffer's data store.
    */
   static inline void glClearNamedBufferData(GLuint buffer,
                                             GLenum internalformat,
@@ -10249,30 +8803,23 @@ extern "C"
    * glGetActiveAttrib — Returns information about an active attribute variable
    * for the specified program object
    *
-   * @param [program] Specifies the program object to be
-   *             queried.
+   * @param [program] Specifies the program object to be queried.
    *
-   * @param [index] Specifies the index of the attribute variable
-   *             to be queried.
+   * @param [index] Specifies the index of the attribute variable to be queried.
    *
-   * @param [bufSize] Specifies the maximum number of characters
-   *             OpenGL is allowed to write in the character buffer
-   *             indicated by name.
+   * @param [bufSize] Specifies the maximum number of characters OpenGL is
+   * allowed to write in the character buffer indicated by name.
    *
-   * @param [length] Returns the number of characters actually
-   *             written by OpenGL in the string indicated by
-   *             name (excluding the null
-   *             terminator) if a value other than
-   *             NULL is passed.
+   * @param [length] Returns the number of characters actually written by OpenGL
+   * in the string indicated by name (excluding the null terminator) if a value
+   * other than NULL is passed.
    *
-   * @param [size] Returns the size of the attribute
-   *             variable.
+   * @param [size] Returns the size of the attribute variable.
    *
-   * @param [type] Returns the data type of the attribute
-   *             variable.
+   * @param [type] Returns the data type of the attribute variable.
    *
-   * @param [name] Returns a null terminated string containing
-   *             the name of the attribute variable.
+   * @param [name] Returns a null terminated string containing the name of the
+   * attribute variable.
    */
   static inline void glGetActiveAttrib(GLuint program, GLuint index,
                                        GLsizei bufSize, GLsizei *length,
@@ -10289,14 +8836,12 @@ extern "C"
    * @param [shadertype] Specifies the shader stage from which to query for the
    * subroutine parameter. shadertype must be one of GL_VERTEX_SHADER,
    * GL_TESS_CONTROL_SHADER, GL_TESS_EVALUATION_SHADER, GL_GEOMETRY_SHADER or
-   *                     GL_FRAGMENT_SHADER.
+   * GL_FRAGMENT_SHADER.
    *
-   * @param [pname] Specifies the parameter of the shader to query. pname
-   *                     must be GL_ACTIVE_SUBROUTINE_UNIFORMS,
-   *                     GL_ACTIVE_SUBROUTINE_UNIFORM_LOCATIONS,
-   *                     GL_ACTIVE_SUBROUTINES,
-   *                     GL_ACTIVE_SUBROUTINE_UNIFORM_MAX_LENGTH,
-   *                     or GL_ACTIVE_SUBROUTINE_MAX_LENGTH.
+   * @param [pname] Specifies the parameter of the shader to query. pname must
+   * be GL_ACTIVE_SUBROUTINE_UNIFORMS, GL_ACTIVE_SUBROUTINE_UNIFORM_LOCATIONS,
+   * GL_ACTIVE_SUBROUTINES, GL_ACTIVE_SUBROUTINE_UNIFORM_MAX_LENGTH, or
+   * GL_ACTIVE_SUBROUTINE_MAX_LENGTH.
    *
    * @param [values] Specifies the address of a variable into which the queried
    * value or values will be placed.
@@ -10309,10 +8854,10 @@ extern "C"
   /**
    * glGetQueryIndexediv — return parameters of an indexed query object target
    *
-   * @param [target] Specifies a query object target.
-   *                     Must be GL_SAMPLES_PASSED, GL_ANY_SAMPLES_PASSED,
-   * GL_ANY_SAMPLES_PASSED_CONSERVATIVE GL_PRIMITIVES_GENERATED,
-   * GL_TRANSFORM_FEEDBACK_PRIMITIVES_WRITTEN, GL_TIME_ELAPSED, or GL_TIMESTAMP.
+   * @param [target] Specifies a query object target. Must be GL_SAMPLES_PASSED,
+   * GL_ANY_SAMPLES_PASSED, GL_ANY_SAMPLES_PASSED_CONSERVATIVE
+   * GL_PRIMITIVES_GENERATED, GL_TRANSFORM_FEEDBACK_PRIMITIVES_WRITTEN,
+   * GL_TIME_ELAPSED, or GL_TIMESTAMP.
    *
    * @param [index] Specifies the index of the query object target.
    *
@@ -10329,18 +8874,16 @@ extern "C"
   /**
    * glGetShaderSource — Returns the source code string from a shader object
    *
-   * @param [shader] Specifies the shader object to be
-   *             queried.
+   * @param [shader] Specifies the shader object to be queried.
    *
-   * @param [bufSize] Specifies the size of the character buffer for
-   *             storing the returned source code string.
+   * @param [bufSize] Specifies the size of the character buffer for storing the
+   * returned source code string.
    *
-   * @param [length] Returns the length of the string returned in
-   *             source (excluding the null
-   *             terminator).
+   * @param [length] Returns the length of the string returned in source
+   * (excluding the null terminator).
    *
-   * @param [source] Specifies an array of characters that is used
-   *             to return the source code string.
+   * @param [source] Specifies an array of characters that is used to return the
+   * source code string.
    */
   static inline void glGetShaderSource(GLuint shader, GLsizei bufSize,
                                        GLsizei *length, GLchar *source)
@@ -10351,55 +8894,27 @@ extern "C"
    * glGetTexParameter — return texture parameter values
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexParameterfv,
-   *           glGetTexParameteriv,
-   *           glGetTexParameterIiv, and
-   *           glGetTexParameterIuiv functions.
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_RECTANGLE, and
-   *           GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
+   * glGetTexParameterfv, glGetTexParameteriv, glGetTexParameterIiv, and
+   * glGetTexParameterIuiv functions. GL_TEXTURE_1D, GL_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY, GL_TEXTURE_2D_MULTISAMPLE,
+   * GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D, GL_TEXTURE_CUBE_MAP,
+   * GL_TEXTURE_RECTANGLE, and GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetTextureParameterfv,
-   *           glGetTextureParameteriv,
-   *           glGetTextureParameterIiv, and
-   *           glGetTextureParameterIuiv functions.
+   * glGetTextureParameterfv, glGetTextureParameteriv, glGetTextureParameterIiv,
+   * and glGetTextureParameterIuiv functions.
    *
    * @param [pname] Specifies the symbolic name of a texture parameter.
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_BORDER_COLOR,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_IMMUTABLE_FORMAT,
-   *           GL_TEXTURE_IMMUTABLE_LEVELS,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_SWIZZLE_RGBA,
-   *           GL_TEXTURE_TARGET,
-   *           GL_TEXTURE_VIEW_MIN_LAYER,
-   *           GL_TEXTURE_VIEW_MIN_LEVEL,
-   *           GL_TEXTURE_VIEW_NUM_LAYERS,
-   *           GL_TEXTURE_VIEW_NUM_LEVELS,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, and
-   *           GL_TEXTURE_WRAP_R are accepted.
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
+   * GL_TEXTURE_BASE_LEVEL, GL_TEXTURE_BORDER_COLOR, GL_TEXTURE_COMPARE_MODE,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_IMMUTABLE_FORMAT,
+   * GL_TEXTURE_IMMUTABLE_LEVELS, GL_TEXTURE_LOD_BIAS, GL_TEXTURE_MAG_FILTER,
+   * GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_MAX_LOD, GL_TEXTURE_MIN_FILTER,
+   * GL_TEXTURE_MIN_LOD, GL_TEXTURE_SWIZZLE_R, GL_TEXTURE_SWIZZLE_G,
+   * GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A, GL_TEXTURE_SWIZZLE_RGBA,
+   * GL_TEXTURE_TARGET, GL_TEXTURE_VIEW_MIN_LAYER, GL_TEXTURE_VIEW_MIN_LEVEL,
+   * GL_TEXTURE_VIEW_NUM_LAYERS, GL_TEXTURE_VIEW_NUM_LEVELS, GL_TEXTURE_WRAP_S,
+   * GL_TEXTURE_WRAP_T, and GL_TEXTURE_WRAP_R are accepted.
    *
    * @param [params] Returns the texture parameters.
    */
@@ -10412,55 +8927,27 @@ extern "C"
    * glGetTexParameter — return texture parameter values
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexParameterfv,
-   *           glGetTexParameteriv,
-   *           glGetTexParameterIiv, and
-   *           glGetTexParameterIuiv functions.
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_RECTANGLE, and
-   *           GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
+   * glGetTexParameterfv, glGetTexParameteriv, glGetTexParameterIiv, and
+   * glGetTexParameterIuiv functions. GL_TEXTURE_1D, GL_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY, GL_TEXTURE_2D_MULTISAMPLE,
+   * GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D, GL_TEXTURE_CUBE_MAP,
+   * GL_TEXTURE_RECTANGLE, and GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetTextureParameterfv,
-   *           glGetTextureParameteriv,
-   *           glGetTextureParameterIiv, and
-   *           glGetTextureParameterIuiv functions.
+   * glGetTextureParameterfv, glGetTextureParameteriv, glGetTextureParameterIiv,
+   * and glGetTextureParameterIuiv functions.
    *
    * @param [pname] Specifies the symbolic name of a texture parameter.
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_BORDER_COLOR,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_IMMUTABLE_FORMAT,
-   *           GL_TEXTURE_IMMUTABLE_LEVELS,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_SWIZZLE_RGBA,
-   *           GL_TEXTURE_TARGET,
-   *           GL_TEXTURE_VIEW_MIN_LAYER,
-   *           GL_TEXTURE_VIEW_MIN_LEVEL,
-   *           GL_TEXTURE_VIEW_NUM_LAYERS,
-   *           GL_TEXTURE_VIEW_NUM_LEVELS,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, and
-   *           GL_TEXTURE_WRAP_R are accepted.
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
+   * GL_TEXTURE_BASE_LEVEL, GL_TEXTURE_BORDER_COLOR, GL_TEXTURE_COMPARE_MODE,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_IMMUTABLE_FORMAT,
+   * GL_TEXTURE_IMMUTABLE_LEVELS, GL_TEXTURE_LOD_BIAS, GL_TEXTURE_MAG_FILTER,
+   * GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_MAX_LOD, GL_TEXTURE_MIN_FILTER,
+   * GL_TEXTURE_MIN_LOD, GL_TEXTURE_SWIZZLE_R, GL_TEXTURE_SWIZZLE_G,
+   * GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A, GL_TEXTURE_SWIZZLE_RGBA,
+   * GL_TEXTURE_TARGET, GL_TEXTURE_VIEW_MIN_LAYER, GL_TEXTURE_VIEW_MIN_LEVEL,
+   * GL_TEXTURE_VIEW_NUM_LAYERS, GL_TEXTURE_VIEW_NUM_LEVELS, GL_TEXTURE_WRAP_S,
+   * GL_TEXTURE_WRAP_T, and GL_TEXTURE_WRAP_R are accepted.
    *
    * @param [params] Returns the texture parameters.
    */
@@ -10473,55 +8960,27 @@ extern "C"
    * glGetTexParameter — return texture parameter values
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexParameterfv,
-   *           glGetTexParameteriv,
-   *           glGetTexParameterIiv, and
-   *           glGetTexParameterIuiv functions.
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_RECTANGLE, and
-   *           GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
+   * glGetTexParameterfv, glGetTexParameteriv, glGetTexParameterIiv, and
+   * glGetTexParameterIuiv functions. GL_TEXTURE_1D, GL_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY, GL_TEXTURE_2D_MULTISAMPLE,
+   * GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D, GL_TEXTURE_CUBE_MAP,
+   * GL_TEXTURE_RECTANGLE, and GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetTextureParameterfv,
-   *           glGetTextureParameteriv,
-   *           glGetTextureParameterIiv, and
-   *           glGetTextureParameterIuiv functions.
+   * glGetTextureParameterfv, glGetTextureParameteriv, glGetTextureParameterIiv,
+   * and glGetTextureParameterIuiv functions.
    *
    * @param [pname] Specifies the symbolic name of a texture parameter.
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_BORDER_COLOR,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_IMMUTABLE_FORMAT,
-   *           GL_TEXTURE_IMMUTABLE_LEVELS,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_SWIZZLE_RGBA,
-   *           GL_TEXTURE_TARGET,
-   *           GL_TEXTURE_VIEW_MIN_LAYER,
-   *           GL_TEXTURE_VIEW_MIN_LEVEL,
-   *           GL_TEXTURE_VIEW_NUM_LAYERS,
-   *           GL_TEXTURE_VIEW_NUM_LEVELS,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, and
-   *           GL_TEXTURE_WRAP_R are accepted.
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
+   * GL_TEXTURE_BASE_LEVEL, GL_TEXTURE_BORDER_COLOR, GL_TEXTURE_COMPARE_MODE,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_IMMUTABLE_FORMAT,
+   * GL_TEXTURE_IMMUTABLE_LEVELS, GL_TEXTURE_LOD_BIAS, GL_TEXTURE_MAG_FILTER,
+   * GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_MAX_LOD, GL_TEXTURE_MIN_FILTER,
+   * GL_TEXTURE_MIN_LOD, GL_TEXTURE_SWIZZLE_R, GL_TEXTURE_SWIZZLE_G,
+   * GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A, GL_TEXTURE_SWIZZLE_RGBA,
+   * GL_TEXTURE_TARGET, GL_TEXTURE_VIEW_MIN_LAYER, GL_TEXTURE_VIEW_MIN_LEVEL,
+   * GL_TEXTURE_VIEW_NUM_LAYERS, GL_TEXTURE_VIEW_NUM_LEVELS, GL_TEXTURE_WRAP_S,
+   * GL_TEXTURE_WRAP_T, and GL_TEXTURE_WRAP_R are accepted.
    *
    * @param [params] Returns the texture parameters.
    */
@@ -10534,55 +8993,27 @@ extern "C"
    * glGetTexParameter — return texture parameter values
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexParameterfv,
-   *           glGetTexParameteriv,
-   *           glGetTexParameterIiv, and
-   *           glGetTexParameterIuiv functions.
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_RECTANGLE, and
-   *           GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
+   * glGetTexParameterfv, glGetTexParameteriv, glGetTexParameterIiv, and
+   * glGetTexParameterIuiv functions. GL_TEXTURE_1D, GL_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY, GL_TEXTURE_2D_MULTISAMPLE,
+   * GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D, GL_TEXTURE_CUBE_MAP,
+   * GL_TEXTURE_RECTANGLE, and GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetTextureParameterfv,
-   *           glGetTextureParameteriv,
-   *           glGetTextureParameterIiv, and
-   *           glGetTextureParameterIuiv functions.
+   * glGetTextureParameterfv, glGetTextureParameteriv, glGetTextureParameterIiv,
+   * and glGetTextureParameterIuiv functions.
    *
    * @param [pname] Specifies the symbolic name of a texture parameter.
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_BORDER_COLOR,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_IMMUTABLE_FORMAT,
-   *           GL_TEXTURE_IMMUTABLE_LEVELS,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_SWIZZLE_RGBA,
-   *           GL_TEXTURE_TARGET,
-   *           GL_TEXTURE_VIEW_MIN_LAYER,
-   *           GL_TEXTURE_VIEW_MIN_LEVEL,
-   *           GL_TEXTURE_VIEW_NUM_LAYERS,
-   *           GL_TEXTURE_VIEW_NUM_LEVELS,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, and
-   *           GL_TEXTURE_WRAP_R are accepted.
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
+   * GL_TEXTURE_BASE_LEVEL, GL_TEXTURE_BORDER_COLOR, GL_TEXTURE_COMPARE_MODE,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_IMMUTABLE_FORMAT,
+   * GL_TEXTURE_IMMUTABLE_LEVELS, GL_TEXTURE_LOD_BIAS, GL_TEXTURE_MAG_FILTER,
+   * GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_MAX_LOD, GL_TEXTURE_MIN_FILTER,
+   * GL_TEXTURE_MIN_LOD, GL_TEXTURE_SWIZZLE_R, GL_TEXTURE_SWIZZLE_G,
+   * GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A, GL_TEXTURE_SWIZZLE_RGBA,
+   * GL_TEXTURE_TARGET, GL_TEXTURE_VIEW_MIN_LAYER, GL_TEXTURE_VIEW_MIN_LEVEL,
+   * GL_TEXTURE_VIEW_NUM_LAYERS, GL_TEXTURE_VIEW_NUM_LEVELS, GL_TEXTURE_WRAP_S,
+   * GL_TEXTURE_WRAP_T, and GL_TEXTURE_WRAP_R are accepted.
    *
    * @param [params] Returns the texture parameters.
    */
@@ -10595,55 +9026,27 @@ extern "C"
    * glGetTexParameter — return texture parameter values
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexParameterfv,
-   *           glGetTexParameteriv,
-   *           glGetTexParameterIiv, and
-   *           glGetTexParameterIuiv functions.
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_RECTANGLE, and
-   *           GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
+   * glGetTexParameterfv, glGetTexParameteriv, glGetTexParameterIiv, and
+   * glGetTexParameterIuiv functions. GL_TEXTURE_1D, GL_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY, GL_TEXTURE_2D_MULTISAMPLE,
+   * GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D, GL_TEXTURE_CUBE_MAP,
+   * GL_TEXTURE_RECTANGLE, and GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetTextureParameterfv,
-   *           glGetTextureParameteriv,
-   *           glGetTextureParameterIiv, and
-   *           glGetTextureParameterIuiv functions.
+   * glGetTextureParameterfv, glGetTextureParameteriv, glGetTextureParameterIiv,
+   * and glGetTextureParameterIuiv functions.
    *
    * @param [pname] Specifies the symbolic name of a texture parameter.
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_BORDER_COLOR,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_IMMUTABLE_FORMAT,
-   *           GL_TEXTURE_IMMUTABLE_LEVELS,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_SWIZZLE_RGBA,
-   *           GL_TEXTURE_TARGET,
-   *           GL_TEXTURE_VIEW_MIN_LAYER,
-   *           GL_TEXTURE_VIEW_MIN_LEVEL,
-   *           GL_TEXTURE_VIEW_NUM_LAYERS,
-   *           GL_TEXTURE_VIEW_NUM_LEVELS,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, and
-   *           GL_TEXTURE_WRAP_R are accepted.
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
+   * GL_TEXTURE_BASE_LEVEL, GL_TEXTURE_BORDER_COLOR, GL_TEXTURE_COMPARE_MODE,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_IMMUTABLE_FORMAT,
+   * GL_TEXTURE_IMMUTABLE_LEVELS, GL_TEXTURE_LOD_BIAS, GL_TEXTURE_MAG_FILTER,
+   * GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_MAX_LOD, GL_TEXTURE_MIN_FILTER,
+   * GL_TEXTURE_MIN_LOD, GL_TEXTURE_SWIZZLE_R, GL_TEXTURE_SWIZZLE_G,
+   * GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A, GL_TEXTURE_SWIZZLE_RGBA,
+   * GL_TEXTURE_TARGET, GL_TEXTURE_VIEW_MIN_LAYER, GL_TEXTURE_VIEW_MIN_LEVEL,
+   * GL_TEXTURE_VIEW_NUM_LAYERS, GL_TEXTURE_VIEW_NUM_LEVELS, GL_TEXTURE_WRAP_S,
+   * GL_TEXTURE_WRAP_T, and GL_TEXTURE_WRAP_R are accepted.
    *
    * @param [params] Returns the texture parameters.
    */
@@ -10656,55 +9059,27 @@ extern "C"
    * glGetTexParameter — return texture parameter values
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexParameterfv,
-   *           glGetTexParameteriv,
-   *           glGetTexParameterIiv, and
-   *           glGetTexParameterIuiv functions.
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_RECTANGLE, and
-   *           GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
+   * glGetTexParameterfv, glGetTexParameteriv, glGetTexParameterIiv, and
+   * glGetTexParameterIuiv functions. GL_TEXTURE_1D, GL_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY, GL_TEXTURE_2D_MULTISAMPLE,
+   * GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D, GL_TEXTURE_CUBE_MAP,
+   * GL_TEXTURE_RECTANGLE, and GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetTextureParameterfv,
-   *           glGetTextureParameteriv,
-   *           glGetTextureParameterIiv, and
-   *           glGetTextureParameterIuiv functions.
+   * glGetTextureParameterfv, glGetTextureParameteriv, glGetTextureParameterIiv,
+   * and glGetTextureParameterIuiv functions.
    *
    * @param [pname] Specifies the symbolic name of a texture parameter.
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_BORDER_COLOR,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_IMMUTABLE_FORMAT,
-   *           GL_TEXTURE_IMMUTABLE_LEVELS,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_SWIZZLE_RGBA,
-   *           GL_TEXTURE_TARGET,
-   *           GL_TEXTURE_VIEW_MIN_LAYER,
-   *           GL_TEXTURE_VIEW_MIN_LEVEL,
-   *           GL_TEXTURE_VIEW_NUM_LAYERS,
-   *           GL_TEXTURE_VIEW_NUM_LEVELS,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, and
-   *           GL_TEXTURE_WRAP_R are accepted.
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
+   * GL_TEXTURE_BASE_LEVEL, GL_TEXTURE_BORDER_COLOR, GL_TEXTURE_COMPARE_MODE,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_IMMUTABLE_FORMAT,
+   * GL_TEXTURE_IMMUTABLE_LEVELS, GL_TEXTURE_LOD_BIAS, GL_TEXTURE_MAG_FILTER,
+   * GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_MAX_LOD, GL_TEXTURE_MIN_FILTER,
+   * GL_TEXTURE_MIN_LOD, GL_TEXTURE_SWIZZLE_R, GL_TEXTURE_SWIZZLE_G,
+   * GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A, GL_TEXTURE_SWIZZLE_RGBA,
+   * GL_TEXTURE_TARGET, GL_TEXTURE_VIEW_MIN_LAYER, GL_TEXTURE_VIEW_MIN_LEVEL,
+   * GL_TEXTURE_VIEW_NUM_LAYERS, GL_TEXTURE_VIEW_NUM_LEVELS, GL_TEXTURE_WRAP_S,
+   * GL_TEXTURE_WRAP_T, and GL_TEXTURE_WRAP_R are accepted.
    *
    * @param [params] Returns the texture parameters.
    */
@@ -10717,55 +9092,27 @@ extern "C"
    * glGetTexParameter — return texture parameter values
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexParameterfv,
-   *           glGetTexParameteriv,
-   *           glGetTexParameterIiv, and
-   *           glGetTexParameterIuiv functions.
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_RECTANGLE, and
-   *           GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
+   * glGetTexParameterfv, glGetTexParameteriv, glGetTexParameterIiv, and
+   * glGetTexParameterIuiv functions. GL_TEXTURE_1D, GL_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY, GL_TEXTURE_2D_MULTISAMPLE,
+   * GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D, GL_TEXTURE_CUBE_MAP,
+   * GL_TEXTURE_RECTANGLE, and GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetTextureParameterfv,
-   *           glGetTextureParameteriv,
-   *           glGetTextureParameterIiv, and
-   *           glGetTextureParameterIuiv functions.
+   * glGetTextureParameterfv, glGetTextureParameteriv, glGetTextureParameterIiv,
+   * and glGetTextureParameterIuiv functions.
    *
    * @param [pname] Specifies the symbolic name of a texture parameter.
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_BORDER_COLOR,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_IMMUTABLE_FORMAT,
-   *           GL_TEXTURE_IMMUTABLE_LEVELS,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_SWIZZLE_RGBA,
-   *           GL_TEXTURE_TARGET,
-   *           GL_TEXTURE_VIEW_MIN_LAYER,
-   *           GL_TEXTURE_VIEW_MIN_LEVEL,
-   *           GL_TEXTURE_VIEW_NUM_LAYERS,
-   *           GL_TEXTURE_VIEW_NUM_LEVELS,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, and
-   *           GL_TEXTURE_WRAP_R are accepted.
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
+   * GL_TEXTURE_BASE_LEVEL, GL_TEXTURE_BORDER_COLOR, GL_TEXTURE_COMPARE_MODE,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_IMMUTABLE_FORMAT,
+   * GL_TEXTURE_IMMUTABLE_LEVELS, GL_TEXTURE_LOD_BIAS, GL_TEXTURE_MAG_FILTER,
+   * GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_MAX_LOD, GL_TEXTURE_MIN_FILTER,
+   * GL_TEXTURE_MIN_LOD, GL_TEXTURE_SWIZZLE_R, GL_TEXTURE_SWIZZLE_G,
+   * GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A, GL_TEXTURE_SWIZZLE_RGBA,
+   * GL_TEXTURE_TARGET, GL_TEXTURE_VIEW_MIN_LAYER, GL_TEXTURE_VIEW_MIN_LEVEL,
+   * GL_TEXTURE_VIEW_NUM_LAYERS, GL_TEXTURE_VIEW_NUM_LEVELS, GL_TEXTURE_WRAP_S,
+   * GL_TEXTURE_WRAP_T, and GL_TEXTURE_WRAP_R are accepted.
    *
    * @param [params] Returns the texture parameters.
    */
@@ -10778,55 +9125,27 @@ extern "C"
    * glGetTexParameter — return texture parameter values
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexParameterfv,
-   *           glGetTexParameteriv,
-   *           glGetTexParameterIiv, and
-   *           glGetTexParameterIuiv functions.
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_RECTANGLE, and
-   *           GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
+   * glGetTexParameterfv, glGetTexParameteriv, glGetTexParameterIiv, and
+   * glGetTexParameterIuiv functions. GL_TEXTURE_1D, GL_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY, GL_TEXTURE_2D_MULTISAMPLE,
+   * GL_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_TEXTURE_3D, GL_TEXTURE_CUBE_MAP,
+   * GL_TEXTURE_RECTANGLE, and GL_TEXTURE_CUBE_MAP_ARRAY are accepted.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetTextureParameterfv,
-   *           glGetTextureParameteriv,
-   *           glGetTextureParameterIiv, and
-   *           glGetTextureParameterIuiv functions.
+   * glGetTextureParameterfv, glGetTextureParameteriv, glGetTextureParameterIiv,
+   * and glGetTextureParameterIuiv functions.
    *
    * @param [pname] Specifies the symbolic name of a texture parameter.
-   *           GL_DEPTH_STENCIL_TEXTURE_MODE,
-   *           GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
-   *           GL_TEXTURE_BASE_LEVEL,
-   *           GL_TEXTURE_BORDER_COLOR,
-   *           GL_TEXTURE_COMPARE_MODE,
-   *           GL_TEXTURE_COMPARE_FUNC,
-   *           GL_TEXTURE_IMMUTABLE_FORMAT,
-   *           GL_TEXTURE_IMMUTABLE_LEVELS,
-   *           GL_TEXTURE_LOD_BIAS,
-   *           GL_TEXTURE_MAG_FILTER,
-   *           GL_TEXTURE_MAX_LEVEL,
-   *           GL_TEXTURE_MAX_LOD,
-   *           GL_TEXTURE_MIN_FILTER,
-   *           GL_TEXTURE_MIN_LOD,
-   *           GL_TEXTURE_SWIZZLE_R,
-   *           GL_TEXTURE_SWIZZLE_G,
-   *           GL_TEXTURE_SWIZZLE_B,
-   *           GL_TEXTURE_SWIZZLE_A,
-   *           GL_TEXTURE_SWIZZLE_RGBA,
-   *           GL_TEXTURE_TARGET,
-   *           GL_TEXTURE_VIEW_MIN_LAYER,
-   *           GL_TEXTURE_VIEW_MIN_LEVEL,
-   *           GL_TEXTURE_VIEW_NUM_LAYERS,
-   *           GL_TEXTURE_VIEW_NUM_LEVELS,
-   *           GL_TEXTURE_WRAP_S,
-   *           GL_TEXTURE_WRAP_T, and
-   *           GL_TEXTURE_WRAP_R are accepted.
+   * GL_DEPTH_STENCIL_TEXTURE_MODE, GL_IMAGE_FORMAT_COMPATIBILITY_TYPE,
+   * GL_TEXTURE_BASE_LEVEL, GL_TEXTURE_BORDER_COLOR, GL_TEXTURE_COMPARE_MODE,
+   * GL_TEXTURE_COMPARE_FUNC, GL_TEXTURE_IMMUTABLE_FORMAT,
+   * GL_TEXTURE_IMMUTABLE_LEVELS, GL_TEXTURE_LOD_BIAS, GL_TEXTURE_MAG_FILTER,
+   * GL_TEXTURE_MAX_LEVEL, GL_TEXTURE_MAX_LOD, GL_TEXTURE_MIN_FILTER,
+   * GL_TEXTURE_MIN_LOD, GL_TEXTURE_SWIZZLE_R, GL_TEXTURE_SWIZZLE_G,
+   * GL_TEXTURE_SWIZZLE_B, GL_TEXTURE_SWIZZLE_A, GL_TEXTURE_SWIZZLE_RGBA,
+   * GL_TEXTURE_TARGET, GL_TEXTURE_VIEW_MIN_LAYER, GL_TEXTURE_VIEW_MIN_LEVEL,
+   * GL_TEXTURE_VIEW_NUM_LAYERS, GL_TEXTURE_VIEW_NUM_LEVELS, GL_TEXTURE_WRAP_S,
+   * GL_TEXTURE_WRAP_T, and GL_TEXTURE_WRAP_R are accepted.
    *
    * @param [params] Returns the texture parameters.
    */
@@ -10838,20 +9157,16 @@ extern "C"
   /**
    * glGetVertexAttrib — Return a generic vertex attribute parameter
    *
-   * @param [index] Specifies the generic vertex attribute
-   *             parameter to be queried.
+   * @param [index] Specifies the generic vertex attribute parameter to be
+   * queried.
    *
-   * @param [pname] Specifies the symbolic name of the vertex
-   *             attribute parameter to be queried. Accepted values are
-   *             GL_VERTEX_ATTRIB_ARRAY_BUFFER_BINDING,
-   *             GL_VERTEX_ATTRIB_ARRAY_ENABLED,
-   *             GL_VERTEX_ATTRIB_ARRAY_SIZE,
-   *             GL_VERTEX_ATTRIB_ARRAY_STRIDE,
-   *             GL_VERTEX_ATTRIB_ARRAY_TYPE,
-   *             GL_VERTEX_ATTRIB_ARRAY_NORMALIZED,
-   *             GL_VERTEX_ATTRIB_ARRAY_INTEGER,
-   *             GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
-   *             GL_CURRENT_VERTEX_ATTRIB.
+   * @param [pname] Specifies the symbolic name of the vertex attribute
+   * parameter to be queried. Accepted values are
+   * GL_VERTEX_ATTRIB_ARRAY_BUFFER_BINDING, GL_VERTEX_ATTRIB_ARRAY_ENABLED,
+   * GL_VERTEX_ATTRIB_ARRAY_SIZE, GL_VERTEX_ATTRIB_ARRAY_STRIDE,
+   * GL_VERTEX_ATTRIB_ARRAY_TYPE, GL_VERTEX_ATTRIB_ARRAY_NORMALIZED,
+   * GL_VERTEX_ATTRIB_ARRAY_INTEGER, GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
+   * GL_CURRENT_VERTEX_ATTRIB.
    *
    * @param [params] Returns the requested data.
    */
@@ -10863,20 +9178,16 @@ extern "C"
   /**
    * glGetVertexAttrib — Return a generic vertex attribute parameter
    *
-   * @param [index] Specifies the generic vertex attribute
-   *             parameter to be queried.
+   * @param [index] Specifies the generic vertex attribute parameter to be
+   * queried.
    *
-   * @param [pname] Specifies the symbolic name of the vertex
-   *             attribute parameter to be queried. Accepted values are
-   *             GL_VERTEX_ATTRIB_ARRAY_BUFFER_BINDING,
-   *             GL_VERTEX_ATTRIB_ARRAY_ENABLED,
-   *             GL_VERTEX_ATTRIB_ARRAY_SIZE,
-   *             GL_VERTEX_ATTRIB_ARRAY_STRIDE,
-   *             GL_VERTEX_ATTRIB_ARRAY_TYPE,
-   *             GL_VERTEX_ATTRIB_ARRAY_NORMALIZED,
-   *             GL_VERTEX_ATTRIB_ARRAY_INTEGER,
-   *             GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
-   *             GL_CURRENT_VERTEX_ATTRIB.
+   * @param [pname] Specifies the symbolic name of the vertex attribute
+   * parameter to be queried. Accepted values are
+   * GL_VERTEX_ATTRIB_ARRAY_BUFFER_BINDING, GL_VERTEX_ATTRIB_ARRAY_ENABLED,
+   * GL_VERTEX_ATTRIB_ARRAY_SIZE, GL_VERTEX_ATTRIB_ARRAY_STRIDE,
+   * GL_VERTEX_ATTRIB_ARRAY_TYPE, GL_VERTEX_ATTRIB_ARRAY_NORMALIZED,
+   * GL_VERTEX_ATTRIB_ARRAY_INTEGER, GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
+   * GL_CURRENT_VERTEX_ATTRIB.
    *
    * @param [params] Returns the requested data.
    */
@@ -10888,20 +9199,16 @@ extern "C"
   /**
    * glGetVertexAttrib — Return a generic vertex attribute parameter
    *
-   * @param [index] Specifies the generic vertex attribute
-   *             parameter to be queried.
+   * @param [index] Specifies the generic vertex attribute parameter to be
+   * queried.
    *
-   * @param [pname] Specifies the symbolic name of the vertex
-   *             attribute parameter to be queried. Accepted values are
-   *             GL_VERTEX_ATTRIB_ARRAY_BUFFER_BINDING,
-   *             GL_VERTEX_ATTRIB_ARRAY_ENABLED,
-   *             GL_VERTEX_ATTRIB_ARRAY_SIZE,
-   *             GL_VERTEX_ATTRIB_ARRAY_STRIDE,
-   *             GL_VERTEX_ATTRIB_ARRAY_TYPE,
-   *             GL_VERTEX_ATTRIB_ARRAY_NORMALIZED,
-   *             GL_VERTEX_ATTRIB_ARRAY_INTEGER,
-   *             GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
-   *             GL_CURRENT_VERTEX_ATTRIB.
+   * @param [pname] Specifies the symbolic name of the vertex attribute
+   * parameter to be queried. Accepted values are
+   * GL_VERTEX_ATTRIB_ARRAY_BUFFER_BINDING, GL_VERTEX_ATTRIB_ARRAY_ENABLED,
+   * GL_VERTEX_ATTRIB_ARRAY_SIZE, GL_VERTEX_ATTRIB_ARRAY_STRIDE,
+   * GL_VERTEX_ATTRIB_ARRAY_TYPE, GL_VERTEX_ATTRIB_ARRAY_NORMALIZED,
+   * GL_VERTEX_ATTRIB_ARRAY_INTEGER, GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
+   * GL_CURRENT_VERTEX_ATTRIB.
    *
    * @param [params] Returns the requested data.
    */
@@ -10913,20 +9220,16 @@ extern "C"
   /**
    * glGetVertexAttrib — Return a generic vertex attribute parameter
    *
-   * @param [index] Specifies the generic vertex attribute
-   *             parameter to be queried.
+   * @param [index] Specifies the generic vertex attribute parameter to be
+   * queried.
    *
-   * @param [pname] Specifies the symbolic name of the vertex
-   *             attribute parameter to be queried. Accepted values are
-   *             GL_VERTEX_ATTRIB_ARRAY_BUFFER_BINDING,
-   *             GL_VERTEX_ATTRIB_ARRAY_ENABLED,
-   *             GL_VERTEX_ATTRIB_ARRAY_SIZE,
-   *             GL_VERTEX_ATTRIB_ARRAY_STRIDE,
-   *             GL_VERTEX_ATTRIB_ARRAY_TYPE,
-   *             GL_VERTEX_ATTRIB_ARRAY_NORMALIZED,
-   *             GL_VERTEX_ATTRIB_ARRAY_INTEGER,
-   *             GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
-   *             GL_CURRENT_VERTEX_ATTRIB.
+   * @param [pname] Specifies the symbolic name of the vertex attribute
+   * parameter to be queried. Accepted values are
+   * GL_VERTEX_ATTRIB_ARRAY_BUFFER_BINDING, GL_VERTEX_ATTRIB_ARRAY_ENABLED,
+   * GL_VERTEX_ATTRIB_ARRAY_SIZE, GL_VERTEX_ATTRIB_ARRAY_STRIDE,
+   * GL_VERTEX_ATTRIB_ARRAY_TYPE, GL_VERTEX_ATTRIB_ARRAY_NORMALIZED,
+   * GL_VERTEX_ATTRIB_ARRAY_INTEGER, GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
+   * GL_CURRENT_VERTEX_ATTRIB.
    *
    * @param [params] Returns the requested data.
    */
@@ -10938,20 +9241,16 @@ extern "C"
   /**
    * glGetVertexAttrib — Return a generic vertex attribute parameter
    *
-   * @param [index] Specifies the generic vertex attribute
-   *             parameter to be queried.
+   * @param [index] Specifies the generic vertex attribute parameter to be
+   * queried.
    *
-   * @param [pname] Specifies the symbolic name of the vertex
-   *             attribute parameter to be queried. Accepted values are
-   *             GL_VERTEX_ATTRIB_ARRAY_BUFFER_BINDING,
-   *             GL_VERTEX_ATTRIB_ARRAY_ENABLED,
-   *             GL_VERTEX_ATTRIB_ARRAY_SIZE,
-   *             GL_VERTEX_ATTRIB_ARRAY_STRIDE,
-   *             GL_VERTEX_ATTRIB_ARRAY_TYPE,
-   *             GL_VERTEX_ATTRIB_ARRAY_NORMALIZED,
-   *             GL_VERTEX_ATTRIB_ARRAY_INTEGER,
-   *             GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
-   *             GL_CURRENT_VERTEX_ATTRIB.
+   * @param [pname] Specifies the symbolic name of the vertex attribute
+   * parameter to be queried. Accepted values are
+   * GL_VERTEX_ATTRIB_ARRAY_BUFFER_BINDING, GL_VERTEX_ATTRIB_ARRAY_ENABLED,
+   * GL_VERTEX_ATTRIB_ARRAY_SIZE, GL_VERTEX_ATTRIB_ARRAY_STRIDE,
+   * GL_VERTEX_ATTRIB_ARRAY_TYPE, GL_VERTEX_ATTRIB_ARRAY_NORMALIZED,
+   * GL_VERTEX_ATTRIB_ARRAY_INTEGER, GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
+   * GL_CURRENT_VERTEX_ATTRIB.
    *
    * @param [params] Returns the requested data.
    */
@@ -10963,20 +9262,16 @@ extern "C"
   /**
    * glGetVertexAttrib — Return a generic vertex attribute parameter
    *
-   * @param [index] Specifies the generic vertex attribute
-   *             parameter to be queried.
+   * @param [index] Specifies the generic vertex attribute parameter to be
+   * queried.
    *
-   * @param [pname] Specifies the symbolic name of the vertex
-   *             attribute parameter to be queried. Accepted values are
-   *             GL_VERTEX_ATTRIB_ARRAY_BUFFER_BINDING,
-   *             GL_VERTEX_ATTRIB_ARRAY_ENABLED,
-   *             GL_VERTEX_ATTRIB_ARRAY_SIZE,
-   *             GL_VERTEX_ATTRIB_ARRAY_STRIDE,
-   *             GL_VERTEX_ATTRIB_ARRAY_TYPE,
-   *             GL_VERTEX_ATTRIB_ARRAY_NORMALIZED,
-   *             GL_VERTEX_ATTRIB_ARRAY_INTEGER,
-   *             GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
-   *             GL_CURRENT_VERTEX_ATTRIB.
+   * @param [pname] Specifies the symbolic name of the vertex attribute
+   * parameter to be queried. Accepted values are
+   * GL_VERTEX_ATTRIB_ARRAY_BUFFER_BINDING, GL_VERTEX_ATTRIB_ARRAY_ENABLED,
+   * GL_VERTEX_ATTRIB_ARRAY_SIZE, GL_VERTEX_ATTRIB_ARRAY_STRIDE,
+   * GL_VERTEX_ATTRIB_ARRAY_TYPE, GL_VERTEX_ATTRIB_ARRAY_NORMALIZED,
+   * GL_VERTEX_ATTRIB_ARRAY_INTEGER, GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
+   * GL_CURRENT_VERTEX_ATTRIB.
    *
    * @param [params] Returns the requested data.
    */
@@ -10988,20 +9283,11 @@ extern "C"
   /**
    * glMultiDrawArrays — render multiple sets of primitives from array data
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY and GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY and GL_PATCHES are accepted.
    *
    * @param [first] Points to an array of starting indices in the enabled
    * arrays.
@@ -11029,8 +9315,8 @@ extern "C"
   /**
    * glValidateProgram — Validates a program object
    *
-   * @param [program] Specifies the handle of the program object to
-   *                     be validated.
+   * @param [program] Specifies the handle of the program object to be
+   * validated.
    */
   static inline void glValidateProgram(GLuint program)
   {
@@ -11042,13 +9328,11 @@ extern "C"
    * @param [index] Specify the first viewport to set.
    *
    * @param [x, y] For glViewportIndexedf, specifies the lower left corner of
-   *                     the viewport rectangle, in pixels. The initial value is
-   * (0,0).
+   * the viewport rectangle, in pixels. The initial value is (0,0).
    *
    * @param [width, height] For glViewportIndexedf, specifies the width and
    * height of the viewport. When a GL context is first attached to a window,
-   *                     width and height are set to the dimensions of that
-   *                     window.
+   * width and height are set to the dimensions of that window.
    *
    * @param [v] For glViewportIndexedfv, specifies the address of an array
    * containing the viewport parameters.
@@ -11064,13 +9348,11 @@ extern "C"
    * @param [index] Specify the first viewport to set.
    *
    * @param [x, y] For glViewportIndexedf, specifies the lower left corner of
-   *                     the viewport rectangle, in pixels. The initial value is
-   * (0,0).
+   * the viewport rectangle, in pixels. The initial value is (0,0).
    *
    * @param [width, height] For glViewportIndexedf, specifies the width and
    * height of the viewport. When a GL context is first attached to a window,
-   *                     width and height are set to the dimensions of that
-   *                     window.
+   * width and height are set to the dimensions of that window.
    *
    * @param [v] For glViewportIndexedfv, specifies the address of an array
    * containing the viewport parameters.
@@ -11084,9 +9366,8 @@ extern "C"
    * sequence of indexed buffer targets
    *
    * @param [target] Specify the target of the bind operation. target must be
-   *                     one of GL_ATOMIC_COUNTER_BUFFER,
-   *                     GL_TRANSFORM_FEEDBACK_BUFFER, GL_UNIFORM_BUFFER or
-   *                     GL_SHADER_STORAGE_BUFFER.
+   * one of GL_ATOMIC_COUNTER_BUFFER, GL_TRANSFORM_FEEDBACK_BUFFER,
+   * GL_UNIFORM_BUFFER or GL_SHADER_STORAGE_BUFFER.
    *
    * @param [index] Specify the index of the first binding point within the
    * array specified by target.
@@ -11153,20 +9434,20 @@ extern "C"
    * buffer bind point
    *
    * @param [vaobj] Specifies the name of the vertex array object to be used by
-   *           glVertexArrayVertexBuffer function.
+   * glVertexArrayVertexBuffer function.
    *
    * @param [bindingindex] The index of the vertex buffer binding point to which
    * to bind the buffer.
    *
    * @param [buffer] The name of a buffer to bind to the vertex buffer binding
-   *           point.
+   * point.
    *
    * @param [offset] The offset of the first element of the buffer.
    *
    * @param [stride] The distance between elements within the buffer.
    */
   static inline void glBindVertexBuffer(GLuint bindingindex, GLuint buffer,
-                                        GLintptr offset, GLintptr stride)
+                                        GLintptr offset, GLint stride)
   {
     glad_glBindVertexBuffer(bindingindex, buffer, offset, stride);
   }
@@ -11175,13 +9456,13 @@ extern "C"
    * buffer bind point
    *
    * @param [vaobj] Specifies the name of the vertex array object to be used by
-   *           glVertexArrayVertexBuffer function.
+   * glVertexArrayVertexBuffer function.
    *
    * @param [bindingindex] The index of the vertex buffer binding point to which
    * to bind the buffer.
    *
    * @param [buffer] The name of a buffer to bind to the vertex buffer binding
-   *           point.
+   * point.
    *
    * @param [offset] The offset of the first element of the buffer.
    *
@@ -11301,30 +9582,23 @@ extern "C"
    * glGetActiveUniform — Returns information about an active uniform variable
    * for the specified program object
    *
-   * @param [program] Specifies the program object to be
-   *             queried.
+   * @param [program] Specifies the program object to be queried.
    *
-   * @param [index] Specifies the index of the uniform variable to
-   *             be queried.
+   * @param [index] Specifies the index of the uniform variable to be queried.
    *
-   * @param [bufSize] Specifies the maximum number of characters
-   *             OpenGL is allowed to write in the character buffer
-   *             indicated by name.
+   * @param [bufSize] Specifies the maximum number of characters OpenGL is
+   * allowed to write in the character buffer indicated by name.
    *
-   * @param [length] Returns the number of characters actually
-   *             written by OpenGL in the string indicated by
-   *             name (excluding the null
-   *             terminator) if a value other than
-   *             NULL is passed.
+   * @param [length] Returns the number of characters actually written by OpenGL
+   * in the string indicated by name (excluding the null terminator) if a value
+   * other than NULL is passed.
    *
-   * @param [size] Returns the size of the uniform
-   *             variable.
+   * @param [size] Returns the size of the uniform variable.
    *
-   * @param [type] Returns the data type of the uniform
-   *             variable.
+   * @param [type] Returns the data type of the uniform variable.
    *
-   * @param [name] Returns a null terminated string containing
-   *             the name of the uniform variable.
+   * @param [name] Returns a null terminated string containing the name of the
+   * uniform variable.
    */
   static inline void glGetActiveUniform(GLuint program, GLuint index,
                                         GLsizei bufSize, GLsizei *length,
@@ -11337,15 +9611,29 @@ extern "C"
    * object's data store
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glGetBufferSubData, which must
-   *                     be one of the buffer binding targets in the following
-   *                     table:
+   * for glGetBufferSubData, which must be one of the buffer binding targets in
+   * the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glGetNamedBufferSubData.
+   * glGetNamedBufferSubData.
    *
    * @param [offset] Specifies the offset into the buffer object's data store
-   *                     from which data will be returned, measured in bytes.
+   * from which data will be returned, measured in bytes.
    *
    * @param [size] Specifies the size in bytes of the data store region being
    * returned.
@@ -11363,15 +9651,29 @@ extern "C"
    * object's data store
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glGetBufferSubData, which must
-   *                     be one of the buffer binding targets in the following
-   *                     table:
+   * for glGetBufferSubData, which must be one of the buffer binding targets in
+   * the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glGetNamedBufferSubData.
+   * glGetNamedBufferSubData.
    *
    * @param [offset] Specifies the offset into the buffer object's data store
-   *                     from which data will be returned, measured in bytes.
+   * from which data will be returned, measured in bytes.
    *
    * @param [size] Specifies the size in bytes of the data store region being
    * returned.
@@ -11426,18 +9728,17 @@ extern "C"
   /**
    * glGetShaderInfoLog — Returns the information log for a shader object
    *
-   * @param [shader] Specifies the shader object whose information
-   *                     log is to be queried.
+   * @param [shader] Specifies the shader object whose information log is to be
+   * queried.
    *
-   * @param [maxLength] Specifies the size of the character buffer for
-   *                     storing the returned information log.
+   * @param [maxLength] Specifies the size of the character buffer for storing
+   * the returned information log.
    *
-   * @param [length] Returns the length of the string returned in
-   *                     infoLog (excluding the null
-   *                     terminator).
+   * @param [length] Returns the length of the string returned in infoLog
+   * (excluding the null terminator).
    *
-   * @param [infoLog] Specifies an array of characters that is used
-   *                     to return the information log.
+   * @param [infoLog] Specifies an array of characters that is used to return
+   * the information log.
    */
   static inline void glGetShaderInfoLog(GLuint shader, GLsizei maxLength,
                                         GLsizei *length, GLchar *infoLog)
@@ -11448,10 +9749,10 @@ extern "C"
    * glGetVertexArrayiv — retrieve parameters of a vertex array object
    *
    * @param [vaobj] specifies the name of the vertex array object to use for the
-   *           query.
+   * query.
    *
    * @param [pname] Name of the property to use for the query. Must be
-   *           GL_ELEMENT_ARRAY_BUFFER_BINDING.
+   * GL_ELEMENT_ARRAY_BUFFER_BINDING.
    *
    * @param [param] Returns the requested value.
    */
@@ -11492,28 +9793,16 @@ extern "C"
    *
    * @param [sampler] Specifies the sampler object whose parameter to modify.
    *
-   * @param [pname] Specifies the symbolic name of a sampler parameter.
-   *                     pname can be one of the
-   *                     following:
-   *                     GL_TEXTURE_WRAP_S,
-   *                     GL_TEXTURE_WRAP_T,
-   *                     GL_TEXTURE_WRAP_R,
-   *                     GL_TEXTURE_MIN_FILTER,
-   *                     GL_TEXTURE_MAG_FILTER,
-   *                     GL_TEXTURE_BORDER_COLOR,
-   *                     GL_TEXTURE_MIN_LOD,
-   *                     GL_TEXTURE_MAX_LOD,
-   *                     GL_TEXTURE_LOD_BIAS
-   * GL_TEXTURE_COMPARE_MODE, or
-   *                     GL_TEXTURE_COMPARE_FUNC.
+   * @param [pname] Specifies the symbolic name of a sampler parameter. pname
+   * can be one of the following: GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T,
+   * GL_TEXTURE_WRAP_R, GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER,
+   * GL_TEXTURE_BORDER_COLOR, GL_TEXTURE_MIN_LOD, GL_TEXTURE_MAX_LOD,
+   * GL_TEXTURE_LOD_BIAS GL_TEXTURE_COMPARE_MODE, or GL_TEXTURE_COMPARE_FUNC.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *                     pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
-   * @param [params] For the vector commands
-   *                     (glSamplerParameter*v), specifies a
-   *                     pointer to an array where the value or values of
-   *                     pname are stored.
+   * @param [params] For the vector commands (glSamplerParameter*v), specifies a
+   * pointer to an array where the value or values of pname are stored.
    */
   static inline void glSamplerParameterf(GLuint sampler, GLenum pname,
                                          GLfloat param)
@@ -11525,28 +9814,16 @@ extern "C"
    *
    * @param [sampler] Specifies the sampler object whose parameter to modify.
    *
-   * @param [pname] Specifies the symbolic name of a sampler parameter.
-   *                     pname can be one of the
-   *                     following:
-   *                     GL_TEXTURE_WRAP_S,
-   *                     GL_TEXTURE_WRAP_T,
-   *                     GL_TEXTURE_WRAP_R,
-   *                     GL_TEXTURE_MIN_FILTER,
-   *                     GL_TEXTURE_MAG_FILTER,
-   *                     GL_TEXTURE_BORDER_COLOR,
-   *                     GL_TEXTURE_MIN_LOD,
-   *                     GL_TEXTURE_MAX_LOD,
-   *                     GL_TEXTURE_LOD_BIAS
-   * GL_TEXTURE_COMPARE_MODE, or
-   *                     GL_TEXTURE_COMPARE_FUNC.
+   * @param [pname] Specifies the symbolic name of a sampler parameter. pname
+   * can be one of the following: GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T,
+   * GL_TEXTURE_WRAP_R, GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER,
+   * GL_TEXTURE_BORDER_COLOR, GL_TEXTURE_MIN_LOD, GL_TEXTURE_MAX_LOD,
+   * GL_TEXTURE_LOD_BIAS GL_TEXTURE_COMPARE_MODE, or GL_TEXTURE_COMPARE_FUNC.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *                     pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
-   * @param [params] For the vector commands
-   *                     (glSamplerParameter*v), specifies a
-   *                     pointer to an array where the value or values of
-   *                     pname are stored.
+   * @param [params] For the vector commands (glSamplerParameter*v), specifies a
+   * pointer to an array where the value or values of pname are stored.
    */
   static inline void glSamplerParameteri(GLuint sampler, GLenum pname,
                                          GLint param)
@@ -11558,28 +9835,16 @@ extern "C"
    *
    * @param [sampler] Specifies the sampler object whose parameter to modify.
    *
-   * @param [pname] Specifies the symbolic name of a sampler parameter.
-   *                     pname can be one of the
-   *                     following:
-   *                     GL_TEXTURE_WRAP_S,
-   *                     GL_TEXTURE_WRAP_T,
-   *                     GL_TEXTURE_WRAP_R,
-   *                     GL_TEXTURE_MIN_FILTER,
-   *                     GL_TEXTURE_MAG_FILTER,
-   *                     GL_TEXTURE_BORDER_COLOR,
-   *                     GL_TEXTURE_MIN_LOD,
-   *                     GL_TEXTURE_MAX_LOD,
-   *                     GL_TEXTURE_LOD_BIAS
-   * GL_TEXTURE_COMPARE_MODE, or
-   *                     GL_TEXTURE_COMPARE_FUNC.
+   * @param [pname] Specifies the symbolic name of a sampler parameter. pname
+   * can be one of the following: GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T,
+   * GL_TEXTURE_WRAP_R, GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER,
+   * GL_TEXTURE_BORDER_COLOR, GL_TEXTURE_MIN_LOD, GL_TEXTURE_MAX_LOD,
+   * GL_TEXTURE_LOD_BIAS GL_TEXTURE_COMPARE_MODE, or GL_TEXTURE_COMPARE_FUNC.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *                     pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
-   * @param [params] For the vector commands
-   *                     (glSamplerParameter*v), specifies a
-   *                     pointer to an array where the value or values of
-   *                     pname are stored.
+   * @param [params] For the vector commands (glSamplerParameter*v), specifies a
+   * pointer to an array where the value or values of pname are stored.
    */
   static inline void glSamplerParameterfv(GLuint sampler, GLenum pname,
                                           const GLfloat *params)
@@ -11591,28 +9856,16 @@ extern "C"
    *
    * @param [sampler] Specifies the sampler object whose parameter to modify.
    *
-   * @param [pname] Specifies the symbolic name of a sampler parameter.
-   *                     pname can be one of the
-   *                     following:
-   *                     GL_TEXTURE_WRAP_S,
-   *                     GL_TEXTURE_WRAP_T,
-   *                     GL_TEXTURE_WRAP_R,
-   *                     GL_TEXTURE_MIN_FILTER,
-   *                     GL_TEXTURE_MAG_FILTER,
-   *                     GL_TEXTURE_BORDER_COLOR,
-   *                     GL_TEXTURE_MIN_LOD,
-   *                     GL_TEXTURE_MAX_LOD,
-   *                     GL_TEXTURE_LOD_BIAS
-   * GL_TEXTURE_COMPARE_MODE, or
-   *                     GL_TEXTURE_COMPARE_FUNC.
+   * @param [pname] Specifies the symbolic name of a sampler parameter. pname
+   * can be one of the following: GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T,
+   * GL_TEXTURE_WRAP_R, GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER,
+   * GL_TEXTURE_BORDER_COLOR, GL_TEXTURE_MIN_LOD, GL_TEXTURE_MAX_LOD,
+   * GL_TEXTURE_LOD_BIAS GL_TEXTURE_COMPARE_MODE, or GL_TEXTURE_COMPARE_FUNC.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *                     pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
-   * @param [params] For the vector commands
-   *                     (glSamplerParameter*v), specifies a
-   *                     pointer to an array where the value or values of
-   *                     pname are stored.
+   * @param [params] For the vector commands (glSamplerParameter*v), specifies a
+   * pointer to an array where the value or values of pname are stored.
    */
   static inline void glSamplerParameteriv(GLuint sampler, GLenum pname,
                                           const GLint *params)
@@ -11624,28 +9877,16 @@ extern "C"
    *
    * @param [sampler] Specifies the sampler object whose parameter to modify.
    *
-   * @param [pname] Specifies the symbolic name of a sampler parameter.
-   *                     pname can be one of the
-   *                     following:
-   *                     GL_TEXTURE_WRAP_S,
-   *                     GL_TEXTURE_WRAP_T,
-   *                     GL_TEXTURE_WRAP_R,
-   *                     GL_TEXTURE_MIN_FILTER,
-   *                     GL_TEXTURE_MAG_FILTER,
-   *                     GL_TEXTURE_BORDER_COLOR,
-   *                     GL_TEXTURE_MIN_LOD,
-   *                     GL_TEXTURE_MAX_LOD,
-   *                     GL_TEXTURE_LOD_BIAS
-   * GL_TEXTURE_COMPARE_MODE, or
-   *                     GL_TEXTURE_COMPARE_FUNC.
+   * @param [pname] Specifies the symbolic name of a sampler parameter. pname
+   * can be one of the following: GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T,
+   * GL_TEXTURE_WRAP_R, GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER,
+   * GL_TEXTURE_BORDER_COLOR, GL_TEXTURE_MIN_LOD, GL_TEXTURE_MAX_LOD,
+   * GL_TEXTURE_LOD_BIAS GL_TEXTURE_COMPARE_MODE, or GL_TEXTURE_COMPARE_FUNC.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *                     pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
-   * @param [params] For the vector commands
-   *                     (glSamplerParameter*v), specifies a
-   *                     pointer to an array where the value or values of
-   *                     pname are stored.
+   * @param [params] For the vector commands (glSamplerParameter*v), specifies a
+   * pointer to an array where the value or values of pname are stored.
    */
   static inline void glSamplerParameterIiv(GLuint sampler, GLenum pname,
                                            const GLint *params)
@@ -11657,28 +9898,16 @@ extern "C"
    *
    * @param [sampler] Specifies the sampler object whose parameter to modify.
    *
-   * @param [pname] Specifies the symbolic name of a sampler parameter.
-   *                     pname can be one of the
-   *                     following:
-   *                     GL_TEXTURE_WRAP_S,
-   *                     GL_TEXTURE_WRAP_T,
-   *                     GL_TEXTURE_WRAP_R,
-   *                     GL_TEXTURE_MIN_FILTER,
-   *                     GL_TEXTURE_MAG_FILTER,
-   *                     GL_TEXTURE_BORDER_COLOR,
-   *                     GL_TEXTURE_MIN_LOD,
-   *                     GL_TEXTURE_MAX_LOD,
-   *                     GL_TEXTURE_LOD_BIAS
-   * GL_TEXTURE_COMPARE_MODE, or
-   *                     GL_TEXTURE_COMPARE_FUNC.
+   * @param [pname] Specifies the symbolic name of a sampler parameter. pname
+   * can be one of the following: GL_TEXTURE_WRAP_S, GL_TEXTURE_WRAP_T,
+   * GL_TEXTURE_WRAP_R, GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MAG_FILTER,
+   * GL_TEXTURE_BORDER_COLOR, GL_TEXTURE_MIN_LOD, GL_TEXTURE_MAX_LOD,
+   * GL_TEXTURE_LOD_BIAS GL_TEXTURE_COMPARE_MODE, or GL_TEXTURE_COMPARE_FUNC.
    *
-   * @param [param] For the scalar commands, specifies the value of
-   *                     pname.
+   * @param [param] For the scalar commands, specifies the value of pname.
    *
-   * @param [params] For the vector commands
-   *                     (glSamplerParameter*v), specifies a
-   *                     pointer to an array where the value or values of
-   *                     pname are stored.
+   * @param [params] For the vector commands (glSamplerParameter*v), specifies a
+   * pointer to an array where the value or values of pname are stored.
    */
   static inline void glSamplerParameterIuiv(GLuint sampler, GLenum pname,
                                             const GLuint *params)
@@ -11706,12 +9935,13 @@ extern "C"
    * glBeginQueryIndexed, glEndQueryIndexed — delimit the boundaries of a query
    * object on an indexed target
    *
-   * @param [target] Specifies the target type of query object to be concluded.
-   *                     The symbolic constant must be one of GL_SAMPLES_PASSED,
-   * GL_ANY_SAMPLES_PASSED, GL_PRIMITIVES_GENERATED,
-   * GL_TRANSFORM_FEEDBACK_PRIMITIVES_WRITTEN, or GL_TIME_ELAPSED.
+   * @param [target] Specifies the target type of query object established
+   * between glBeginQueryIndexed and the subsequent glEndQueryIndexed. The
+   * symbolic constant must be one of GL_SAMPLES_PASSED, GL_ANY_SAMPLES_PASSED,
+   * GL_PRIMITIVES_GENERATED, GL_TRANSFORM_FEEDBACK_PRIMITIVES_WRITTEN, or
+   * GL_TIME_ELAPSED.
    *
-   * @param [index] Specifies the index of the query target upon which to end
+   * @param [index] Specifies the index of the query target upon which to begin
    * the query.
    *
    * @param [id] Specifies the name of a query object.
@@ -11724,12 +9954,13 @@ extern "C"
    * glBeginQueryIndexed, glEndQueryIndexed — delimit the boundaries of a query
    * object on an indexed target
    *
-   * @param [target] Specifies the target type of query object to be concluded.
-   *                     The symbolic constant must be one of GL_SAMPLES_PASSED,
-   * GL_ANY_SAMPLES_PASSED, GL_PRIMITIVES_GENERATED,
-   * GL_TRANSFORM_FEEDBACK_PRIMITIVES_WRITTEN, or GL_TIME_ELAPSED.
+   * @param [target] Specifies the target type of query object established
+   * between glBeginQueryIndexed and the subsequent glEndQueryIndexed. The
+   * symbolic constant must be one of GL_SAMPLES_PASSED, GL_ANY_SAMPLES_PASSED,
+   * GL_PRIMITIVES_GENERATED, GL_TRANSFORM_FEEDBACK_PRIMITIVES_WRITTEN, or
+   * GL_TIME_ELAPSED.
    *
-   * @param [index] Specifies the index of the query target upon which to end
+   * @param [index] Specifies the index of the query target upon which to begin
    * the query.
    *
    * @param [id] Specifies the name of a query object.
@@ -11760,21 +9991,21 @@ extern "C"
    * objects to a vertex array object
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *                     glVertexArrayVertexBuffers.
+   * glVertexArrayVertexBuffers.
    *
-   * @param [first] Specifies the first vertex buffer binding point to which
-   *                     a buffer object is to be bound.
+   * @param [first] Specifies the first vertex buffer binding point to which a
+   * buffer object is to be bound.
    *
    * @param [count] Specifies the number of buffers to bind.
    *
    * @param [buffers] Specifies the address of an array of names of existing
-   *                     buffer objects.
+   * buffer objects.
    *
-   * @param [offsets] Specifies the address of an array of offsets to
-   *                     associate with the binding points.
+   * @param [offsets] Specifies the address of an array of offsets to associate
+   * with the binding points.
    *
-   * @param [strides] Specifies the address of an array of strides to
-   *                     associate with the binding points.
+   * @param [strides] Specifies the address of an array of strides to associate
+   * with the binding points.
    */
   static inline void glBindVertexBuffers(GLuint first, GLsizei count,
                                          const GLuint *buffers,
@@ -11788,21 +10019,21 @@ extern "C"
    * objects to a vertex array object
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *                     glVertexArrayVertexBuffers.
+   * glVertexArrayVertexBuffers.
    *
-   * @param [first] Specifies the first vertex buffer binding point to which
-   *                     a buffer object is to be bound.
+   * @param [first] Specifies the first vertex buffer binding point to which a
+   * buffer object is to be bound.
    *
    * @param [count] Specifies the number of buffers to bind.
    *
    * @param [buffers] Specifies the address of an array of names of existing
-   *                     buffer objects.
+   * buffer objects.
    *
-   * @param [offsets] Specifies the address of an array of offsets to
-   *                     associate with the binding points.
+   * @param [offsets] Specifies the address of an array of offsets to associate
+   * with the binding points.
    *
-   * @param [strides] Specifies the address of an array of strides to
-   *                     associate with the binding points.
+   * @param [strides] Specifies the address of an array of strides to associate
+   * with the binding points.
    */
   static inline void glVertexArrayVertexBuffers(GLuint vaobj, GLuint first,
                                                 GLsizei count,
@@ -11818,7 +10049,7 @@ extern "C"
    * separately
    *
    * @param [buf] For glBlendFuncSeparatei, specifies the index of the draw
-   *                     buffer for which to set the blend functions.
+   * buffer for which to set the blend functions.
    *
    * @param [srcRGB] Specifies how the red, green, and blue blending factors are
    * computed. The initial value is GL_ONE.
@@ -11842,7 +10073,7 @@ extern "C"
    * separately
    *
    * @param [buf] For glBlendFuncSeparatei, specifies the index of the draw
-   *                     buffer for which to set the blend functions.
+   * buffer for which to set the blend functions.
    *
    * @param [srcRGB] Specifies how the red, green, and blue blending factors are
    * computed. The initial value is GL_ONE.
@@ -11867,14 +10098,13 @@ extern "C"
    * data store of a buffer object to the data store of another buffer object
    *
    * @param [readTarget] Specifies the target to which the source buffer object
-   *                     is bound for glCopyBufferSubData
+   * is bound for glCopyBufferSubData
    *
    * @param [writeTarget] Specifies the target to which the destination buffer
-   *                     object is bound for
-   *                     glCopyBufferSubData.
+   * object is bound for glCopyBufferSubData.
    *
    * @param [readBuffer] Specifies the name of the source buffer object for
-   *                     glCopyNamedBufferSubData.
+   * glCopyNamedBufferSubData.
    *
    * @param [writeBuffer] Specifies the name of the destination buffer object
    * for glCopyNamedBufferSubData.
@@ -11886,9 +10116,8 @@ extern "C"
    * the data store of the destination buffer object at which data will be
    * written.
    *
-   * @param [size] Specifies the size, in basic machine units, of the data
-   *                     to be copied from the source buffer object to the
-   *                     destination buffer object.
+   * @param [size] Specifies the size, in basic machine units, of the data to be
+   * copied from the source buffer object to the destination buffer object.
    */
   static inline void glCopyBufferSubData(GLenum readTarget, GLenum writeTarget,
                                          GLintptr readOffset,
@@ -11902,14 +10131,13 @@ extern "C"
    * data store of a buffer object to the data store of another buffer object
    *
    * @param [readTarget] Specifies the target to which the source buffer object
-   *                     is bound for glCopyBufferSubData
+   * is bound for glCopyBufferSubData
    *
    * @param [writeTarget] Specifies the target to which the destination buffer
-   *                     object is bound for
-   *                     glCopyBufferSubData.
+   * object is bound for glCopyBufferSubData.
    *
    * @param [readBuffer] Specifies the name of the source buffer object for
-   *                     glCopyNamedBufferSubData.
+   * glCopyNamedBufferSubData.
    *
    * @param [writeBuffer] Specifies the name of the destination buffer object
    * for glCopyNamedBufferSubData.
@@ -11921,9 +10149,8 @@ extern "C"
    * the data store of the destination buffer object at which data will be
    * written.
    *
-   * @param [size] Specifies the size, in basic machine units, of the data
-   *                     to be copied from the source buffer object to the
-   *                     destination buffer object.
+   * @param [size] Specifies the size, in basic machine units, of the data to be
+   * copied from the source buffer object to the destination buffer object.
    */
   static inline void glCopyNamedBufferSubData(GLuint readBuffer,
                                               GLuint writeBuffer,
@@ -11942,16 +10169,15 @@ extern "C"
    * for glCopyTexSubImage1D function. Must be GL_TEXTURE_1D.
    *
    * @param [texture] Specifies the texture object name for
-   *           glCopyTextureSubImage1D function.
+   * glCopyTextureSubImage1D function.
    *
    * @param [level] Specifies the level-of-detail number. Level 0 is the base
-   *           image level. Level n is the
-   *           nth mipmap reduction image.
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies the texel offset within the texture array.
    *
    * @param [x, y] Specify the window coordinates of the left corner of the row
-   *           of pixels to be copied.
+   * of pixels to be copied.
    *
    * @param [width] Specifies the width of the texture subimage.
    */
@@ -11969,16 +10195,15 @@ extern "C"
    * for glCopyTexSubImage1D function. Must be GL_TEXTURE_1D.
    *
    * @param [texture] Specifies the texture object name for
-   *           glCopyTextureSubImage1D function.
+   * glCopyTextureSubImage1D function.
    *
    * @param [level] Specifies the level-of-detail number. Level 0 is the base
-   *           image level. Level n is the
-   *           nth mipmap reduction image.
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies the texel offset within the texture array.
    *
    * @param [x, y] Specify the window coordinates of the left corner of the row
-   *           of pixels to be copied.
+   * of pixels to be copied.
    *
    * @param [width] Specifies the width of the texture subimage.
    */
@@ -11994,21 +10219,16 @@ extern "C"
    *
    * @param [target] Specifies the target to which the texture object is bound
    * for glCopyTexSubImage2D function. Must be GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, or
-   *           GL_TEXTURE_RECTANGLE.
+   * GL_TEXTURE_2D, GL_TEXTURE_CUBE_MAP_POSITIVE_X,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_X, GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Y, GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, or GL_TEXTURE_RECTANGLE.
    *
    * @param [texture] Specifies the texture object name for
-   *           glCopyTextureSubImage2D function.
+   * glCopyTextureSubImage2D function.
    *
    * @param [level] Specifies the level-of-detail number. Level 0 is the base
-   *           image level. Level n is the
-   *           nth mipmap reduction image.
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
    * texture array.
@@ -12036,21 +10256,16 @@ extern "C"
    *
    * @param [target] Specifies the target to which the texture object is bound
    * for glCopyTexSubImage2D function. Must be GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, or
-   *           GL_TEXTURE_RECTANGLE.
+   * GL_TEXTURE_2D, GL_TEXTURE_CUBE_MAP_POSITIVE_X,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_X, GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Y, GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, or GL_TEXTURE_RECTANGLE.
    *
    * @param [texture] Specifies the texture object name for
-   *           glCopyTextureSubImage2D function.
+   * glCopyTextureSubImage2D function.
    *
    * @param [level] Specifies the level-of-detail number. Level 0 is the base
-   *           image level. Level n is the
-   *           nth mipmap reduction image.
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
    * texture array.
@@ -12079,14 +10294,13 @@ extern "C"
    *
    * @param [target] Specifies the target to which the texture object is bound
    * for glCopyTexSubImage3D function. Must be GL_TEXTURE_3D or
-   *           GL_TEXTURE_2D_ARRAY.
+   * GL_TEXTURE_2D_ARRAY.
    *
    * @param [texture] Specifies the texture object name for
-   *           glCopyTextureSubImage3D function.
+   * glCopyTextureSubImage3D function.
    *
    * @param [level] Specifies the level-of-detail number. Level 0 is the base
-   *           image level. Level n is the
-   *           nth mipmap reduction image.
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
    * texture array.
@@ -12118,14 +10332,13 @@ extern "C"
    *
    * @param [target] Specifies the target to which the texture object is bound
    * for glCopyTexSubImage3D function. Must be GL_TEXTURE_3D or
-   *           GL_TEXTURE_2D_ARRAY.
+   * GL_TEXTURE_2D_ARRAY.
    *
    * @param [texture] Specifies the texture object name for
-   *           glCopyTextureSubImage3D function.
+   * glCopyTextureSubImage3D function.
    *
    * @param [level] Specifies the level-of-detail number. Level 0 is the base
-   *           image level. Level n is the
-   *           nth mipmap reduction image.
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
    * texture array.
@@ -12172,20 +10385,11 @@ extern "C"
   /**
    * glDrawRangeElements — render primitives from array data
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY and GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY and GL_PATCHES are accepted.
    *
    * @param [start] Specifies the minimum array index contained in indices.
    *
@@ -12194,8 +10398,7 @@ extern "C"
    * @param [count] Specifies the number of elements to be rendered.
    *
    * @param [type] Specifies the type of the values in indices. Must be one of
-   *                     GL_UNSIGNED_BYTE, GL_UNSIGNED_SHORT, or
-   *                     GL_UNSIGNED_INT.
+   * GL_UNSIGNED_BYTE, GL_UNSIGNED_SHORT, or GL_UNSIGNED_INT.
    *
    * @param [indices] Specifies a pointer to the location where the indices are
    * stored.
@@ -12209,12 +10412,10 @@ extern "C"
   /**
    * glGetAttribLocation — Returns the location of an attribute variable
    *
-   * @param [program] Specifies the program object to be
-   *             queried.
+   * @param [program] Specifies the program object to be queried.
    *
-   * @param [name] Points to a null terminated string containing
-   *             the name of the attribute variable whose location is
-   *             to be queried.
+   * @param [name] Points to a null terminated string containing the name of the
+   * attribute variable whose location is to be queried.
    */
   static inline GLint glGetAttribLocation(GLuint program, const GLchar *name)
   {
@@ -12225,18 +10426,31 @@ extern "C"
    * mapped buffer object's data store
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glGetBufferPointerv, which must
-   *                     be one of the buffer binding targets in the following
-   *                     table:
+   * for glGetBufferPointerv, which must be one of the buffer binding targets in
+   * the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glGetNamedBufferPointerv.
+   * glGetNamedBufferPointerv.
    *
-   * @param [pname] Specifies the name of the pointer to be returned. Must
-   *                     be GL_BUFFER_MAP_POINTER.
+   * @param [pname] Specifies the name of the pointer to be returned. Must be
+   * GL_BUFFER_MAP_POINTER.
    *
-   * @param [params] Returns the pointer value specified by
-   *                     pname.
+   * @param [params] Returns the pointer value specified by pname.
    */
   static inline void glGetBufferPointerv(GLenum target, GLenum pname,
                                          GLvoid **params)
@@ -12248,18 +10462,31 @@ extern "C"
    * mapped buffer object's data store
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glGetBufferPointerv, which must
-   *                     be one of the buffer binding targets in the following
-   *                     table:
+   * for glGetBufferPointerv, which must be one of the buffer binding targets in
+   * the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glGetNamedBufferPointerv.
+   * glGetNamedBufferPointerv.
    *
-   * @param [pname] Specifies the name of the pointer to be returned. Must
-   *                     be GL_BUFFER_MAP_POINTER.
+   * @param [pname] Specifies the name of the pointer to be returned. Must be
+   * GL_BUFFER_MAP_POINTER.
    *
-   * @param [params] Returns the pointer value specified by
-   *                     pname.
+   * @param [params] Returns the pointer value specified by pname.
    */
   static inline void glGetNamedBufferPointerv(GLuint buffer, GLenum pname,
                                               void **params)
@@ -12343,18 +10570,17 @@ extern "C"
   /**
    * glGetProgramInfoLog — Returns the information log for a program object
    *
-   * @param [program] Specifies the program object whose information
-   *                     log is to be queried.
+   * @param [program] Specifies the program object whose information log is to
+   * be queried.
    *
-   * @param [maxLength] Specifies the size of the character buffer for
-   *                     storing the returned information log.
+   * @param [maxLength] Specifies the size of the character buffer for storing
+   * the returned information log.
    *
-   * @param [length] Returns the length of the string returned in
-   *                     infoLog (excluding the null
-   *                     terminator).
+   * @param [length] Returns the length of the string returned in infoLog
+   * (excluding the null terminator).
    *
-   * @param [infoLog] Specifies an array of characters that is used
-   *                     to return the information log.
+   * @param [infoLog] Specifies an array of characters that is used to return
+   * the information log.
    */
   static inline void glGetProgramInfoLog(GLuint program, GLsizei maxLength,
                                          GLsizei *length, GLchar *infoLog)
@@ -12398,26 +10624,16 @@ extern "C"
    * glMultiDrawElements — render multiple sets of primitives by specifying
    * indices of array data elements
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY and GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY and GL_PATCHES are accepted.
    *
    * @param [count] Points to an array of the elements counts.
    *
    * @param [type] Specifies the type of the values in indices. Must be one of
-   *                     GL_UNSIGNED_BYTE, GL_UNSIGNED_SHORT, or
-   *                     GL_UNSIGNED_INT.
+   * GL_UNSIGNED_BYTE, GL_UNSIGNED_SHORT, or GL_UNSIGNED_INT.
    *
    * @param [indices] Specifies a pointer to the location where the indices are
    * stored.
@@ -12435,32 +10651,22 @@ extern "C"
    * glStencilOpSeparate — set front and/or back stencil test actions
    *
    * @param [face] Specifies whether front and/or back stencil state is updated.
-   *                     Three symbolic constants are valid:
-   *                     GL_FRONT,
-   *                     GL_BACK, and
-   *                     GL_FRONT_AND_BACK.
+   * Three symbolic constants are valid: GL_FRONT, GL_BACK, and
+   * GL_FRONT_AND_BACK.
    *
    * @param [sfail] Specifies the action to take when the stencil test fails.
-   *                     Eight symbolic constants are accepted:
-   *                     GL_KEEP,
-   *                     GL_ZERO,
-   *                     GL_REPLACE,
-   *                     GL_INCR,
-   *                     GL_INCR_WRAP,
-   *                     GL_DECR,
-   *                     GL_DECR_WRAP, and
-   *                     GL_INVERT. The initial value is GL_KEEP.
+   * Eight symbolic constants are accepted: GL_KEEP, GL_ZERO, GL_REPLACE,
+   * GL_INCR, GL_INCR_WRAP, GL_DECR, GL_DECR_WRAP, and GL_INVERT. The initial
+   * value is GL_KEEP.
    *
    * @param [dpfail] Specifies the stencil action when the stencil test passes,
-   *                     but the depth test fails.
-   *                     dpfail accepts the same symbolic constants as sfail.
-   * The initial value is GL_KEEP.
+   * but the depth test fails. dpfail accepts the same symbolic constants as
+   * sfail. The initial value is GL_KEEP.
    *
    * @param [dppass] Specifies the stencil action when both the stencil test and
    * the depth test pass, or when the stencil test passes and either there is no
-   *                     depth buffer or depth testing is not enabled.
-   *                     dppass accepts the same symbolic constants as sfail.
-   * The initial value is GL_KEEP.
+   * depth buffer or depth testing is not enabled. dppass accepts the same
+   * symbolic constants as sfail. The initial value is GL_KEEP.
    */
   static inline void glStencilOpSeparate(GLenum face, GLenum sfail,
                                          GLenum dpfail, GLenum dppass)
@@ -12471,16 +10677,14 @@ extern "C"
    * glBindAttribLocation — Associates a generic vertex attribute index with a
    * named attribute variable
    *
-   * @param [program] Specifies the handle of the program object in
-   *             which the association is to be made.
+   * @param [program] Specifies the handle of the program object in which the
+   * association is to be made.
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be bound.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * bound.
    *
-   * @param [name] Specifies a null terminated string containing
-   *             the name of the vertex shader attribute variable to
-   *             which index is to be
-   *             bound.
+   * @param [name] Specifies a null terminated string containing the name of the
+   * vertex shader attribute variable to which index is to be bound.
    */
   static inline void glBindAttribLocation(GLuint program, GLuint index,
                                           const GLchar *name)
@@ -12492,30 +10696,42 @@ extern "C"
    * buffer object's data store with a fixed value
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glClearBufferSubData, which
-   *                     must be one of the buffer binding targets in the
-   *                     following table:
+   * for glClearBufferSubData, which must be one of the buffer binding targets
+   * in the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glClearNamedBufferSubData.
+   * glClearNamedBufferSubData.
    *
    * @param [internalformat] The internal format with which the data will be
    * stored in the buffer object.
    *
-   * @param [offset] The offset in basic machine units into the buffer
-   *                     object's data store at which to start filling.
+   * @param [offset] The offset in basic machine units into the buffer object's
+   * data store at which to start filling.
    *
-   * @param [size] The size in basic machine units of the range of the
-   *                     data store to fill.
+   * @param [size] The size in basic machine units of the range of the data
+   * store to fill.
    *
-   * @param [format] The format of the data in memory addressed by
-   *                     data.
+   * @param [format] The format of the data in memory addressed by data.
    *
-   * @param [type] The type of the data in memory addressed by
-   *                     data.
+   * @param [type] The type of the data in memory addressed by data.
    *
    * @param [data] The address of a memory location storing the data to be
-   *                     replicated into the buffer's data store.
+   * replicated into the buffer's data store.
    */
   static inline void glClearBufferSubData(GLenum target, GLenum internalformat,
                                           GLintptr offset, GLsizeiptr size,
@@ -12530,30 +10746,42 @@ extern "C"
    * buffer object's data store with a fixed value
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glClearBufferSubData, which
-   *                     must be one of the buffer binding targets in the
-   *                     following table:
+   * for glClearBufferSubData, which must be one of the buffer binding targets
+   * in the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glClearNamedBufferSubData.
+   * glClearNamedBufferSubData.
    *
    * @param [internalformat] The internal format with which the data will be
    * stored in the buffer object.
    *
-   * @param [offset] The offset in basic machine units into the buffer
-   *                     object's data store at which to start filling.
+   * @param [offset] The offset in basic machine units into the buffer object's
+   * data store at which to start filling.
    *
-   * @param [size] The size in basic machine units of the range of the
-   *                     data store to fill.
+   * @param [size] The size in basic machine units of the range of the data
+   * store to fill.
    *
-   * @param [format] The format of the data in memory addressed by
-   *                     data.
+   * @param [format] The format of the data in memory addressed by data.
    *
-   * @param [type] The type of the data in memory addressed by
-   *                     data.
+   * @param [type] The type of the data in memory addressed by data.
    *
    * @param [data] The address of a memory location storing the data to be
-   *                     replicated into the buffer's data store.
+   * replicated into the buffer's data store.
    */
   static inline void glClearNamedBufferSubData(GLuint buffer,
                                                GLenum internalformat,
@@ -12570,7 +10798,7 @@ extern "C"
    * @param [n] Number of framebuffer objects to create.
    *
    * @param [framebuffers] Specifies an array in which names of the new
-   *                         framebuffer objects are stored.
+   * framebuffer objects are stored.
    */
   static inline void glCreateFramebuffers(GLsizei n, GLuint *ids)
   {
@@ -12582,7 +10810,7 @@ extern "C"
    * @param [n] Number of vertex array objects to create.
    *
    * @param [arrays] Specifies an array in which names of the new vertex array
-   *                         objects are stored.
+   * objects are stored.
    */
   static inline void glCreateVertexArrays(GLsizei n, GLuint *arrays)
   {
@@ -12640,21 +10868,11 @@ extern "C"
    * glDrawArraysIndirect — render primitives from array data, taking parameters
    * from memory
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY, and
-   *                     GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY, and GL_PATCHES are accepted.
    *
    * @param [indirect] Specifies the address of a structure containing the draw
    * parameters.
@@ -12667,27 +10885,22 @@ extern "C"
    * glFramebufferTexture — attach a level of a texture object as a logical
    * buffer of a framebuffer object
    *
-   * @param [target] Specifies the target to which the framebuffer is bound
-   *                     for all commands except
-   * glNamedFramebufferTexture.
+   * @param [target] Specifies the target to which the framebuffer is bound for
+   * all commands except glNamedFramebufferTexture.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glNamedFramebufferTexture.
+   * glNamedFramebufferTexture.
    *
    * @param [attachment] Specifies the attachment point of the framebuffer.
    *
-   * @param [textarget] For glFramebufferTexture1D,
-   *                     glFramebufferTexture2D and
-   *                     glFramebufferTexture3D, specifies
-   *                     what type of texture is expected in the
-   *                     texture parameter, or for cube
-   *                     map textures, which face is to be attached.
+   * @param [textarget] For glFramebufferTexture1D, glFramebufferTexture2D and
+   * glFramebufferTexture3D, specifies what type of texture is expected in the
+   * texture parameter, or for cube map textures, which face is to be attached.
    *
    * @param [texture] Specifies the name of an existing texture object to
-   *                     attach.
+   * attach.
    *
-   * @param [level] Specifies the mipmap level of the texture object to
-   *                     attach.
+   * @param [level] Specifies the mipmap level of the texture object to attach.
    */
   static inline void glFramebufferTexture(GLenum target, GLenum attachment,
                                           GLuint texture, GLint level)
@@ -12698,27 +10911,22 @@ extern "C"
    * glFramebufferTexture — attach a level of a texture object as a logical
    * buffer of a framebuffer object
    *
-   * @param [target] Specifies the target to which the framebuffer is bound
-   *                     for all commands except
-   * glNamedFramebufferTexture.
+   * @param [target] Specifies the target to which the framebuffer is bound for
+   * all commands except glNamedFramebufferTexture.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glNamedFramebufferTexture.
+   * glNamedFramebufferTexture.
    *
    * @param [attachment] Specifies the attachment point of the framebuffer.
    *
-   * @param [textarget] For glFramebufferTexture1D,
-   *                     glFramebufferTexture2D and
-   *                     glFramebufferTexture3D, specifies
-   *                     what type of texture is expected in the
-   *                     texture parameter, or for cube
-   *                     map textures, which face is to be attached.
+   * @param [textarget] For glFramebufferTexture1D, glFramebufferTexture2D and
+   * glFramebufferTexture3D, specifies what type of texture is expected in the
+   * texture parameter, or for cube map textures, which face is to be attached.
    *
    * @param [texture] Specifies the name of an existing texture object to
-   *                     attach.
+   * attach.
    *
-   * @param [level] Specifies the mipmap level of the texture object to
-   *                     attach.
+   * @param [level] Specifies the mipmap level of the texture object to attach.
    */
   static inline void glFramebufferTexture1D(GLenum target, GLenum attachment,
                                             GLenum textarget, GLuint texture,
@@ -12730,27 +10938,22 @@ extern "C"
    * glFramebufferTexture — attach a level of a texture object as a logical
    * buffer of a framebuffer object
    *
-   * @param [target] Specifies the target to which the framebuffer is bound
-   *                     for all commands except
-   * glNamedFramebufferTexture.
+   * @param [target] Specifies the target to which the framebuffer is bound for
+   * all commands except glNamedFramebufferTexture.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glNamedFramebufferTexture.
+   * glNamedFramebufferTexture.
    *
    * @param [attachment] Specifies the attachment point of the framebuffer.
    *
-   * @param [textarget] For glFramebufferTexture1D,
-   *                     glFramebufferTexture2D and
-   *                     glFramebufferTexture3D, specifies
-   *                     what type of texture is expected in the
-   *                     texture parameter, or for cube
-   *                     map textures, which face is to be attached.
+   * @param [textarget] For glFramebufferTexture1D, glFramebufferTexture2D and
+   * glFramebufferTexture3D, specifies what type of texture is expected in the
+   * texture parameter, or for cube map textures, which face is to be attached.
    *
    * @param [texture] Specifies the name of an existing texture object to
-   *                     attach.
+   * attach.
    *
-   * @param [level] Specifies the mipmap level of the texture object to
-   *                     attach.
+   * @param [level] Specifies the mipmap level of the texture object to attach.
    */
   static inline void glFramebufferTexture2D(GLenum target, GLenum attachment,
                                             GLenum textarget, GLuint texture,
@@ -12762,27 +10965,22 @@ extern "C"
    * glFramebufferTexture — attach a level of a texture object as a logical
    * buffer of a framebuffer object
    *
-   * @param [target] Specifies the target to which the framebuffer is bound
-   *                     for all commands except
-   * glNamedFramebufferTexture.
+   * @param [target] Specifies the target to which the framebuffer is bound for
+   * all commands except glNamedFramebufferTexture.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glNamedFramebufferTexture.
+   * glNamedFramebufferTexture.
    *
    * @param [attachment] Specifies the attachment point of the framebuffer.
    *
-   * @param [textarget] For glFramebufferTexture1D,
-   *                     glFramebufferTexture2D and
-   *                     glFramebufferTexture3D, specifies
-   *                     what type of texture is expected in the
-   *                     texture parameter, or for cube
-   *                     map textures, which face is to be attached.
+   * @param [textarget] For glFramebufferTexture1D, glFramebufferTexture2D and
+   * glFramebufferTexture3D, specifies what type of texture is expected in the
+   * texture parameter, or for cube map textures, which face is to be attached.
    *
    * @param [texture] Specifies the name of an existing texture object to
-   *                     attach.
+   * attach.
    *
-   * @param [level] Specifies the mipmap level of the texture object to
-   *                     attach.
+   * @param [level] Specifies the mipmap level of the texture object to attach.
    */
   static inline void glFramebufferTexture3D(GLenum target, GLenum attachment,
                                             GLenum textarget, GLuint texture,
@@ -12795,27 +10993,22 @@ extern "C"
    * glFramebufferTexture — attach a level of a texture object as a logical
    * buffer of a framebuffer object
    *
-   * @param [target] Specifies the target to which the framebuffer is bound
-   *                     for all commands except
-   * glNamedFramebufferTexture.
+   * @param [target] Specifies the target to which the framebuffer is bound for
+   * all commands except glNamedFramebufferTexture.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glNamedFramebufferTexture.
+   * glNamedFramebufferTexture.
    *
    * @param [attachment] Specifies the attachment point of the framebuffer.
    *
-   * @param [textarget] For glFramebufferTexture1D,
-   *                     glFramebufferTexture2D and
-   *                     glFramebufferTexture3D, specifies
-   *                     what type of texture is expected in the
-   *                     texture parameter, or for cube
-   *                     map textures, which face is to be attached.
+   * @param [textarget] For glFramebufferTexture1D, glFramebufferTexture2D and
+   * glFramebufferTexture3D, specifies what type of texture is expected in the
+   * texture parameter, or for cube map textures, which face is to be attached.
    *
    * @param [texture] Specifies the name of an existing texture object to
-   *                     attach.
+   * attach.
    *
-   * @param [level] Specifies the mipmap level of the texture object to
-   *                     attach.
+   * @param [level] Specifies the mipmap level of the texture object to attach.
    */
   static inline void glNamedFramebufferTexture(GLuint framebuffer,
                                                GLenum attachment,
@@ -12827,17 +11020,15 @@ extern "C"
    * glGetAttachedShaders — Returns the handles of the shader objects attached
    * to a program object
    *
-   * @param [program] Specifies the program object to be
-   *             queried.
+   * @param [program] Specifies the program object to be queried.
    *
-   * @param [maxCount] Specifies the size of the array for storing
-   *             the returned object names.
+   * @param [maxCount] Specifies the size of the array for storing the returned
+   * object names.
    *
-   * @param [count] Returns the number of names actually returned
-   *             in shaders.
+   * @param [count] Returns the number of names actually returned in shaders.
    *
-   * @param [shaders] Specifies an array that is used to return the
-   *             names of attached shader objects.
+   * @param [shaders] Specifies an array that is used to return the names of
+   * attached shader objects.
    */
   static inline void glGetAttachedShaders(GLuint program, GLsizei maxCount,
                                           GLsizei *count, GLuint *shaders)
@@ -12848,17 +11039,28 @@ extern "C"
    * glGetBufferParameter — return parameters of a buffer object
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glGetBufferParameteriv and
-   *                     glGetBufferParameteri64v. Must be
-   *                     one of the buffer binding targets in the following
-   *                     table:
+   * for glGetBufferParameteriv and glGetBufferParameteri64v. Must be one of the
+   * buffer binding targets in the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glGetNamedBufferParameteriv and
-   *                     glGetNamedBufferParameteri64v.
+   * glGetNamedBufferParameteriv and glGetNamedBufferParameteri64v.
    *
-   * @param [value] Specifies the name of the buffer object parameter to
-   *                     query.
+   * @param [value] Specifies the name of the buffer object parameter to query.
    *
    * @param [data] Returns the requested parameter.
    */
@@ -12871,17 +11073,28 @@ extern "C"
    * glGetBufferParameter — return parameters of a buffer object
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glGetBufferParameteriv and
-   *                     glGetBufferParameteri64v. Must be
-   *                     one of the buffer binding targets in the following
-   *                     table:
+   * for glGetBufferParameteriv and glGetBufferParameteri64v. Must be one of the
+   * buffer binding targets in the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glGetNamedBufferParameteriv and
-   *                     glGetNamedBufferParameteri64v.
+   * glGetNamedBufferParameteriv and glGetNamedBufferParameteri64v.
    *
-   * @param [value] Specifies the name of the buffer object parameter to
-   *                     query.
+   * @param [value] Specifies the name of the buffer object parameter to query.
    *
    * @param [data] Returns the requested parameter.
    */
@@ -12894,17 +11107,28 @@ extern "C"
    * glGetBufferParameter — return parameters of a buffer object
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glGetBufferParameteriv and
-   *                     glGetBufferParameteri64v. Must be
-   *                     one of the buffer binding targets in the following
-   *                     table:
+   * for glGetBufferParameteriv and glGetBufferParameteri64v. Must be one of the
+   * buffer binding targets in the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glGetNamedBufferParameteriv and
-   *                     glGetNamedBufferParameteri64v.
+   * glGetNamedBufferParameteriv and glGetNamedBufferParameteri64v.
    *
-   * @param [value] Specifies the name of the buffer object parameter to
-   *                     query.
+   * @param [value] Specifies the name of the buffer object parameter to query.
    *
    * @param [data] Returns the requested parameter.
    */
@@ -12917,17 +11141,28 @@ extern "C"
    * glGetBufferParameter — return parameters of a buffer object
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glGetBufferParameteriv and
-   *                     glGetBufferParameteri64v. Must be
-   *                     one of the buffer binding targets in the following
-   *                     table:
+   * for glGetBufferParameteriv and glGetBufferParameteri64v. Must be one of the
+   * buffer binding targets in the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glGetNamedBufferParameteriv and
-   *                     glGetNamedBufferParameteri64v.
+   * glGetNamedBufferParameteriv and glGetNamedBufferParameteri64v.
    *
-   * @param [value] Specifies the name of the buffer object parameter to
-   *                     query.
+   * @param [value] Specifies the name of the buffer object parameter to query.
    *
    * @param [data] Returns the requested parameter.
    */
@@ -13013,7 +11248,7 @@ extern "C"
    * @param [shadertype] Specifies the shader stage from which to query for
    * subroutine uniform index. shadertype must be one of GL_VERTEX_SHADER,
    * GL_TESS_CONTROL_SHADER, GL_TESS_EVALUATION_SHADER, GL_GEOMETRY_SHADER or
-   *                     GL_FRAGMENT_SHADER.
+   * GL_FRAGMENT_SHADER.
    *
    * @param [name] Specifies the name of the subroutine uniform whose index to
    * query.
@@ -13028,30 +11263,22 @@ extern "C"
    texture object
    *
    * @param [texture] Specifies the name of the source texture object. Must be
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY or
-   *           GL_TEXTURE_RECTANGLE. In specific, buffer and
-   *           multisample textures are not permitted.
+   GL_TEXTURE_1D, GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   GL_TEXTURE_3D, GL_TEXTURE_CUBE_MAP, GL_TEXTURE_CUBE_MAP_ARRAY or
+   GL_TEXTURE_RECTANGLE. In specific, buffer and multisample textures are not
+   permitted.
    *
    * @param [level] Specifies the level-of-detail number. Level 0 is the base
-   *           image level. Level $n$ is the $n$th mipmap reduction image.
+   image level. Level $n$ is the $n$th mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
-   texture
-   *           array.
+   texture array.
    *
    * @param [yoffset] Specifies a texel offset in the y direction within the
-   texture
-   *           array.
+   texture array.
    *
    * @param [zoffset] Specifies a texel offset in the z direction within the
-   texture
-   *           array.
+   texture array.
    *
    * @param [width] Specifies the width of the texture subimage.
    *
@@ -13060,39 +11287,24 @@ extern "C"
    * @param [depth] Specifies the depth of the texture subimage.
    *
    * @param [format] Specifies the format of the pixel data. The following
-   symbolic
-   *           values are accepted: GL_RED,
-   *           GL_RG, GL_RGB,
-   *           GL_BGR, GL_RGBA,
-   *           GL_BGRA,
-   *           GL_DEPTH_COMPONENT and
-   *           GL_STENCIL_INDEX.
+   symbolic values are accepted: GL_RED, GL_RG, GL_RGB, GL_BGR, GL_RGBA,
+   GL_BGRA, GL_DEPTH_COMPONENT and GL_STENCIL_INDEX.
    *
    * @param [type] Specifies the data type of the pixel data. The following
-   *           symbolic values are accepted: GL_UNSIGNED_BYTE,
-   *           GL_BYTE,
-   *           GL_UNSIGNED_SHORT,
-   *           GL_SHORT, GL_UNSIGNED_INT,
-   *           GL_INT, GL_FLOAT,
-   *           GL_UNSIGNED_BYTE_3_3_2,
-   *           GL_UNSIGNED_BYTE_2_3_3_REV,
-   *           GL_UNSIGNED_SHORT_5_6_5,
-   *           GL_UNSIGNED_SHORT_5_6_5_REV,
-   *           GL_UNSIGNED_SHORT_4_4_4_4,
-   *           GL_UNSIGNED_SHORT_4_4_4_4_REV,
-   *           GL_UNSIGNED_SHORT_5_5_5_1,
-   *           GL_UNSIGNED_SHORT_1_5_5_5_REV,
-   *           GL_UNSIGNED_INT_8_8_8_8,
-   *           GL_UNSIGNED_INT_8_8_8_8_REV,
-   *           GL_UNSIGNED_INT_10_10_10_2, and
-   *           GL_UNSIGNED_INT_2_10_10_10_REV.
+   symbolic values are accepted: GL_UNSIGNED_BYTE, GL_BYTE, GL_UNSIGNED_SHORT,
+   GL_SHORT, GL_UNSIGNED_INT, GL_INT, GL_FLOAT, GL_UNSIGNED_BYTE_3_3_2,
+   GL_UNSIGNED_BYTE_2_3_3_REV, GL_UNSIGNED_SHORT_5_6_5,
+   GL_UNSIGNED_SHORT_5_6_5_REV, GL_UNSIGNED_SHORT_4_4_4_4,
+   GL_UNSIGNED_SHORT_4_4_4_4_REV, GL_UNSIGNED_SHORT_5_5_5_1,
+   GL_UNSIGNED_SHORT_1_5_5_5_REV, GL_UNSIGNED_INT_8_8_8_8,
+   GL_UNSIGNED_INT_8_8_8_8_REV, GL_UNSIGNED_INT_10_10_10_2, and
+   GL_UNSIGNED_INT_2_10_10_10_REV.
    *
    * @param [bufSize] Specifies the size of the buffer to receive the retrieved
-   *           pixel data.
+   pixel data.
    *
    * @param [pixels] Returns the texture subimage. Should be a pointer to an
-   array
-   *           of the type specified by type.
+   array of the type specified by type.
    */
   static inline void glGetTextureSubImage(GLuint texture, GLint level,
                                           GLint xoffset, GLint yoffset,
@@ -13107,12 +11319,10 @@ extern "C"
   /**
    * glGetUniformLocation — Returns the location of a uniform variable
    *
-   * @param [program] Specifies the program object to be
-   *             queried.
+   * @param [program] Specifies the program object to be queried.
    *
-   * @param [name] Points to a null terminated string containing
-   *             the name of the uniform variable whose location is
-   *             to be queried.
+   * @param [name] Points to a null terminated string containing the name of the
+   * uniform variable whose location is to be queried.
    */
   static inline GLint glGetUniformLocation(GLuint program, const GLchar *name)
   {
@@ -13135,7 +11345,7 @@ extern "C"
    * @param [shadertype] Specifies the shader stage from which to query for
    * subroutine uniform index. shadertype must be one of GL_VERTEX_SHADER,
    * GL_TESS_CONTROL_SHADER, GL_TESS_EVALUATION_SHADER, GL_GEOMETRY_SHADER or
-   *                     GL_FRAGMENT_SHADER.
+   * GL_FRAGMENT_SHADER.
    *
    * @param [count] Specifies the number of uniform indices stored in indices.
    *
@@ -13152,13 +11362,11 @@ extern "C"
    * of vertex arrays
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *           glVertexArrayAttrib{I, L}Format
-   *           functions.
+   * glVertexArrayAttrib{I, L}Format functions.
    *
    * @param [attribindex] The generic vertex attribute array being described.
    *
-   * @param [size] The number of values per vertex that are stored in the
-   *           array.
+   * @param [size] The number of values per vertex that are stored in the array.
    *
    * @param [type] The type of the data stored in the array.
    *
@@ -13181,13 +11389,11 @@ extern "C"
    * of vertex arrays
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *           glVertexArrayAttrib{I, L}Format
-   *           functions.
+   * glVertexArrayAttrib{I, L}Format functions.
    *
    * @param [attribindex] The generic vertex attribute array being described.
    *
-   * @param [size] The number of values per vertex that are stored in the
-   *           array.
+   * @param [size] The number of values per vertex that are stored in the array.
    *
    * @param [type] The type of the data stored in the array.
    *
@@ -13208,13 +11414,11 @@ extern "C"
    * of vertex arrays
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *           glVertexArrayAttrib{I, L}Format
-   *           functions.
+   * glVertexArrayAttrib{I, L}Format functions.
    *
    * @param [attribindex] The generic vertex attribute array being described.
    *
-   * @param [size] The number of values per vertex that are stored in the
-   *           array.
+   * @param [size] The number of values per vertex that are stored in the array.
    *
    * @param [type] The type of the data stored in the array.
    *
@@ -13235,13 +11439,11 @@ extern "C"
    * of vertex arrays
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *           glVertexArrayAttrib{I, L}Format
-   *           functions.
+   * glVertexArrayAttrib{I, L}Format functions.
    *
    * @param [attribindex] The generic vertex attribute array being described.
    *
-   * @param [size] The number of values per vertex that are stored in the
-   *           array.
+   * @param [size] The number of values per vertex that are stored in the array.
    *
    * @param [type] The type of the data stored in the array.
    *
@@ -13265,13 +11467,11 @@ extern "C"
    * of vertex arrays
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *           glVertexArrayAttrib{I, L}Format
-   *           functions.
+   * glVertexArrayAttrib{I, L}Format functions.
    *
    * @param [attribindex] The generic vertex attribute array being described.
    *
-   * @param [size] The number of values per vertex that are stored in the
-   *           array.
+   * @param [size] The number of values per vertex that are stored in the array.
    *
    * @param [type] The type of the data stored in the array.
    *
@@ -13295,13 +11495,11 @@ extern "C"
    * of vertex arrays
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *           glVertexArrayAttrib{I, L}Format
-   *           functions.
+   * glVertexArrayAttrib{I, L}Format functions.
    *
    * @param [attribindex] The generic vertex attribute array being described.
    *
-   * @param [size] The number of values per vertex that are stored in the
-   *           array.
+   * @param [size] The number of values per vertex that are stored in the array.
    *
    * @param [type] The type of the data stored in the array.
    *
@@ -13414,10 +11612,9 @@ extern "C"
    *
    * @param [mode] Specifies what kind of primitives to render. Symbolic
    * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
-   *                     GL_TRIANGLE_STRIP, GL_TRIANGLE_FAN, GL_TRIANGLES
-   * GL_LINES_ADJACENCY, GL_LINE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY, GL_TRIANGLE_STRIP_ADJACENCY and
-   * GL_PATCHES are accepted.
+   * GL_TRIANGLE_STRIP, GL_TRIANGLE_FAN, GL_TRIANGLES GL_LINES_ADJACENCY,
+   * GL_LINE_STRIP_ADJACENCY, GL_TRIANGLES_ADJACENCY,
+   * GL_TRIANGLE_STRIP_ADJACENCY and GL_PATCHES are accepted.
    *
    * @param [first] Specifies the starting index in the enabled arrays.
    *
@@ -13451,24 +11648,18 @@ extern "C"
    * @param [program] Specifies the program object to be queried.
    *
    * @param [uniformCount] Specifies both the number of elements in the array of
-   *             indices uniformIndices and the number of
-   *             parameters written to params upon
-   *             successful return.
+   * indices uniformIndices and the number of parameters written to params upon
+   * successful return.
    *
-   * @param [uniformIndices] Specifies the address of an array of
-   *             uniformCount integers containing the
-   *             indices of uniforms within program whose
-   *             parameter pname should be queried.
+   * @param [uniformIndices] Specifies the address of an array of uniformCount
+   * integers containing the indices of uniforms within program whose parameter
+   * pname should be queried.
    *
-   * @param [pname] Specifies the property of each uniform in
-   *             uniformIndices that should be written
-   *             into the corresponding element of
-   *             params.
+   * @param [pname] Specifies the property of each uniform in uniformIndices
+   * that should be written into the corresponding element of params.
    *
-   * @param [params] Specifies the address of an array of
-   *             uniformCount integers which are to
-   *             receive the value of pname for each
-   *             uniform in uniformIndices.
+   * @param [params] Specifies the address of an array of uniformCount integers
+   * which are to receive the value of pname for each uniform in uniformIndices.
    */
   static inline void glGetActiveUniformsiv(GLuint program, GLsizei uniformCount,
                                            const GLuint *uniformIndices,
@@ -13517,18 +11708,10 @@ extern "C"
    * retrieve parameters.
    *
    * @param [pname] Specifies the symbolic name of a sampler parameter.
-   *                     GL_TEXTURE_MAG_FILTER,
-   *                     GL_TEXTURE_MIN_FILTER,
-   *                     GL_TEXTURE_MIN_LOD,
-   *                     GL_TEXTURE_MAX_LOD,
-   *                     GL_TEXTURE_LOD_BIAS,
-   *                     GL_TEXTURE_WRAP_S,
-   *                     GL_TEXTURE_WRAP_T,
-   *                     GL_TEXTURE_WRAP_R,
-   *                     GL_TEXTURE_BORDER_COLOR,
-   *                     GL_TEXTURE_COMPARE_MODE, and
-   *                     GL_TEXTURE_COMPARE_FUNC
-   *                     are accepted.
+   * GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_LOD_BIAS, GL_TEXTURE_WRAP_S,
+   * GL_TEXTURE_WRAP_T, GL_TEXTURE_WRAP_R, GL_TEXTURE_BORDER_COLOR,
+   * GL_TEXTURE_COMPARE_MODE, and GL_TEXTURE_COMPARE_FUNC are accepted.
    *
    * @param [params] Returns the sampler parameters.
    */
@@ -13544,18 +11727,10 @@ extern "C"
    * retrieve parameters.
    *
    * @param [pname] Specifies the symbolic name of a sampler parameter.
-   *                     GL_TEXTURE_MAG_FILTER,
-   *                     GL_TEXTURE_MIN_FILTER,
-   *                     GL_TEXTURE_MIN_LOD,
-   *                     GL_TEXTURE_MAX_LOD,
-   *                     GL_TEXTURE_LOD_BIAS,
-   *                     GL_TEXTURE_WRAP_S,
-   *                     GL_TEXTURE_WRAP_T,
-   *                     GL_TEXTURE_WRAP_R,
-   *                     GL_TEXTURE_BORDER_COLOR,
-   *                     GL_TEXTURE_COMPARE_MODE, and
-   *                     GL_TEXTURE_COMPARE_FUNC
-   *                     are accepted.
+   * GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_LOD_BIAS, GL_TEXTURE_WRAP_S,
+   * GL_TEXTURE_WRAP_T, GL_TEXTURE_WRAP_R, GL_TEXTURE_BORDER_COLOR,
+   * GL_TEXTURE_COMPARE_MODE, and GL_TEXTURE_COMPARE_FUNC are accepted.
    *
    * @param [params] Returns the sampler parameters.
    */
@@ -13571,18 +11746,10 @@ extern "C"
    * retrieve parameters.
    *
    * @param [pname] Specifies the symbolic name of a sampler parameter.
-   *                     GL_TEXTURE_MAG_FILTER,
-   *                     GL_TEXTURE_MIN_FILTER,
-   *                     GL_TEXTURE_MIN_LOD,
-   *                     GL_TEXTURE_MAX_LOD,
-   *                     GL_TEXTURE_LOD_BIAS,
-   *                     GL_TEXTURE_WRAP_S,
-   *                     GL_TEXTURE_WRAP_T,
-   *                     GL_TEXTURE_WRAP_R,
-   *                     GL_TEXTURE_BORDER_COLOR,
-   *                     GL_TEXTURE_COMPARE_MODE, and
-   *                     GL_TEXTURE_COMPARE_FUNC
-   *                     are accepted.
+   * GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_LOD_BIAS, GL_TEXTURE_WRAP_S,
+   * GL_TEXTURE_WRAP_T, GL_TEXTURE_WRAP_R, GL_TEXTURE_BORDER_COLOR,
+   * GL_TEXTURE_COMPARE_MODE, and GL_TEXTURE_COMPARE_FUNC are accepted.
    *
    * @param [params] Returns the sampler parameters.
    */
@@ -13598,18 +11765,10 @@ extern "C"
    * retrieve parameters.
    *
    * @param [pname] Specifies the symbolic name of a sampler parameter.
-   *                     GL_TEXTURE_MAG_FILTER,
-   *                     GL_TEXTURE_MIN_FILTER,
-   *                     GL_TEXTURE_MIN_LOD,
-   *                     GL_TEXTURE_MAX_LOD,
-   *                     GL_TEXTURE_LOD_BIAS,
-   *                     GL_TEXTURE_WRAP_S,
-   *                     GL_TEXTURE_WRAP_T,
-   *                     GL_TEXTURE_WRAP_R,
-   *                     GL_TEXTURE_BORDER_COLOR,
-   *                     GL_TEXTURE_COMPARE_MODE, and
-   *                     GL_TEXTURE_COMPARE_FUNC
-   *                     are accepted.
+   * GL_TEXTURE_MAG_FILTER, GL_TEXTURE_MIN_FILTER, GL_TEXTURE_MIN_LOD,
+   * GL_TEXTURE_MAX_LOD, GL_TEXTURE_LOD_BIAS, GL_TEXTURE_WRAP_S,
+   * GL_TEXTURE_WRAP_T, GL_TEXTURE_WRAP_R, GL_TEXTURE_BORDER_COLOR,
+   * GL_TEXTURE_COMPARE_MODE, and GL_TEXTURE_COMPARE_FUNC are accepted.
    *
    * @param [params] Returns the sampler parameters.
    */
@@ -13634,15 +11793,13 @@ extern "C"
    format and dimensions of a renderbuffer object's image
    *
    * @param [target] Specifies a binding target of the allocation for
-   *           glRenderbufferStorage function. Must be
-   *           GL_RENDERBUFFER.
+   glRenderbufferStorage function. Must be GL_RENDERBUFFER.
    *
    * @param [renderbuffer] Specifies the name of the renderbuffer object for
-   *           glNamedRenderbufferStorage function.
+   glNamedRenderbufferStorage function.
    *
    * @param [internalformat] Specifies the internal format to use for the
-   renderbuffer
-   *           object's image.
+   renderbuffer object's image.
    *
    * @param [width] Specifies the width of the renderbuffer, in pixels.
    *
@@ -13658,15 +11815,13 @@ extern "C"
    format and dimensions of a renderbuffer object's image
    *
    * @param [target] Specifies a binding target of the allocation for
-   *           glRenderbufferStorage function. Must be
-   *           GL_RENDERBUFFER.
+   glRenderbufferStorage function. Must be GL_RENDERBUFFER.
    *
    * @param [renderbuffer] Specifies the name of the renderbuffer object for
-   *           glNamedRenderbufferStorage function.
+   glNamedRenderbufferStorage function.
    *
    * @param [internalformat] Specifies the internal format to use for the
-   renderbuffer
-   *           object's image.
+   renderbuffer object's image.
    *
    * @param [width] Specifies the width of the renderbuffer, in pixels.
    *
@@ -13684,29 +11839,20 @@ extern "C"
    * for stencil testing
    *
    * @param [face] Specifies whether front and/or back stencil state is updated.
-   *                     Three symbolic constants are valid:
-   *                     GL_FRONT,
-   *                     GL_BACK, and
-   *                     GL_FRONT_AND_BACK.
+   * Three symbolic constants are valid: GL_FRONT, GL_BACK, and
+   * GL_FRONT_AND_BACK.
    *
-   * @param [func] Specifies the test function.
-   *                     Eight symbolic constants are valid:
-   *                     GL_NEVER,
-   *                     GL_LESS,
-   *                     GL_LEQUAL,
-   *                     GL_GREATER,
-   *                     GL_GEQUAL,
-   *                     GL_EQUAL,
-   *                     GL_NOTEQUAL, and
-   *                     GL_ALWAYS. The initial value is GL_ALWAYS.
+   * @param [func] Specifies the test function. Eight symbolic constants are
+   * valid: GL_NEVER, GL_LESS, GL_LEQUAL, GL_GREATER, GL_GEQUAL, GL_EQUAL,
+   * GL_NOTEQUAL, and GL_ALWAYS. The initial value is GL_ALWAYS.
    *
    * @param [ref] Specifies the reference value for the stencil test. ref is
-   *              clamped to the range [0, (2^n) − 1], where n is the number of
-   *              bitplanes in the stencil buffer. The initial value is 0.
+   * clamped to the range [0, 2^n - 1] , where n is the number of bitplanes in
+   * the stencil buffer. The initial value is 0.
    *
    * @param [mask] Specifies a mask that is ANDed with both the reference value
-   *                     and the stored stencil value when the test is done. The
-   * initial value is all 1's.
+   * and the stored stencil value when the test is done. The initial value is
+   * all 1's.
    */
   static inline void glStencilFuncSeparate(GLenum face, GLenum func, GLint ref,
                                            GLuint mask)
@@ -13719,7 +11865,7 @@ extern "C"
    *
    * @param [face] Specifies whether the front and/or back stencil writemask is
    * updated. Three symbolic constants are valid: GL_FRONT, GL_BACK, and
-   *                     GL_FRONT_AND_BACK.
+   * GL_FRONT_AND_BACK.
    *
    * @param [mask] Specifies a bit mask to enable and disable writing of
    * individual bits in the stencil planes. Initially, the mask is all 1's.
@@ -13751,13 +11897,13 @@ extern "C"
    * binding for a vertex array object
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *                     glVertexArrayAttribBinding.
+   * glVertexArrayAttribBinding.
    *
    * @param [attribindex] The index of the attribute to associate with a vertex
-   *                     buffer binding.
+   * buffer binding.
    *
    * @param [bindingindex] The index of the vertex buffer binding with which to
-   *                     associate the generic vertex attribute.
+   * associate the generic vertex attribute.
    */
   static inline void glVertexAttribBinding(GLuint attribindex,
                                            GLuint bindingindex)
@@ -13769,13 +11915,13 @@ extern "C"
    * binding for a vertex array object
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *                     glVertexArrayAttribBinding.
+   * glVertexArrayAttribBinding.
    *
    * @param [attribindex] The index of the attribute to associate with a vertex
-   *                     buffer binding.
+   * buffer binding.
    *
    * @param [bindingindex] The index of the vertex buffer binding with which to
-   *                     associate the generic vertex attribute.
+   * associate the generic vertex attribute.
    */
   static inline void glVertexArrayAttribBinding(GLuint vaobj,
                                                 GLuint attribindex,
@@ -13799,40 +11945,30 @@ extern "C"
   /**
    * glVertexAttribPointer — define an array of generic vertex attribute data
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
-   * @param [size] Specifies the number of components per
-   *             generic vertex attribute. Must
-   *             be 1, 2, 3, 4. Additionally, the symbolic constant GL_BGRA
-   *             is accepted by glVertexAttribPointer. The initial value is 4.
+   * @param [size] Specifies the number of components per generic vertex
+   * attribute. Must be 1, 2, 3, 4. Additionally, the symbolic constant GL_BGRA
+   * is accepted by glVertexAttribPointer. The initial value is 4.
    *
-   * @param [type] Specifies the data type of each component in
-   *             the array. The symbolic constants
-   *             GL_BYTE,
-   *             GL_UNSIGNED_BYTE,
-   *             GL_SHORT,
-   *             GL_UNSIGNED_SHORT,
-   *             GL_INT, and
-   *             GL_UNSIGNED_INT are accepted by glVertexAttribPointer and
+   * @param [type] Specifies the data type of each component in the array. The
+   * symbolic constants GL_BYTE, GL_UNSIGNED_BYTE, GL_SHORT, GL_UNSIGNED_SHORT,
+   * GL_INT, and GL_UNSIGNED_INT are accepted by glVertexAttribPointer and
    * glVertexAttribIPointer. Additionally GL_HALF_FLOAT, GL_FLOAT, GL_DOUBLE,
-   *             GL_FIXED,
-   *             GL_INT_2_10_10_10_REV,
-   *             GL_UNSIGNED_INT_2_10_10_10_REV and
-   *             GL_UNSIGNED_INT_10F_11F_11F_REV are accepted by
-   * glVertexAttribPointer. GL_DOUBLE is also accepted by glVertexAttribLPointer
-   * and is the only token accepted by the type parameter for that function. The
-   * initial value is GL_FLOAT.
+   * GL_FIXED, GL_INT_2_10_10_10_REV, GL_UNSIGNED_INT_2_10_10_10_REV and
+   * GL_UNSIGNED_INT_10F_11F_11F_REV are accepted by glVertexAttribPointer.
+   * GL_DOUBLE is also accepted by glVertexAttribLPointer and is the only token
+   * accepted by the type parameter for that function. The initial value is
+   * GL_FLOAT.
    *
    * @param [normalized] For glVertexAttribPointer, specifies whether
    * fixed-point data values should be normalized (GL_TRUE) or converted
    * directly as fixed-point values (GL_FALSE) when they are accessed.
    *
-   * @param [stride] Specifies the byte offset between consecutive
-   *             generic vertex attributes. If stride
-   *             is 0, the generic vertex attributes are
-   *             understood to be tightly packed in the
-   *             array. The initial value is 0.
+   * @param [stride] Specifies the byte offset between consecutive generic
+   * vertex attributes. If stride is 0, the generic vertex attributes are
+   * understood to be tightly packed in the array. The initial value is 0.
    *
    * @param [pointer] Specifies a offset of the first component of the first
    * generic vertex attribute in the array in the data store of the buffer
@@ -13848,40 +11984,30 @@ extern "C"
   /**
    * glVertexAttribPointer — define an array of generic vertex attribute data
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
-   * @param [size] Specifies the number of components per
-   *             generic vertex attribute. Must
-   *             be 1, 2, 3, 4. Additionally, the symbolic constant GL_BGRA
-   *             is accepted by glVertexAttribPointer. The initial value is 4.
+   * @param [size] Specifies the number of components per generic vertex
+   * attribute. Must be 1, 2, 3, 4. Additionally, the symbolic constant GL_BGRA
+   * is accepted by glVertexAttribPointer. The initial value is 4.
    *
-   * @param [type] Specifies the data type of each component in
-   *             the array. The symbolic constants
-   *             GL_BYTE,
-   *             GL_UNSIGNED_BYTE,
-   *             GL_SHORT,
-   *             GL_UNSIGNED_SHORT,
-   *             GL_INT, and
-   *             GL_UNSIGNED_INT are accepted by glVertexAttribPointer and
+   * @param [type] Specifies the data type of each component in the array. The
+   * symbolic constants GL_BYTE, GL_UNSIGNED_BYTE, GL_SHORT, GL_UNSIGNED_SHORT,
+   * GL_INT, and GL_UNSIGNED_INT are accepted by glVertexAttribPointer and
    * glVertexAttribIPointer. Additionally GL_HALF_FLOAT, GL_FLOAT, GL_DOUBLE,
-   *             GL_FIXED,
-   *             GL_INT_2_10_10_10_REV,
-   *             GL_UNSIGNED_INT_2_10_10_10_REV and
-   *             GL_UNSIGNED_INT_10F_11F_11F_REV are accepted by
-   * glVertexAttribPointer. GL_DOUBLE is also accepted by glVertexAttribLPointer
-   * and is the only token accepted by the type parameter for that function. The
-   * initial value is GL_FLOAT.
+   * GL_FIXED, GL_INT_2_10_10_10_REV, GL_UNSIGNED_INT_2_10_10_10_REV and
+   * GL_UNSIGNED_INT_10F_11F_11F_REV are accepted by glVertexAttribPointer.
+   * GL_DOUBLE is also accepted by glVertexAttribLPointer and is the only token
+   * accepted by the type parameter for that function. The initial value is
+   * GL_FLOAT.
    *
    * @param [normalized] For glVertexAttribPointer, specifies whether
    * fixed-point data values should be normalized (GL_TRUE) or converted
    * directly as fixed-point values (GL_FALSE) when they are accessed.
    *
-   * @param [stride] Specifies the byte offset between consecutive
-   *             generic vertex attributes. If stride
-   *             is 0, the generic vertex attributes are
-   *             understood to be tightly packed in the
-   *             array. The initial value is 0.
+   * @param [stride] Specifies the byte offset between consecutive generic
+   * vertex attributes. If stride is 0, the generic vertex attributes are
+   * understood to be tightly packed in the array. The initial value is 0.
    *
    * @param [pointer] Specifies a offset of the first component of the first
    * generic vertex attribute in the array in the data store of the buffer
@@ -13896,40 +12022,30 @@ extern "C"
   /**
    * glVertexAttribPointer — define an array of generic vertex attribute data
    *
-   * @param [index] Specifies the index of the generic vertex
-   *             attribute to be modified.
+   * @param [index] Specifies the index of the generic vertex attribute to be
+   * modified.
    *
-   * @param [size] Specifies the number of components per
-   *             generic vertex attribute. Must
-   *             be 1, 2, 3, 4. Additionally, the symbolic constant GL_BGRA
-   *             is accepted by glVertexAttribPointer. The initial value is 4.
+   * @param [size] Specifies the number of components per generic vertex
+   * attribute. Must be 1, 2, 3, 4. Additionally, the symbolic constant GL_BGRA
+   * is accepted by glVertexAttribPointer. The initial value is 4.
    *
-   * @param [type] Specifies the data type of each component in
-   *             the array. The symbolic constants
-   *             GL_BYTE,
-   *             GL_UNSIGNED_BYTE,
-   *             GL_SHORT,
-   *             GL_UNSIGNED_SHORT,
-   *             GL_INT, and
-   *             GL_UNSIGNED_INT are accepted by glVertexAttribPointer and
+   * @param [type] Specifies the data type of each component in the array. The
+   * symbolic constants GL_BYTE, GL_UNSIGNED_BYTE, GL_SHORT, GL_UNSIGNED_SHORT,
+   * GL_INT, and GL_UNSIGNED_INT are accepted by glVertexAttribPointer and
    * glVertexAttribIPointer. Additionally GL_HALF_FLOAT, GL_FLOAT, GL_DOUBLE,
-   *             GL_FIXED,
-   *             GL_INT_2_10_10_10_REV,
-   *             GL_UNSIGNED_INT_2_10_10_10_REV and
-   *             GL_UNSIGNED_INT_10F_11F_11F_REV are accepted by
-   * glVertexAttribPointer. GL_DOUBLE is also accepted by glVertexAttribLPointer
-   * and is the only token accepted by the type parameter for that function. The
-   * initial value is GL_FLOAT.
+   * GL_FIXED, GL_INT_2_10_10_10_REV, GL_UNSIGNED_INT_2_10_10_10_REV and
+   * GL_UNSIGNED_INT_10F_11F_11F_REV are accepted by glVertexAttribPointer.
+   * GL_DOUBLE is also accepted by glVertexAttribLPointer and is the only token
+   * accepted by the type parameter for that function. The initial value is
+   * GL_FLOAT.
    *
    * @param [normalized] For glVertexAttribPointer, specifies whether
    * fixed-point data values should be normalized (GL_TRUE) or converted
    * directly as fixed-point values (GL_FALSE) when they are accessed.
    *
-   * @param [stride] Specifies the byte offset between consecutive
-   *             generic vertex attributes. If stride
-   *             is 0, the generic vertex attributes are
-   *             understood to be tightly packed in the
-   *             array. The initial value is 0.
+   * @param [stride] Specifies the byte offset between consecutive generic
+   * vertex attributes. If stride is 0, the generic vertex attributes are
+   * understood to be tightly packed in the array. The initial value is 0.
    *
    * @param [pointer] Specifies a offset of the first component of the first
    * generic vertex attribute in the array in the data store of the buffer
@@ -13963,19 +12079,18 @@ extern "C"
    * glCompressedTexImage1D — specify a one-dimensional texture image in a
    * compressed format
    *
-   * @param [target] Specifies the target texture.
-   *                     Must be GL_TEXTURE_1D or GL_PROXY_TEXTURE_1D.
+   * @param [target] Specifies the target texture. Must be GL_TEXTURE_1D or
+   * GL_PROXY_TEXTURE_1D.
    *
-   * @param [level] Specifies the level-of-detail number.
-   *                     Level 0 is the base image level.
-   *                     Level n is the nth mipmap reduction image.
+   * @param [level] Specifies the level-of-detail number. Level 0 is the base
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [internalformat] Specifies the format of the compressed image data
    * stored at address data.
    *
-   * @param [width] Specifies the width of the texture image.
-   *                     All implementations support texture images that are at
-   * least 64 texels wide. The height of the 1D texture image is 1.
+   * @param [width] Specifies the width of the texture image. All
+   * implementations support texture images that are at least 64 texels wide.
+   * The height of the 1D texture image is 1.
    *
    * @param [border] This value must be 0.
    *
@@ -13997,31 +12112,26 @@ extern "C"
    * glCompressedTexImage2D — specify a two-dimensional texture image in a
    * compressed format
    *
-   * @param [target] Specifies the target texture.
-   *                     Must be GL_TEXTURE_2D, GL_PROXY_TEXTURE_2D,
-   *                     GL_TEXTURE_1D_ARRAY, GL_PROXY_TEXTURE_1D_ARRAY,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *                     GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
-   *                     GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, or
-   *                     GL_PROXY_TEXTURE_CUBE_MAP.
+   * @param [target] Specifies the target texture. Must be GL_TEXTURE_2D,
+   * GL_PROXY_TEXTURE_2D, GL_TEXTURE_1D_ARRAY, GL_PROXY_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_CUBE_MAP_POSITIVE_X, GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
+   * GL_TEXTURE_CUBE_MAP_POSITIVE_Y, GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_POSITIVE_Z, GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, or
+   * GL_PROXY_TEXTURE_CUBE_MAP.
    *
-   * @param [level] Specifies the level-of-detail number.
-   *                     Level 0 is the base image level.
-   *                     Level n is the nth mipmap reduction image.
+   * @param [level] Specifies the level-of-detail number. Level 0 is the base
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [internalformat] Specifies the format of the compressed image data
    * stored at address data.
    *
-   * @param [width] Specifies the width of the texture image.
-   *                     All implementations support 2D texture and cube map
-   * texture images that are at least 16384 texels wide.
+   * @param [width] Specifies the width of the texture image. All
+   * implementations support 2D texture and cube map texture images that are at
+   * least 16384 texels wide.
    *
-   * @param [height] Specifies the height of the texture image.
-   *                     All implementations support 2D texture and cube map
-   * texture images that are at least 16384 texels high.
+   * @param [height] Specifies the height of the texture image. All
+   * implementations support 2D texture and cube map texture images that are at
+   * least 16384 texels high.
    *
    * @param [border] This value must be 0.
    *
@@ -14043,28 +12153,23 @@ extern "C"
    * glCompressedTexImage3D — specify a three-dimensional texture image in a
    * compressed format
    *
-   * @param [target] Specifies the target texture.
-   *                     Must be GL_TEXTURE_3D, GL_PROXY_TEXTURE_3D,
-   *                     GL_TEXTURE_2D_ARRAY or GL_PROXY_TEXTURE_2D_ARRAY.
+   * @param [target] Specifies the target texture. Must be GL_TEXTURE_3D,
+   * GL_PROXY_TEXTURE_3D, GL_TEXTURE_2D_ARRAY or GL_PROXY_TEXTURE_2D_ARRAY.
    *
-   * @param [level] Specifies the level-of-detail number.
-   *                     Level 0 is the base image level.
-   *                     Level n is the nth mipmap reduction image.
+   * @param [level] Specifies the level-of-detail number. Level 0 is the base
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [internalformat] Specifies the format of the compressed image data
    * stored at address data.
    *
-   * @param [width] Specifies the width of the texture image.
-   *                     All implementations support 3D texture images that are
-   * at least 16 texels wide.
+   * @param [width] Specifies the width of the texture image. All
+   * implementations support 3D texture images that are at least 16 texels wide.
    *
-   * @param [height] Specifies the height of the texture image.
-   *                     All implementations support 3D texture images that are
-   * at least 16 texels high.
+   * @param [height] Specifies the height of the texture image. All
+   * implementations support 3D texture images that are at least 16 texels high.
    *
-   * @param [depth] Specifies the depth of the texture image.
-   *                     All implementations support 3D texture images that are
-   * at least 16 texels deep.
+   * @param [depth] Specifies the depth of the texture image. All
+   * implementations support 3D texture images that are at least 16 texels deep.
    *
    * @param [border] This value must be 0.
    *
@@ -14100,21 +12205,11 @@ extern "C"
    * glDrawElementsIndirect — render indexed primitives from array data, taking
    * parameters from memory
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY, and
-   *                     GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY, and GL_PATCHES are accepted.
    *
    * @param [type] Specifies the type of data in the buffer bound to the
    * GL_ELEMENT_ARRAY_BUFFER binding.
@@ -14158,58 +12253,31 @@ extern "C"
    level of detail
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexLevelParameterfv and
-   *           glGetTexLevelParameteriv functions. Must be one
-   *           of the following values: GL_TEXTURE_1D,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_RECTANGLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Z,
-   *           GL_PROXY_TEXTURE_1D,
-   *           GL_PROXY_TEXTURE_2D,
-   *           GL_PROXY_TEXTURE_3D,
-   *           GL_PROXY_TEXTURE_1D_ARRAY,
-   *           GL_PROXY_TEXTURE_2D_ARRAY,
-   *           GL_PROXY_TEXTURE_RECTANGLE,
-   *           GL_PROXY_TEXTURE_2D_MULTISAMPLE,
-   *           GL_PROXY_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_PROXY_TEXTURE_CUBE_MAP, or
-   *           GL_TEXTURE_BUFFER.
+   glGetTexLevelParameterfv and glGetTexLevelParameteriv functions. Must be one
+   of the following values: GL_TEXTURE_1D, GL_TEXTURE_2D, GL_TEXTURE_3D,
+   GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D_ARRAY, GL_TEXTURE_RECTANGLE,
+   GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
+   GL_TEXTURE_CUBE_MAP_POSITIVE_X, GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
+   GL_TEXTURE_CUBE_MAP_POSITIVE_Y, GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
+   GL_TEXTURE_CUBE_MAP_POSITIVE_Z, GL_TEXTURE_CUBE_MAP_NEGATIVE_Z,
+   GL_PROXY_TEXTURE_1D, GL_PROXY_TEXTURE_2D, GL_PROXY_TEXTURE_3D,
+   GL_PROXY_TEXTURE_1D_ARRAY, GL_PROXY_TEXTURE_2D_ARRAY,
+   GL_PROXY_TEXTURE_RECTANGLE, GL_PROXY_TEXTURE_2D_MULTISAMPLE,
+   GL_PROXY_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_PROXY_TEXTURE_CUBE_MAP, or
+   GL_TEXTURE_BUFFER.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetTextureLevelParameterfv and
-   *           glGetTextureLevelParameteriv functions.
+   glGetTextureLevelParameterfv and glGetTextureLevelParameteriv functions.
    *
    * @param [level] Specifies the level-of-detail number of the desired image.
-   *                     Level 0 is the base image level.
-   *                     Level
-   *                     n
-   *                     is the
-   *                     nth
-   *                     mipmap reduction image.
+   Level 0 is the base image level. Level n is the nth mipmap reduction image.
    *
    * @param [pname] Specifies the symbolic name of a texture parameter.
-   *           GL_TEXTURE_WIDTH,
-   *           GL_TEXTURE_HEIGHT,
-   *           GL_TEXTURE_DEPTH,
-   *           GL_TEXTURE_INTERNAL_FORMAT,
-   *           GL_TEXTURE_RED_SIZE,
-   *           GL_TEXTURE_GREEN_SIZE,
-   *           GL_TEXTURE_BLUE_SIZE,
-   *           GL_TEXTURE_ALPHA_SIZE,
-   *           GL_TEXTURE_DEPTH_SIZE,
-   *           GL_TEXTURE_COMPRESSED,
-   *           GL_TEXTURE_COMPRESSED_IMAGE_SIZE, and
-   *           GL_TEXTURE_BUFFER_OFFSET are accepted.
+   GL_TEXTURE_WIDTH, GL_TEXTURE_HEIGHT, GL_TEXTURE_DEPTH,
+   GL_TEXTURE_INTERNAL_FORMAT, GL_TEXTURE_RED_SIZE, GL_TEXTURE_GREEN_SIZE,
+   GL_TEXTURE_BLUE_SIZE, GL_TEXTURE_ALPHA_SIZE, GL_TEXTURE_DEPTH_SIZE,
+   GL_TEXTURE_COMPRESSED, GL_TEXTURE_COMPRESSED_IMAGE_SIZE, and
+   GL_TEXTURE_BUFFER_OFFSET are accepted.
    *
    * @param [params] Returns the requested data.
    */
@@ -14223,58 +12291,31 @@ extern "C"
    level of detail
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexLevelParameterfv and
-   *           glGetTexLevelParameteriv functions. Must be one
-   *           of the following values: GL_TEXTURE_1D,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_RECTANGLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Z,
-   *           GL_PROXY_TEXTURE_1D,
-   *           GL_PROXY_TEXTURE_2D,
-   *           GL_PROXY_TEXTURE_3D,
-   *           GL_PROXY_TEXTURE_1D_ARRAY,
-   *           GL_PROXY_TEXTURE_2D_ARRAY,
-   *           GL_PROXY_TEXTURE_RECTANGLE,
-   *           GL_PROXY_TEXTURE_2D_MULTISAMPLE,
-   *           GL_PROXY_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_PROXY_TEXTURE_CUBE_MAP, or
-   *           GL_TEXTURE_BUFFER.
+   glGetTexLevelParameterfv and glGetTexLevelParameteriv functions. Must be one
+   of the following values: GL_TEXTURE_1D, GL_TEXTURE_2D, GL_TEXTURE_3D,
+   GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D_ARRAY, GL_TEXTURE_RECTANGLE,
+   GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
+   GL_TEXTURE_CUBE_MAP_POSITIVE_X, GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
+   GL_TEXTURE_CUBE_MAP_POSITIVE_Y, GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
+   GL_TEXTURE_CUBE_MAP_POSITIVE_Z, GL_TEXTURE_CUBE_MAP_NEGATIVE_Z,
+   GL_PROXY_TEXTURE_1D, GL_PROXY_TEXTURE_2D, GL_PROXY_TEXTURE_3D,
+   GL_PROXY_TEXTURE_1D_ARRAY, GL_PROXY_TEXTURE_2D_ARRAY,
+   GL_PROXY_TEXTURE_RECTANGLE, GL_PROXY_TEXTURE_2D_MULTISAMPLE,
+   GL_PROXY_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_PROXY_TEXTURE_CUBE_MAP, or
+   GL_TEXTURE_BUFFER.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetTextureLevelParameterfv and
-   *           glGetTextureLevelParameteriv functions.
+   glGetTextureLevelParameterfv and glGetTextureLevelParameteriv functions.
    *
    * @param [level] Specifies the level-of-detail number of the desired image.
-   *                     Level 0 is the base image level.
-   *                     Level
-   *                     n
-   *                     is the
-   *                     nth
-   *                     mipmap reduction image.
+   Level 0 is the base image level. Level n is the nth mipmap reduction image.
    *
    * @param [pname] Specifies the symbolic name of a texture parameter.
-   *           GL_TEXTURE_WIDTH,
-   *           GL_TEXTURE_HEIGHT,
-   *           GL_TEXTURE_DEPTH,
-   *           GL_TEXTURE_INTERNAL_FORMAT,
-   *           GL_TEXTURE_RED_SIZE,
-   *           GL_TEXTURE_GREEN_SIZE,
-   *           GL_TEXTURE_BLUE_SIZE,
-   *           GL_TEXTURE_ALPHA_SIZE,
-   *           GL_TEXTURE_DEPTH_SIZE,
-   *           GL_TEXTURE_COMPRESSED,
-   *           GL_TEXTURE_COMPRESSED_IMAGE_SIZE, and
-   *           GL_TEXTURE_BUFFER_OFFSET are accepted.
+   GL_TEXTURE_WIDTH, GL_TEXTURE_HEIGHT, GL_TEXTURE_DEPTH,
+   GL_TEXTURE_INTERNAL_FORMAT, GL_TEXTURE_RED_SIZE, GL_TEXTURE_GREEN_SIZE,
+   GL_TEXTURE_BLUE_SIZE, GL_TEXTURE_ALPHA_SIZE, GL_TEXTURE_DEPTH_SIZE,
+   GL_TEXTURE_COMPRESSED, GL_TEXTURE_COMPRESSED_IMAGE_SIZE, and
+   GL_TEXTURE_BUFFER_OFFSET are accepted.
    *
    * @param [params] Returns the requested data.
    */
@@ -14288,58 +12329,31 @@ extern "C"
    level of detail
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexLevelParameterfv and
-   *           glGetTexLevelParameteriv functions. Must be one
-   *           of the following values: GL_TEXTURE_1D,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_RECTANGLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Z,
-   *           GL_PROXY_TEXTURE_1D,
-   *           GL_PROXY_TEXTURE_2D,
-   *           GL_PROXY_TEXTURE_3D,
-   *           GL_PROXY_TEXTURE_1D_ARRAY,
-   *           GL_PROXY_TEXTURE_2D_ARRAY,
-   *           GL_PROXY_TEXTURE_RECTANGLE,
-   *           GL_PROXY_TEXTURE_2D_MULTISAMPLE,
-   *           GL_PROXY_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_PROXY_TEXTURE_CUBE_MAP, or
-   *           GL_TEXTURE_BUFFER.
+   glGetTexLevelParameterfv and glGetTexLevelParameteriv functions. Must be one
+   of the following values: GL_TEXTURE_1D, GL_TEXTURE_2D, GL_TEXTURE_3D,
+   GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D_ARRAY, GL_TEXTURE_RECTANGLE,
+   GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
+   GL_TEXTURE_CUBE_MAP_POSITIVE_X, GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
+   GL_TEXTURE_CUBE_MAP_POSITIVE_Y, GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
+   GL_TEXTURE_CUBE_MAP_POSITIVE_Z, GL_TEXTURE_CUBE_MAP_NEGATIVE_Z,
+   GL_PROXY_TEXTURE_1D, GL_PROXY_TEXTURE_2D, GL_PROXY_TEXTURE_3D,
+   GL_PROXY_TEXTURE_1D_ARRAY, GL_PROXY_TEXTURE_2D_ARRAY,
+   GL_PROXY_TEXTURE_RECTANGLE, GL_PROXY_TEXTURE_2D_MULTISAMPLE,
+   GL_PROXY_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_PROXY_TEXTURE_CUBE_MAP, or
+   GL_TEXTURE_BUFFER.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetTextureLevelParameterfv and
-   *           glGetTextureLevelParameteriv functions.
+   glGetTextureLevelParameterfv and glGetTextureLevelParameteriv functions.
    *
    * @param [level] Specifies the level-of-detail number of the desired image.
-   *                     Level 0 is the base image level.
-   *                     Level
-   *                     n
-   *                     is the
-   *                     nth
-   *                     mipmap reduction image.
+   Level 0 is the base image level. Level n is the nth mipmap reduction image.
    *
    * @param [pname] Specifies the symbolic name of a texture parameter.
-   *           GL_TEXTURE_WIDTH,
-   *           GL_TEXTURE_HEIGHT,
-   *           GL_TEXTURE_DEPTH,
-   *           GL_TEXTURE_INTERNAL_FORMAT,
-   *           GL_TEXTURE_RED_SIZE,
-   *           GL_TEXTURE_GREEN_SIZE,
-   *           GL_TEXTURE_BLUE_SIZE,
-   *           GL_TEXTURE_ALPHA_SIZE,
-   *           GL_TEXTURE_DEPTH_SIZE,
-   *           GL_TEXTURE_COMPRESSED,
-   *           GL_TEXTURE_COMPRESSED_IMAGE_SIZE, and
-   *           GL_TEXTURE_BUFFER_OFFSET are accepted.
+   GL_TEXTURE_WIDTH, GL_TEXTURE_HEIGHT, GL_TEXTURE_DEPTH,
+   GL_TEXTURE_INTERNAL_FORMAT, GL_TEXTURE_RED_SIZE, GL_TEXTURE_GREEN_SIZE,
+   GL_TEXTURE_BLUE_SIZE, GL_TEXTURE_ALPHA_SIZE, GL_TEXTURE_DEPTH_SIZE,
+   GL_TEXTURE_COMPRESSED, GL_TEXTURE_COMPRESSED_IMAGE_SIZE, and
+   GL_TEXTURE_BUFFER_OFFSET are accepted.
    *
    * @param [params] Returns the requested data.
    */
@@ -14353,58 +12367,31 @@ extern "C"
    level of detail
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetTexLevelParameterfv and
-   *           glGetTexLevelParameteriv functions. Must be one
-   *           of the following values: GL_TEXTURE_1D,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_RECTANGLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE,
-   *           GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Z,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Z,
-   *           GL_PROXY_TEXTURE_1D,
-   *           GL_PROXY_TEXTURE_2D,
-   *           GL_PROXY_TEXTURE_3D,
-   *           GL_PROXY_TEXTURE_1D_ARRAY,
-   *           GL_PROXY_TEXTURE_2D_ARRAY,
-   *           GL_PROXY_TEXTURE_RECTANGLE,
-   *           GL_PROXY_TEXTURE_2D_MULTISAMPLE,
-   *           GL_PROXY_TEXTURE_2D_MULTISAMPLE_ARRAY,
-   *           GL_PROXY_TEXTURE_CUBE_MAP, or
-   *           GL_TEXTURE_BUFFER.
+   glGetTexLevelParameterfv and glGetTexLevelParameteriv functions. Must be one
+   of the following values: GL_TEXTURE_1D, GL_TEXTURE_2D, GL_TEXTURE_3D,
+   GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D_ARRAY, GL_TEXTURE_RECTANGLE,
+   GL_TEXTURE_2D_MULTISAMPLE, GL_TEXTURE_2D_MULTISAMPLE_ARRAY,
+   GL_TEXTURE_CUBE_MAP_POSITIVE_X, GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
+   GL_TEXTURE_CUBE_MAP_POSITIVE_Y, GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
+   GL_TEXTURE_CUBE_MAP_POSITIVE_Z, GL_TEXTURE_CUBE_MAP_NEGATIVE_Z,
+   GL_PROXY_TEXTURE_1D, GL_PROXY_TEXTURE_2D, GL_PROXY_TEXTURE_3D,
+   GL_PROXY_TEXTURE_1D_ARRAY, GL_PROXY_TEXTURE_2D_ARRAY,
+   GL_PROXY_TEXTURE_RECTANGLE, GL_PROXY_TEXTURE_2D_MULTISAMPLE,
+   GL_PROXY_TEXTURE_2D_MULTISAMPLE_ARRAY, GL_PROXY_TEXTURE_CUBE_MAP, or
+   GL_TEXTURE_BUFFER.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetTextureLevelParameterfv and
-   *           glGetTextureLevelParameteriv functions.
+   glGetTextureLevelParameterfv and glGetTextureLevelParameteriv functions.
    *
    * @param [level] Specifies the level-of-detail number of the desired image.
-   *                     Level 0 is the base image level.
-   *                     Level
-   *                     n
-   *                     is the
-   *                     nth
-   *                     mipmap reduction image.
+   Level 0 is the base image level. Level n is the nth mipmap reduction image.
    *
    * @param [pname] Specifies the symbolic name of a texture parameter.
-   *           GL_TEXTURE_WIDTH,
-   *           GL_TEXTURE_HEIGHT,
-   *           GL_TEXTURE_DEPTH,
-   *           GL_TEXTURE_INTERNAL_FORMAT,
-   *           GL_TEXTURE_RED_SIZE,
-   *           GL_TEXTURE_GREEN_SIZE,
-   *           GL_TEXTURE_BLUE_SIZE,
-   *           GL_TEXTURE_ALPHA_SIZE,
-   *           GL_TEXTURE_DEPTH_SIZE,
-   *           GL_TEXTURE_COMPRESSED,
-   *           GL_TEXTURE_COMPRESSED_IMAGE_SIZE, and
-   *           GL_TEXTURE_BUFFER_OFFSET are accepted.
+   GL_TEXTURE_WIDTH, GL_TEXTURE_HEIGHT, GL_TEXTURE_DEPTH,
+   GL_TEXTURE_INTERNAL_FORMAT, GL_TEXTURE_RED_SIZE, GL_TEXTURE_GREEN_SIZE,
+   GL_TEXTURE_BLUE_SIZE, GL_TEXTURE_ALPHA_SIZE, GL_TEXTURE_DEPTH_SIZE,
+   GL_TEXTURE_COMPRESSED, GL_TEXTURE_COMPRESSED_IMAGE_SIZE, and
+   GL_TEXTURE_BUFFER_OFFSET are accepted.
    *
    * @param [params] Returns the requested data.
    */
@@ -14417,20 +12404,17 @@ extern "C"
    * glGetTransformFeedbackiv — query the state of a transform feedback object.
    *
    * @param [xfb] The name of an existing transform feedback object, or zero for
-   *           the default transform feedback object.
+   * the default transform feedback object.
    *
    * @param [pname] Property to use for the query. Must be one of the values:
-   *           GL_TRANSFORM_FEEDBACK_BUFFER_BINDING,
-   *           GL_TRANSFORM_FEEDBACK_BUFFER_START,
-   *           GL_TRANSFORM_FEEDBACK_BUFFER_SIZE,
-   *           GL_TRANSFORM_FEEDBACK_PAUSED,
-   *           GL_TRANSFORM_FEEDBACK_ACTIVE.
+   * GL_TRANSFORM_FEEDBACK_BUFFER_BINDING, GL_TRANSFORM_FEEDBACK_BUFFER_START,
+   * GL_TRANSFORM_FEEDBACK_BUFFER_SIZE, GL_TRANSFORM_FEEDBACK_PAUSED,
+   * GL_TRANSFORM_FEEDBACK_ACTIVE.
    *
-   * @param [index] Index of the transform feedback stream (for indexed
-   *           state).
+   * @param [index] Index of the transform feedback stream (for indexed state).
    *
    * @param [param] The address of a buffer into which will be written the
-   *           requested state information.
+   * requested state information.
    */
   static inline void glGetTransformFeedbackiv(GLuint xfb, GLenum pname,
                                               GLint *param)
@@ -14441,20 +12425,17 @@ extern "C"
    * glGetTransformFeedbackiv — query the state of a transform feedback object.
    *
    * @param [xfb] The name of an existing transform feedback object, or zero for
-   *           the default transform feedback object.
+   * the default transform feedback object.
    *
    * @param [pname] Property to use for the query. Must be one of the values:
-   *           GL_TRANSFORM_FEEDBACK_BUFFER_BINDING,
-   *           GL_TRANSFORM_FEEDBACK_BUFFER_START,
-   *           GL_TRANSFORM_FEEDBACK_BUFFER_SIZE,
-   *           GL_TRANSFORM_FEEDBACK_PAUSED,
-   *           GL_TRANSFORM_FEEDBACK_ACTIVE.
+   * GL_TRANSFORM_FEEDBACK_BUFFER_BINDING, GL_TRANSFORM_FEEDBACK_BUFFER_START,
+   * GL_TRANSFORM_FEEDBACK_BUFFER_SIZE, GL_TRANSFORM_FEEDBACK_PAUSED,
+   * GL_TRANSFORM_FEEDBACK_ACTIVE.
    *
-   * @param [index] Index of the transform feedback stream (for indexed
-   *           state).
+   * @param [index] Index of the transform feedback stream (for indexed state).
    *
    * @param [param] The address of a buffer into which will be written the
-   *           requested state information.
+   * requested state information.
    */
   static inline void glGetTransformFeedbacki_v(GLuint xfb, GLenum pname,
                                                GLuint index, GLint *param)
@@ -14465,20 +12446,17 @@ extern "C"
    * glGetTransformFeedbackiv — query the state of a transform feedback object.
    *
    * @param [xfb] The name of an existing transform feedback object, or zero for
-   *           the default transform feedback object.
+   * the default transform feedback object.
    *
    * @param [pname] Property to use for the query. Must be one of the values:
-   *           GL_TRANSFORM_FEEDBACK_BUFFER_BINDING,
-   *           GL_TRANSFORM_FEEDBACK_BUFFER_START,
-   *           GL_TRANSFORM_FEEDBACK_BUFFER_SIZE,
-   *           GL_TRANSFORM_FEEDBACK_PAUSED,
-   *           GL_TRANSFORM_FEEDBACK_ACTIVE.
+   * GL_TRANSFORM_FEEDBACK_BUFFER_BINDING, GL_TRANSFORM_FEEDBACK_BUFFER_START,
+   * GL_TRANSFORM_FEEDBACK_BUFFER_SIZE, GL_TRANSFORM_FEEDBACK_PAUSED,
+   * GL_TRANSFORM_FEEDBACK_ACTIVE.
    *
-   * @param [index] Index of the transform feedback stream (for indexed
-   *           state).
+   * @param [index] Index of the transform feedback stream (for indexed state).
    *
    * @param [param] The address of a buffer into which will be written the
-   *           requested state information.
+   * requested state information.
    */
   static inline void glGetTransformFeedbacki64_v(GLuint xfb, GLenum pname,
                                                  GLuint index, GLint64 *param)
@@ -14506,7 +12484,7 @@ extern "C"
    * @param [shadertype] Specifies the shader stage from which to query for
    * subroutine uniform index. shadertype must be one of GL_VERTEX_SHADER,
    * GL_TESS_CONTROL_SHADER, GL_TESS_EVALUATION_SHADER, GL_GEOMETRY_SHADER or
-   *                     GL_FRAGMENT_SHADER.
+   * GL_FRAGMENT_SHADER.
    *
    * @param [location] Specifies the location of the subroutine uniform.
    *
@@ -14533,7 +12511,7 @@ extern "C"
    which generic vertex attributes advance
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *           glVertexArrayBindingDivisor function.
+   glVertexArrayBindingDivisor function.
    *
    * @param [bindingindex] The index of the binding whose divisor to modify.
    *
@@ -14548,7 +12526,7 @@ extern "C"
    which generic vertex attributes advance
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *           glVertexArrayBindingDivisor function.
+   glVertexArrayBindingDivisor function.
    *
    * @param [bindingindex] The index of the binding whose divisor to modify.
    *
@@ -14614,20 +12592,11 @@ extern "C"
   /**
    * glDrawElementsInstanced — draw multiple instances of a set of elements
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY and GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY and GL_PATCHES are accepted.
    *
    * @param [count] Specifies the number of elements to be rendered.
    *
@@ -14650,21 +12619,11 @@ extern "C"
    * glDrawTransformFeedback — render primitives using a count derived from a
    * transform feedback object
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY, and
-   *                     GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY, and GL_PATCHES are accepted.
    *
    * @param [id] Specifies the name of a transform feedback object from which to
    * retrieve a primitive count.
@@ -14677,16 +12636,15 @@ extern "C"
    * glFramebufferParameteri, glNamedFramebufferParameteri — set a named
    * parameter of a framebuffer object
    *
-   * @param [target] Specifies the target to which the framebuffer is bound
-   *                     for glFramebufferParameteri.
+   * @param [target] Specifies the target to which the framebuffer is bound for
+   * glFramebufferParameteri.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glNamedFramebufferParameteri.
+   * glNamedFramebufferParameteri.
    *
    * @param [pname] Specifies the framebuffer parameter to be modified.
    *
-   * @param [param] The new value for the parameter named
-   *                     pname.
+   * @param [param] The new value for the parameter named pname.
    */
   static inline void glFramebufferParameteri(GLenum target, GLenum pname,
                                              GLint param)
@@ -14697,16 +12655,15 @@ extern "C"
    * glFramebufferParameteri, glNamedFramebufferParameteri — set a named
    * parameter of a framebuffer object
    *
-   * @param [target] Specifies the target to which the framebuffer is bound
-   *                     for glFramebufferParameteri.
+   * @param [target] Specifies the target to which the framebuffer is bound for
+   * glFramebufferParameteri.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glNamedFramebufferParameteri.
+   * glNamedFramebufferParameteri.
    *
    * @param [pname] Specifies the framebuffer parameter to be modified.
    *
-   * @param [param] The new value for the parameter named
-   *                     pname.
+   * @param [param] The new value for the parameter named pname.
    */
   static inline void glNamedFramebufferParameteri(GLuint framebuffer,
                                                   GLenum pname, GLint param)
@@ -14750,32 +12707,22 @@ extern "C"
    * glGetCompressedTexImage — return a compressed texture image
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetCompressedTexImage and
-   *           glGetnCompressedTexImage functions.
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Z, and
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Z,
-   *           GL_TEXTURE_RECTANGLE are accepted.
+   * glGetCompressedTexImage and glGetnCompressedTexImage functions.
+   * GL_TEXTURE_1D, GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_3D, GL_TEXTURE_CUBE_MAP_ARRAY, GL_TEXTURE_CUBE_MAP_POSITIVE_X,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_X, GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Y, GL_TEXTURE_CUBE_MAP_POSITIVE_Z, and
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, GL_TEXTURE_RECTANGLE are accepted.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetCompressedTextureImage function.
+   * glGetCompressedTextureImage function.
    *
    * @param [level] Specifies the level-of-detail number of the desired image.
-   *           Level 0 is the base image level. Level $n$ is the $n$-th mipmap
-   * reduction image.
+   * Level 0 is the base image level. Level $n$ is the $n$-th mipmap reduction
+   * image.
    *
-   * @param [bufSize] Specifies the size of the buffer pixels
-   *           for glGetCompressedTextureImage and
-   *           glGetnCompressedTexImage functions.
+   * @param [bufSize] Specifies the size of the buffer pixels for
+   * glGetCompressedTextureImage and glGetnCompressedTexImage functions.
    *
    * @param [pixels] Returns the compressed texture image.
    */
@@ -14788,32 +12735,22 @@ extern "C"
    * glGetCompressedTexImage — return a compressed texture image
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetCompressedTexImage and
-   *           glGetnCompressedTexImage functions.
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Z, and
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Z,
-   *           GL_TEXTURE_RECTANGLE are accepted.
+   * glGetCompressedTexImage and glGetnCompressedTexImage functions.
+   * GL_TEXTURE_1D, GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_3D, GL_TEXTURE_CUBE_MAP_ARRAY, GL_TEXTURE_CUBE_MAP_POSITIVE_X,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_X, GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Y, GL_TEXTURE_CUBE_MAP_POSITIVE_Z, and
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, GL_TEXTURE_RECTANGLE are accepted.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetCompressedTextureImage function.
+   * glGetCompressedTextureImage function.
    *
    * @param [level] Specifies the level-of-detail number of the desired image.
-   *           Level 0 is the base image level. Level $n$ is the $n$-th mipmap
-   * reduction image.
+   * Level 0 is the base image level. Level $n$ is the $n$-th mipmap reduction
+   * image.
    *
-   * @param [bufSize] Specifies the size of the buffer pixels
-   *           for glGetCompressedTextureImage and
-   *           glGetnCompressedTexImage functions.
+   * @param [bufSize] Specifies the size of the buffer pixels for
+   * glGetCompressedTextureImage and glGetnCompressedTexImage functions.
    *
    * @param [pixels] Returns the compressed texture image.
    */
@@ -14826,32 +12763,22 @@ extern "C"
    * glGetCompressedTexImage — return a compressed texture image
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glGetCompressedTexImage and
-   *           glGetnCompressedTexImage functions.
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Z, and
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Z,
-   *           GL_TEXTURE_RECTANGLE are accepted.
+   * glGetCompressedTexImage and glGetnCompressedTexImage functions.
+   * GL_TEXTURE_1D, GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_3D, GL_TEXTURE_CUBE_MAP_ARRAY, GL_TEXTURE_CUBE_MAP_POSITIVE_X,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_X, GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Y, GL_TEXTURE_CUBE_MAP_POSITIVE_Z, and
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Z, GL_TEXTURE_RECTANGLE are accepted.
    *
    * @param [texture] Specifies the texture object name for
-   *           glGetCompressedTextureImage function.
+   * glGetCompressedTextureImage function.
    *
    * @param [level] Specifies the level-of-detail number of the desired image.
-   *           Level 0 is the base image level. Level $n$ is the $n$-th mipmap
-   * reduction image.
+   * Level 0 is the base image level. Level $n$ is the $n$-th mipmap reduction
+   * image.
    *
-   * @param [bufSize] Specifies the size of the buffer pixels
-   *           for glGetCompressedTextureImage and
-   *           glGetnCompressedTexImage functions.
+   * @param [bufSize] Specifies the size of the buffer pixels for
+   * glGetCompressedTextureImage and glGetnCompressedTexImage functions.
    *
    * @param [pixels] Returns the compressed texture image.
    */
@@ -14867,24 +12794,16 @@ extern "C"
    * @param [vaobj] Specifies the name of a vertex array object.
    *
    * @param [index] Specifies the index of the vertex array object attribute.
-   Must
-   *           be a number between 0 and
-   *           (GL_MAX_VERTEX_ATTRIBS - 1).
+   Must be a number between 0 and (GL_MAX_VERTEX_ATTRIBS - 1).
    *
    * @param [pname] Specifies the property to be used for the query. For
-   *           glGetVertexArrayIndexediv, it must be one of
-   *           the following values:
-   *           GL_VERTEX_ATTRIB_ARRAY_ENABLED,
-   *           GL_VERTEX_ATTRIB_ARRAY_SIZE,
-   *           GL_VERTEX_ATTRIB_ARRAY_STRIDE,
-   *           GL_VERTEX_ATTRIB_ARRAY_TYPE,
-   *           GL_VERTEX_ATTRIB_ARRAY_NORMALIZED,
-   *           GL_VERTEX_ATTRIB_ARRAY_INTEGER,
-   *           GL_VERTEX_ATTRIB_ARRAY_LONG,
-   *           GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
-   *           GL_VERTEX_ATTRIB_RELATIVE_OFFSET. For
-   *           glGetVertexArrayIndexed64v, it must be equal to
-   *           GL_VERTEX_BINDING_OFFSET.
+   glGetVertexArrayIndexediv, it must be one of the following values:
+   GL_VERTEX_ATTRIB_ARRAY_ENABLED, GL_VERTEX_ATTRIB_ARRAY_SIZE,
+   GL_VERTEX_ATTRIB_ARRAY_STRIDE, GL_VERTEX_ATTRIB_ARRAY_TYPE,
+   GL_VERTEX_ATTRIB_ARRAY_NORMALIZED, GL_VERTEX_ATTRIB_ARRAY_INTEGER,
+   GL_VERTEX_ATTRIB_ARRAY_LONG, GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
+   GL_VERTEX_ATTRIB_RELATIVE_OFFSET. For glGetVertexArrayIndexed64v, it must be
+   equal to GL_VERTEX_BINDING_OFFSET.
    *
    * @param [param] Returns the requested value.
    */
@@ -14900,24 +12819,16 @@ extern "C"
    * @param [vaobj] Specifies the name of a vertex array object.
    *
    * @param [index] Specifies the index of the vertex array object attribute.
-   Must
-   *           be a number between 0 and
-   *           (GL_MAX_VERTEX_ATTRIBS - 1).
+   Must be a number between 0 and (GL_MAX_VERTEX_ATTRIBS - 1).
    *
    * @param [pname] Specifies the property to be used for the query. For
-   *           glGetVertexArrayIndexediv, it must be one of
-   *           the following values:
-   *           GL_VERTEX_ATTRIB_ARRAY_ENABLED,
-   *           GL_VERTEX_ATTRIB_ARRAY_SIZE,
-   *           GL_VERTEX_ATTRIB_ARRAY_STRIDE,
-   *           GL_VERTEX_ATTRIB_ARRAY_TYPE,
-   *           GL_VERTEX_ATTRIB_ARRAY_NORMALIZED,
-   *           GL_VERTEX_ATTRIB_ARRAY_INTEGER,
-   *           GL_VERTEX_ATTRIB_ARRAY_LONG,
-   *           GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
-   *           GL_VERTEX_ATTRIB_RELATIVE_OFFSET. For
-   *           glGetVertexArrayIndexed64v, it must be equal to
-   *           GL_VERTEX_BINDING_OFFSET.
+   glGetVertexArrayIndexediv, it must be one of the following values:
+   GL_VERTEX_ATTRIB_ARRAY_ENABLED, GL_VERTEX_ATTRIB_ARRAY_SIZE,
+   GL_VERTEX_ATTRIB_ARRAY_STRIDE, GL_VERTEX_ATTRIB_ARRAY_TYPE,
+   GL_VERTEX_ATTRIB_ARRAY_NORMALIZED, GL_VERTEX_ATTRIB_ARRAY_INTEGER,
+   GL_VERTEX_ATTRIB_ARRAY_LONG, GL_VERTEX_ATTRIB_ARRAY_DIVISOR, or
+   GL_VERTEX_ATTRIB_RELATIVE_OFFSET. For glGetVertexArrayIndexed64v, it must be
+   equal to GL_VERTEX_BINDING_OFFSET.
    *
    * @param [param] Returns the requested value.
    */
@@ -14931,17 +12842,16 @@ extern "C"
    * content of some or all of a framebuffer's attachments
    *
    * @param [target] Specifies the target to which the framebuffer object is
-   *                     attached for
-   *                     glInvalidateFramebuffer.
+   * attached for glInvalidateFramebuffer.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glInvalidateNamedFramebufferData.
+   * glInvalidateNamedFramebufferData.
    *
-   * @param [numAttachments] Specifies the number of entries in the
-   *                     attachments array.
+   * @param [numAttachments] Specifies the number of entries in the attachments
+   * array.
    *
    * @param [attachments] Specifies a pointer to an array identifying the
-   *                     attachments to be invalidated.
+   * attachments to be invalidated.
    */
   static inline void glInvalidateFramebuffer(GLenum target,
                                              GLsizei numAttachments,
@@ -14954,17 +12864,16 @@ extern "C"
    * content of some or all of a framebuffer's attachments
    *
    * @param [target] Specifies the target to which the framebuffer object is
-   *                     attached for
-   *                     glInvalidateFramebuffer.
+   * attached for glInvalidateFramebuffer.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glInvalidateNamedFramebufferData.
+   * glInvalidateNamedFramebufferData.
    *
-   * @param [numAttachments] Specifies the number of entries in the
-   *                     attachments array.
+   * @param [numAttachments] Specifies the number of entries in the attachments
+   * array.
    *
    * @param [attachments] Specifies a pointer to an array identifying the
-   *                     attachments to be invalidated.
+   * attachments to be invalidated.
    */
   static inline void glInvalidateNamedFramebufferData(GLuint framebuffer,
                                                       GLsizei numAttachments,
@@ -15132,13 +13041,11 @@ extern "C"
    * completeness status of a framebuffer
    *
    * @param [target] Specify the target to which the framebuffer is bound for
-   *                     glCheckFramebufferStatus, and the
-   *                     target against which framebuffer completeness of
-   *                     framebuffer is checked for
-   *                     glCheckNamedFramebufferStatus.
+   * glCheckFramebufferStatus, and the target against which framebuffer
+   * completeness of framebuffer is checked for glCheckNamedFramebufferStatus.
    *
-   * @param [framebuffer] Specifies the name of the framebuffer object
-   *                     for glCheckNamedFramebufferStatus
+   * @param [framebuffer] Specifies the name of the framebuffer object for
+   * glCheckNamedFramebufferStatus
    */
   static inline GLenum glCheckFramebufferStatus(GLenum target)
   {
@@ -15149,13 +13056,11 @@ extern "C"
    * completeness status of a framebuffer
    *
    * @param [target] Specify the target to which the framebuffer is bound for
-   *                     glCheckFramebufferStatus, and the
-   *                     target against which framebuffer completeness of
-   *                     framebuffer is checked for
-   *                     glCheckNamedFramebufferStatus.
+   * glCheckFramebufferStatus, and the target against which framebuffer
+   * completeness of framebuffer is checked for glCheckNamedFramebufferStatus.
    *
-   * @param [framebuffer] Specifies the name of the framebuffer object
-   *                     for glCheckNamedFramebufferStatus
+   * @param [framebuffer] Specifies the name of the framebuffer object for
+   * glCheckNamedFramebufferStatus
    */
   static inline GLenum glCheckNamedFramebufferStatus(GLuint framebuffer,
                                                      GLenum target)
@@ -15168,7 +13073,7 @@ extern "C"
    * @param [n] Number of program pipeline objects to create.
    *
    * @param [pipelines] Specifies an array in which names of the new program
-   *                         pipeline objects are stored.
+   * pipeline objects are stored.
    */
   static inline void glCreateProgramPipelines(GLsizei n, GLuint *pipelines)
   {
@@ -15191,11 +13096,9 @@ extern "C"
    * glDrawElementsBaseVertex — render primitives from array data with a
    * per-element offset
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP,
-   *                     GL_LINES, GL_TRIANGLE_STRIP, GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES, GL_LINES_ADJACENCY,
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_TRIANGLE_STRIP, GL_TRIANGLE_FAN, GL_TRIANGLES, GL_LINES_ADJACENCY,
    * GL_LINE_STRIP_ADJACENCY, GL_TRIANGLES_ADJACENCY,
    * GL_TRIANGLE_STRIP_ADJACENCY and GL_PATCHES are accepted.
    *
@@ -15221,12 +13124,26 @@ extern "C"
    * modifications to a range of a mapped buffer
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glFlushMappedBufferRange, which
-   *                     must be one of the buffer binding targets in the
-   *                     following table:
+   * for glFlushMappedBufferRange, which must be one of the buffer binding
+   * targets in the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glFlushMappedNamedBufferRange.
+   * glFlushMappedNamedBufferRange.
    *
    * @param [offset] Specifies the start of the buffer subrange, in basic
    * machine units.
@@ -15244,12 +13161,26 @@ extern "C"
    * modifications to a range of a mapped buffer
    *
    * @param [target] Specifies the target to which the buffer object is bound
-   *                     for glFlushMappedBufferRange, which
-   *                     must be one of the buffer binding targets in the
-   *                     following table:
+   * for glFlushMappedBufferRange, which must be one of the buffer binding
+   * targets in the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
    *
    * @param [buffer] Specifies the name of the buffer object for
-   *                     glFlushMappedNamedBufferRange.
+   * glFlushMappedNamedBufferRange.
    *
    * @param [offset] Specifies the start of the buffer subrange, in basic
    * machine units.
@@ -15311,31 +13242,26 @@ extern "C"
    one-dimensional texture subimage in a compressed format
    *
    * @param [target] Specifies the target, to which the texture is bound, for
-   *           glCompressedTexSubImage1D function. Must be
-   *           GL_TEXTURE_1D.
+   glCompressedTexSubImage1D function. Must be GL_TEXTURE_1D.
    *
    * @param [texture] Specifies the texture object name for
-   *           glCompressedTextureSubImage1D function.
+   glCompressedTextureSubImage1D function.
    *
    * @param [level] Specifies the level-of-detail number. Level 0 is the base
-   *           image level. Level n is the
-   *           nth mipmap reduction image.
+   image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
-   texture
-   *           array.
+   texture array.
    *
    * @param [width] Specifies the width of the texture subimage.
    *
    * @param [format] Specifies the format of the compressed image data stored at
-   *           address data.
+   address data.
    *
    * @param [imageSize] Specifies the number of unsigned bytes of image data
-   starting
-   *           at the address specified by data.
+   starting at the address specified by data.
    *
-   * @param [data] Specifies a pointer to the compressed image data in
-   *           memory.
+   * @param [data] Specifies a pointer to the compressed image data in memory.
    */
   static inline void glCompressedTexSubImage1D(GLenum target, GLint level,
                                                GLint xoffset, GLsizei width,
@@ -15350,31 +13276,26 @@ extern "C"
    one-dimensional texture subimage in a compressed format
    *
    * @param [target] Specifies the target, to which the texture is bound, for
-   *           glCompressedTexSubImage1D function. Must be
-   *           GL_TEXTURE_1D.
+   glCompressedTexSubImage1D function. Must be GL_TEXTURE_1D.
    *
    * @param [texture] Specifies the texture object name for
-   *           glCompressedTextureSubImage1D function.
+   glCompressedTextureSubImage1D function.
    *
    * @param [level] Specifies the level-of-detail number. Level 0 is the base
-   *           image level. Level n is the
-   *           nth mipmap reduction image.
+   image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
-   texture
-   *           array.
+   texture array.
    *
    * @param [width] Specifies the width of the texture subimage.
    *
    * @param [format] Specifies the format of the compressed image data stored at
-   *           address data.
+   address data.
    *
    * @param [imageSize] Specifies the number of unsigned bytes of image data
-   starting
-   *           at the address specified by data.
+   starting at the address specified by data.
    *
-   * @param [data] Specifies a pointer to the compressed image data in
-   *           memory.
+   * @param [data] Specifies a pointer to the compressed image data in memory.
    */
   static inline void glCompressedTextureSubImage1D(GLuint texture, GLint level,
                                                    GLint xoffset, GLsizei width,
@@ -15390,22 +13311,17 @@ extern "C"
    * two-dimensional texture subimage in a compressed format
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glCompressedTexSubImage2D function. Must be
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Z, or
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Z.
+   * glCompressedTexSubImage2D function. Must be GL_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_2D, GL_TEXTURE_CUBE_MAP_POSITIVE_X,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_X, GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Y, GL_TEXTURE_CUBE_MAP_POSITIVE_Z, or
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Z.
    *
    * @param [texture] Specifies the texture object name for
-   *           glCompressedTextureSubImage2D function.
+   * glCompressedTextureSubImage2D function.
    *
    * @param [level] Specifies the level-of-detail number. Level 0 is the base
-   *           image level. Level n is the
-   *           nth mipmap reduction image.
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
    * texture array.
@@ -15418,13 +13334,12 @@ extern "C"
    * @param [height] Specifies the height of the texture subimage.
    *
    * @param [format] Specifies the format of the compressed image data stored at
-   *           address data.
+   * address data.
    *
    * @param [imageSize] Specifies the number of unsigned bytes of image data
    * starting at the address specified by data.
    *
-   * @param [data] Specifies a pointer to the compressed image data in
-   *           memory.
+   * @param [data] Specifies a pointer to the compressed image data in memory.
    */
   static inline void glCompressedTexSubImage2D(GLenum target, GLint level,
                                                GLint xoffset, GLint yoffset,
@@ -15440,22 +13355,17 @@ extern "C"
    * two-dimensional texture subimage in a compressed format
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glCompressedTexSubImage2D function. Must be
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_X,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Y,
-   *           GL_TEXTURE_CUBE_MAP_POSITIVE_Z, or
-   *           GL_TEXTURE_CUBE_MAP_NEGATIVE_Z.
+   * glCompressedTexSubImage2D function. Must be GL_TEXTURE_1D_ARRAY,
+   * GL_TEXTURE_2D, GL_TEXTURE_CUBE_MAP_POSITIVE_X,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_X, GL_TEXTURE_CUBE_MAP_POSITIVE_Y,
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Y, GL_TEXTURE_CUBE_MAP_POSITIVE_Z, or
+   * GL_TEXTURE_CUBE_MAP_NEGATIVE_Z.
    *
    * @param [texture] Specifies the texture object name for
-   *           glCompressedTextureSubImage2D function.
+   * glCompressedTextureSubImage2D function.
    *
    * @param [level] Specifies the level-of-detail number. Level 0 is the base
-   *           image level. Level n is the
-   *           nth mipmap reduction image.
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
    * texture array.
@@ -15468,13 +13378,12 @@ extern "C"
    * @param [height] Specifies the height of the texture subimage.
    *
    * @param [format] Specifies the format of the compressed image data stored at
-   *           address data.
+   * address data.
    *
    * @param [imageSize] Specifies the number of unsigned bytes of image data
    * starting at the address specified by data.
    *
-   * @param [data] Specifies a pointer to the compressed image data in
-   *           memory.
+   * @param [data] Specifies a pointer to the compressed image data in memory.
    */
   static inline void glCompressedTextureSubImage2D(
       GLuint texture, GLint level, GLint xoffset, GLint yoffset, GLsizei width,
@@ -15488,17 +13397,14 @@ extern "C"
    * three-dimensional texture subimage in a compressed format
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glCompressedTexSubImage3D function. Must be
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_3D, or
-   *           GL_TEXTURE_CUBE_MAP_ARRAY.
+   * glCompressedTexSubImage3D function. Must be GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_3D, or GL_TEXTURE_CUBE_MAP_ARRAY.
    *
    * @param [texture] Specifies the texture object name for
-   *           glCompressedTextureSubImage3D function.
+   * glCompressedTextureSubImage3D function.
    *
    * @param [level] Specifies the level-of-detail number. Level 0 is the base
-   *           image level. Level n is the
-   *           nth mipmap reduction image.
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
    * texture array.
@@ -15513,13 +13419,12 @@ extern "C"
    * @param [depth] Specifies the depth of the texture subimage.
    *
    * @param [format] Specifies the format of the compressed image data stored at
-   *           address data.
+   * address data.
    *
    * @param [imageSize] Specifies the number of unsigned bytes of image data
    * starting at the address specified by data.
    *
-   * @param [data] Specifies a pointer to the compressed image data in
-   *           memory.
+   * @param [data] Specifies a pointer to the compressed image data in memory.
    */
   static inline void glCompressedTexSubImage3D(GLenum target, GLint level,
                                                GLint xoffset, GLint yoffset,
@@ -15537,17 +13442,14 @@ extern "C"
    * three-dimensional texture subimage in a compressed format
    *
    * @param [target] Specifies the target to which the texture is bound for
-   *           glCompressedTexSubImage3D function. Must be
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_3D, or
-   *           GL_TEXTURE_CUBE_MAP_ARRAY.
+   * glCompressedTexSubImage3D function. Must be GL_TEXTURE_2D_ARRAY,
+   * GL_TEXTURE_3D, or GL_TEXTURE_CUBE_MAP_ARRAY.
    *
    * @param [texture] Specifies the texture object name for
-   *           glCompressedTextureSubImage3D function.
+   * glCompressedTextureSubImage3D function.
    *
    * @param [level] Specifies the level-of-detail number. Level 0 is the base
-   *           image level. Level n is the
-   *           nth mipmap reduction image.
+   * image level. Level n is the nth mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
    * texture array.
@@ -15562,13 +13464,12 @@ extern "C"
    * @param [depth] Specifies the depth of the texture subimage.
    *
    * @param [format] Specifies the format of the compressed image data stored at
-   *           address data.
+   * address data.
    *
    * @param [imageSize] Specifies the number of unsigned bytes of image data
    * starting at the address specified by data.
    *
-   * @param [data] Specifies a pointer to the compressed image data in
-   *           memory.
+   * @param [data] Specifies a pointer to the compressed image data in memory.
    */
   static inline void
   glCompressedTextureSubImage3D(GLuint texture, GLint level, GLint xoffset,
@@ -15585,8 +13486,8 @@ extern "C"
    * parameters stored in a buffer
    *
    * @param [indirect] The offset into the buffer object currently bound to the
-   *                     GL_DISPATCH_INDIRECT_BUFFER buffer target at
-   *                     which the dispatch parameters are stored.
+   * GL_DISPATCH_INDIRECT_BUFFER buffer target at which the dispatch parameters
+   * are stored.
    */
   static inline void glDispatchComputeIndirect(GLintptr indirect)
   {
@@ -15597,11 +13498,10 @@ extern "C"
       array
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *           glDisableVertexArrayAttrib and
-   *           glEnableVertexArrayAttrib functions.
+   glDisableVertexArrayAttrib and glEnableVertexArrayAttrib functions.
    *
    * @param [index] Specifies the index of the generic vertex attribute to be
-   *           enabled or disabled.
+   enabled or disabled.
    */
   static inline void glEnableVertexAttribArray(GLuint index)
   {
@@ -15612,11 +13512,10 @@ extern "C"
       array
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *           glDisableVertexArrayAttrib and
-   *           glEnableVertexArrayAttrib functions.
+   glDisableVertexArrayAttrib and glEnableVertexArrayAttrib functions.
    *
    * @param [index] Specifies the index of the generic vertex attribute to be
-   *           enabled or disabled.
+   enabled or disabled.
    */
   static inline void glDisableVertexAttribArray(GLuint index)
   {
@@ -15627,11 +13526,10 @@ extern "C"
       array
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *           glDisableVertexArrayAttrib and
-   *           glEnableVertexArrayAttrib functions.
+   glDisableVertexArrayAttrib and glEnableVertexArrayAttrib functions.
    *
    * @param [index] Specifies the index of the generic vertex attribute to be
-   *           enabled or disabled.
+   enabled or disabled.
    */
   static inline void glEnableVertexArrayAttrib(GLuint vaobj, GLuint index)
   {
@@ -15642,11 +13540,10 @@ extern "C"
       array
    *
    * @param [vaobj] Specifies the name of the vertex array object for
-   *           glDisableVertexArrayAttrib and
-   *           glEnableVertexArrayAttrib functions.
+   glDisableVertexArrayAttrib and glEnableVertexArrayAttrib functions.
    *
    * @param [index] Specifies the index of the generic vertex attribute to be
-   *           enabled or disabled.
+   enabled or disabled.
    */
   static inline void glDisableVertexArrayAttrib(GLuint vaobj, GLuint index)
   {
@@ -15656,16 +13553,16 @@ extern "C"
    * glFramebufferRenderbuffer, glNamedFramebufferRenderbuffer — attach a
    * renderbuffer as a logical buffer of a framebuffer object
    *
-   * @param [target] Specifies the target to which the framebuffer is bound
-   *                     for glFramebufferRenderbuffer.
+   * @param [target] Specifies the target to which the framebuffer is bound for
+   * glFramebufferRenderbuffer.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glNamedFramebufferRenderbuffer.
+   * glNamedFramebufferRenderbuffer.
    *
    * @param [attachment] Specifies the attachment point of the framebuffer.
    *
    * @param [renderbuffertarget] Specifies the renderbuffer target. Must be
-   *                     GL_RENDERBUFFER.
+   * GL_RENDERBUFFER.
    *
    * @param [renderbuffer] Specifies the name of an existing renderbuffer object
    * of type renderbuffertarget to attach.
@@ -15681,16 +13578,16 @@ extern "C"
    * glFramebufferRenderbuffer, glNamedFramebufferRenderbuffer — attach a
    * renderbuffer as a logical buffer of a framebuffer object
    *
-   * @param [target] Specifies the target to which the framebuffer is bound
-   *                     for glFramebufferRenderbuffer.
+   * @param [target] Specifies the target to which the framebuffer is bound for
+   * glFramebufferRenderbuffer.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glNamedFramebufferRenderbuffer.
+   * glNamedFramebufferRenderbuffer.
    *
    * @param [attachment] Specifies the attachment point of the framebuffer.
    *
    * @param [renderbuffertarget] Specifies the renderbuffer target. Must be
-   *                     GL_RENDERBUFFER.
+   * GL_RENDERBUFFER.
    *
    * @param [renderbuffer] Specifies the name of an existing renderbuffer object
    * of type renderbuffertarget to attach.
@@ -15707,22 +13604,20 @@ extern "C"
    * glFramebufferTextureLayer, glNamedFramebufferTextureLayer — attach a single
    * layer of a texture object as a logical buffer of a framebuffer object
    *
-   * @param [target] Specifies the target to which the framebuffer is bound
-   *                     for glFramebufferTextureLayer.
+   * @param [target] Specifies the target to which the framebuffer is bound for
+   * glFramebufferTextureLayer.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glNamedFramebufferTextureLayer.
+   * glNamedFramebufferTextureLayer.
    *
    * @param [attachment] Specifies the attachment point of the framebuffer.
    *
    * @param [texture] Specifies the name of an existing texture object to
-   *                     attach.
+   * attach.
    *
-   * @param [level] Specifies the mipmap level of the texture object to
-   *                     attach.
+   * @param [level] Specifies the mipmap level of the texture object to attach.
    *
-   * @param [layer] Specifies the layer of the texture object to
-   *                     attach.
+   * @param [layer] Specifies the layer of the texture object to attach.
    */
   static inline void glFramebufferTextureLayer(GLenum target, GLenum attachment,
                                                GLuint texture, GLint level,
@@ -15734,22 +13629,20 @@ extern "C"
    * glFramebufferTextureLayer, glNamedFramebufferTextureLayer — attach a single
    * layer of a texture object as a logical buffer of a framebuffer object
    *
-   * @param [target] Specifies the target to which the framebuffer is bound
-   *                     for glFramebufferTextureLayer.
+   * @param [target] Specifies the target to which the framebuffer is bound for
+   * glFramebufferTextureLayer.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glNamedFramebufferTextureLayer.
+   * glNamedFramebufferTextureLayer.
    *
    * @param [attachment] Specifies the attachment point of the framebuffer.
    *
    * @param [texture] Specifies the name of an existing texture object to
-   *                     attach.
+   * attach.
    *
-   * @param [level] Specifies the mipmap level of the texture object to
-   *                     attach.
+   * @param [level] Specifies the mipmap level of the texture object to attach.
    *
-   * @param [layer] Specifies the layer of the texture object to
-   *                     attach.
+   * @param [layer] Specifies the layer of the texture object to attach.
    */
   static inline void glNamedFramebufferTextureLayer(GLuint framebuffer,
                                                     GLenum attachment,
@@ -15792,17 +13685,15 @@ extern "C"
    * named parameter of a framebuffer object
    *
    * @param [target] Specifies the target to which the framebuffer object is
-   *                     bound for
-   *                     glGetFramebufferParameteriv.
+   * bound for glGetFramebufferParameteriv.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glGetNamedFramebufferParameteriv.
+   * glGetNamedFramebufferParameteriv.
    *
-   * @param [pname] Specifies the parameter of the framebuffer object to
-   *                     query.
+   * @param [pname] Specifies the parameter of the framebuffer object to query.
    *
-   * @param [params] Returns the value of parameter
-   *                     pname for the framebuffer object.
+   * @param [params] Returns the value of parameter pname for the framebuffer
+   * object.
    */
   static inline void glGetFramebufferParameteriv(GLenum target, GLenum pname,
                                                  GLint *params)
@@ -15814,17 +13705,15 @@ extern "C"
    * named parameter of a framebuffer object
    *
    * @param [target] Specifies the target to which the framebuffer object is
-   *                     bound for
-   *                     glGetFramebufferParameteriv.
+   * bound for glGetFramebufferParameteriv.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glGetNamedFramebufferParameteriv.
+   * glGetNamedFramebufferParameteriv.
    *
-   * @param [pname] Specifies the parameter of the framebuffer object to
-   *                     query.
+   * @param [pname] Specifies the parameter of the framebuffer object to query.
    *
-   * @param [params] Returns the value of parameter
-   *                     pname for the framebuffer object.
+   * @param [params] Returns the value of parameter pname for the framebuffer
+   * object.
    */
   static inline void glGetNamedFramebufferParameteriv(GLuint framebuffer,
                                                       GLenum pname,
@@ -15853,12 +13742,11 @@ extern "C"
    * glGetVertexAttribPointerv — return the address of the specified generic
    * vertex attribute pointer
    *
-   * @param [index] Specifies the generic vertex attribute
-   *             parameter to be returned.
+   * @param [index] Specifies the generic vertex attribute parameter to be
+   * returned.
    *
-   * @param [pname] Specifies the symbolic name of the generic
-   *             vertex attribute parameter to be returned. Must be
-   *             GL_VERTEX_ATTRIB_ARRAY_POINTER.
+   * @param [pname] Specifies the symbolic name of the generic vertex attribute
+   * parameter to be returned. Must be GL_VERTEX_ATTRIB_ARRAY_POINTER.
    *
    * @param [pointer] Returns the pointer value.
    */
@@ -15889,21 +13777,11 @@ extern "C"
    * glMultiDrawArraysIndirect — render multiple sets of primitives from array
    * data, taking parameters from memory
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY, and
-   *                     GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY, and GL_PATCHES are accepted.
    *
    * @param [indirect] Specifies the address of an array of structures
    * containing the draw parameters.
@@ -15932,17 +13810,13 @@ extern "C"
    * glTexStorage2DMultisample, glTextureStorage2DMultisample — specify storage
    * for a two-dimensional multisample texture
    *
-   * @param [target] Specifies the target to which the texture object is
-   *                     bound for
-   *                     glTexStorage2DMultisample. Must be
-   *                     one of GL_TEXTURE_2D_MULTISAMPLE or
-   *                     GL_PROXY_TEXTURE_2D_MULTISAMPLE.
+   * @param [target] Specifies the target to which the texture object is bound
+   * for glTexStorage2DMultisample. Must be one of GL_TEXTURE_2D_MULTISAMPLE or
+   * GL_PROXY_TEXTURE_2D_MULTISAMPLE.
    *
    * @param [texture] Specifies the texture object name for
-   *                     glTextureStorage2DMultisample. The
-   *                     effective target of texture must
-   *                     be one of the valid non-proxy
-   *                     target values above.
+   * glTextureStorage2DMultisample. The effective target of texture must be one
+   * of the valid non-proxy target values above.
    *
    * @param [samples] Specify the number of samples in the texture.
    *
@@ -15970,17 +13844,13 @@ extern "C"
    * glTexStorage2DMultisample, glTextureStorage2DMultisample — specify storage
    * for a two-dimensional multisample texture
    *
-   * @param [target] Specifies the target to which the texture object is
-   *                     bound for
-   *                     glTexStorage2DMultisample. Must be
-   *                     one of GL_TEXTURE_2D_MULTISAMPLE or
-   *                     GL_PROXY_TEXTURE_2D_MULTISAMPLE.
+   * @param [target] Specifies the target to which the texture object is bound
+   * for glTexStorage2DMultisample. Must be one of GL_TEXTURE_2D_MULTISAMPLE or
+   * GL_PROXY_TEXTURE_2D_MULTISAMPLE.
    *
    * @param [texture] Specifies the texture object name for
-   *                     glTextureStorage2DMultisample. The
-   *                     effective target of texture must
-   *                     be one of the valid non-proxy
-   *                     target values above.
+   * glTextureStorage2DMultisample. The effective target of texture must be one
+   * of the valid non-proxy target values above.
    *
    * @param [samples] Specify the number of samples in the texture.
    *
@@ -16008,18 +13878,13 @@ extern "C"
    * glTexStorage3DMultisample, glTextureStorage3DMultisample — specify storage
    * for a two-dimensional multisample array texture
    *
-   * @param [target] Specifies the target to which the texture object is
-   *                     bound for
-   *                     glTexStorage3DMultisample. Must be
-   *                     one of
-   *                     GL_TEXTURE_2D_MULTISAMPLE_ARRAY or
-   *                     GL_PROXY_TEXTURE_2D_MULTISAMPLE_ARRAY.
+   * @param [target] Specifies the target to which the texture object is bound
+   * for glTexStorage3DMultisample. Must be one of
+   * GL_TEXTURE_2D_MULTISAMPLE_ARRAY or GL_PROXY_TEXTURE_2D_MULTISAMPLE_ARRAY.
    *
    * @param [texture] Specifies the texture object name for
-   *                     glTextureStorage3DMultisample. The
-   *                     effective target of texture must
-   *                     be one of the valid non-proxy
-   *                     target values above.
+   * glTextureStorage3DMultisample. The effective target of texture must be one
+   * of the valid non-proxy target values above.
    *
    * @param [samples] Specify the number of samples in the texture.
    *
@@ -16050,18 +13915,13 @@ extern "C"
    * glTexStorage3DMultisample, glTextureStorage3DMultisample — specify storage
    * for a two-dimensional multisample array texture
    *
-   * @param [target] Specifies the target to which the texture object is
-   *                     bound for
-   *                     glTexStorage3DMultisample. Must be
-   *                     one of
-   *                     GL_TEXTURE_2D_MULTISAMPLE_ARRAY or
-   *                     GL_PROXY_TEXTURE_2D_MULTISAMPLE_ARRAY.
+   * @param [target] Specifies the target to which the texture object is bound
+   * for glTexStorage3DMultisample. Must be one of
+   * GL_TEXTURE_2D_MULTISAMPLE_ARRAY or GL_PROXY_TEXTURE_2D_MULTISAMPLE_ARRAY.
    *
    * @param [texture] Specifies the texture object name for
-   *                     glTextureStorage3DMultisample. The
-   *                     effective target of texture must
-   *                     be one of the valid non-proxy
-   *                     target values above.
+   * glTextureStorage3DMultisample. The effective target of texture must be one
+   * of the valid non-proxy target values above.
    *
    * @param [samples] Specify the number of samples in the texture.
    *
@@ -16102,8 +13962,8 @@ extern "C"
    *
    * @param [n] Number of transform feedback objects to create.
    *
-   * @param [ids] Specifies an array in which names of the new
-   *                         transform feedback objects are stored.
+   * @param [ids] Specifies an array in which names of the new transform
+   * feedback objects are stored.
    */
   static inline void glCreateTransformFeedbacks(GLsizei n, GLuint *ids)
   {
@@ -16126,19 +13986,15 @@ extern "C"
    * named parameter of a renderbuffer object
    *
    * @param [target] Specifies the target to which the renderbuffer object is
-   *                     bound for
-   *                     glGetRenderbufferParameteriv.
-   *                     target must be
-   *                     GL_RENDERBUFFER.
+   * bound for glGetRenderbufferParameteriv. target must be GL_RENDERBUFFER.
    *
    * @param [renderbuffer] Specifies the name of the renderbuffer object for
-   *                     glGetNamedRenderbufferParameteriv.
+   * glGetNamedRenderbufferParameteriv.
    *
-   * @param [pname] Specifies the parameter of the renderbuffer object to
-   *                     query.
+   * @param [pname] Specifies the parameter of the renderbuffer object to query.
    *
-   * @param [params] Returns the value of parameter
-   *                     pname for the renderbuffer object.
+   * @param [params] Returns the value of parameter pname for the renderbuffer
+   * object.
    */
   static inline void glGetRenderbufferParameteriv(GLenum target, GLenum pname,
                                                   GLint *params)
@@ -16150,19 +14006,15 @@ extern "C"
    * named parameter of a renderbuffer object
    *
    * @param [target] Specifies the target to which the renderbuffer object is
-   *                     bound for
-   *                     glGetRenderbufferParameteriv.
-   *                     target must be
-   *                     GL_RENDERBUFFER.
+   * bound for glGetRenderbufferParameteriv. target must be GL_RENDERBUFFER.
    *
    * @param [renderbuffer] Specifies the name of the renderbuffer object for
-   *                     glGetNamedRenderbufferParameteriv.
+   * glGetNamedRenderbufferParameteriv.
    *
-   * @param [pname] Specifies the parameter of the renderbuffer object to
-   *                     query.
+   * @param [pname] Specifies the parameter of the renderbuffer object to query.
    *
-   * @param [params] Returns the value of parameter
-   *                     pname for the renderbuffer object.
+   * @param [params] Returns the value of parameter pname for the renderbuffer
+   * object.
    */
   static inline void glGetNamedRenderbufferParameteriv(GLuint renderbuffer,
                                                        GLenum pname,
@@ -16199,17 +14051,16 @@ extern "C"
    * attachments
    *
    * @param [target] Specifies the target to which the framebuffer object is
-   *                     attached for
-   *                     glInvalidateSubFramebuffer.
+   * attached for glInvalidateSubFramebuffer.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glInvalidateNamedFramebufferSubData.
+   * glInvalidateNamedFramebufferSubData.
    *
-   * @param [numAttachments] Specifies the number of entries in the
-   *                     attachments array.
+   * @param [numAttachments] Specifies the number of entries in the attachments
+   * array.
    *
    * @param [attachments] Specifies a pointer to an array identifying the
-   *                     attachments to be invalidated.
+   * attachments to be invalidated.
    *
    * @param [x] Specifies the X offset of the region to be invalidated.
    *
@@ -16234,17 +14085,16 @@ extern "C"
    * attachments
    *
    * @param [target] Specifies the target to which the framebuffer object is
-   *                     attached for
-   *                     glInvalidateSubFramebuffer.
+   * attached for glInvalidateSubFramebuffer.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glInvalidateNamedFramebufferSubData.
+   * glInvalidateNamedFramebufferSubData.
    *
-   * @param [numAttachments] Specifies the number of entries in the
-   *                     attachments array.
+   * @param [numAttachments] Specifies the number of entries in the attachments
+   * array.
    *
    * @param [attachments] Specifies a pointer to an array identifying the
-   *                     attachments to be invalidated.
+   * attachments to be invalidated.
    *
    * @param [x] Specifies the X offset of the region to be invalidated.
    *
@@ -16328,21 +14178,11 @@ extern "C"
    * glMultiDrawElementsIndirect — render indexed primitives from array data,
    * taking parameters from memory
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY, and
-   *                     GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY, and GL_PATCHES are accepted.
    *
    * @param [type] Specifies the type of data in the buffer bound to the
    * GL_ELEMENT_ARRAY_BUFFER binding.
@@ -16390,8 +14230,7 @@ extern "C"
    * @param [count] The number of varying variables used for transform feedback.
    *
    * @param [varyings] An array of count zero-terminated strings specifying the
-   *                     names of the varying variables to use for transform
-   * feedback.
+   * names of the varying variables to use for transform feedback.
    *
    * @param [bufferMode] Identifies the mode used to capture the varying
    * variables when transform feedback is active. bufferMode must be
@@ -16413,7 +14252,7 @@ extern "C"
    * @param [shadertype] Specifies the shader stage from which to query for the
    * subroutine parameter. shadertype must be one of GL_VERTEX_SHADER,
    * GL_TESS_CONTROL_SHADER, GL_TESS_EVALUATION_SHADER, GL_GEOMETRY_SHADER or
-   *                     GL_FRAGMENT_SHADER.
+   * GL_FRAGMENT_SHADER.
    *
    * @param [index] Specifies the index of the shader subroutine uniform.
    *
@@ -16476,11 +14315,9 @@ extern "C"
    * glDrawRangeElementsBaseVertex — render primitives from array data with a
    * per-element offset
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP,
-   *                     GL_LINES, GL_TRIANGLE_STRIP, GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES, GL_LINES_ADJACENCY,
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_TRIANGLE_STRIP, GL_TRIANGLE_FAN, GL_TRIANGLES, GL_LINES_ADJACENCY,
    * GL_LINE_STRIP_ADJACENCY, GL_TRIANGLES_ADJACENCY,
    * GL_TRIANGLE_STRIP_ADJACENCY and GL_PATCHES are accepted.
    *
@@ -16511,21 +14348,11 @@ extern "C"
    * glDrawTransformFeedbackStream — render primitives using a count derived
    * from a specifed stream of a transform feedback object
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY, and
-   *                     GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY, and GL_PATCHES are accepted.
    *
    * @param [id] Specifies the name of a transform feedback object from which to
    * retrieve a primitive count.
@@ -16577,26 +14404,16 @@ extern "C"
    * specifying indices of array data elements and an index to apply to each
    * index
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY and GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY and GL_PATCHES are accepted.
    *
    * @param [count] Points to an array of the elements counts.
    *
    * @param [type] Specifies the type of the values in indices. Must be one of
-   *                     GL_UNSIGNED_BYTE, GL_UNSIGNED_SHORT, or
-   *                     GL_UNSIGNED_INT.
+   * GL_UNSIGNED_BYTE, GL_UNSIGNED_SHORT, or GL_UNSIGNED_INT.
    *
    * @param [indices] Specifies a pointer to the location where the indices are
    * stored.
@@ -16621,11 +14438,10 @@ extern "C"
    *
    * @param [xfb] Name of the transform feedback buffer object.
    *
-   * @param [index] Index of the binding point within
-   *                         xfb.
+   * @param [index] Index of the binding point within xfb.
    *
-   * @param [buffer] Name of the buffer object to bind to the specified
-   *                         binding point.
+   * @param [buffer] Name of the buffer object to bind to the specified binding
+   * point.
    */
   static inline void glTransformFeedbackBufferBase(GLuint xfb, GLuint index,
                                                    GLuint buffer)
@@ -16637,53 +14453,40 @@ extern "C"
    texture image from a compressed texture object
    *
    * @param [texture] Specifies the name of the source texture object. Must be
-   *           GL_TEXTURE_1D,
-   *           GL_TEXTURE_1D_ARRAY,
-   *           GL_TEXTURE_2D,
-   *           GL_TEXTURE_2D_ARRAY,
-   *           GL_TEXTURE_3D,
-   *           GL_TEXTURE_CUBE_MAP,
-   *           GL_TEXTURE_CUBE_MAP_ARRAY or
-   *           GL_TEXTURE_RECTANGLE. In specific, buffer and
-   *           multisample textures are not permitted.
+   GL_TEXTURE_1D, GL_TEXTURE_1D_ARRAY, GL_TEXTURE_2D, GL_TEXTURE_2D_ARRAY,
+   GL_TEXTURE_3D, GL_TEXTURE_CUBE_MAP, GL_TEXTURE_CUBE_MAP_ARRAY or
+   GL_TEXTURE_RECTANGLE. In specific, buffer and multisample textures are not
+   permitted.
    *
    * @param [level] Specifies the level-of-detail number. Level 0 is the base
-   *           image level. Level $n$ is the $n$th
-   *           mipmap reduction image.
+   image level. Level $n$ is the $n$th mipmap reduction image.
    *
    * @param [xoffset] Specifies a texel offset in the x direction within the
-   texture
-   *           array.
+   texture array.
    *
    * @param [yoffset] Specifies a texel offset in the y direction within the
-   texture
-   *           array.
+   texture array.
    *
    * @param [zoffset] Specifies a texel offset in the z direction within the
-   texture
-   *           array.
+   texture array.
    *
    * @param [width] Specifies the width of the texture subimage. Must be a
-   *           multiple of the compressed block's width, unless the
-   *           offset is zero and the size equals the texture
-   *           image size.
+   multiple of the compressed block's width, unless the offset is zero and the
+   size equals the texture image size.
    *
    * @param [height] Specifies the height of the texture subimage. Must be a
-   *           multiple of the compressed block's height, unless the
-   *           offset is zero and the size equals the texture
-   *           image size.
+   multiple of the compressed block's height, unless the offset is zero and the
+   size equals the texture image size.
    *
    * @param [depth] Specifies the depth of the texture subimage. Must be a
-   *           multiple of the compressed block's depth, unless the
-   *           offset is zero and the size equals the texture
-   *           image size.
+   multiple of the compressed block's depth, unless the offset is zero and the
+   size equals the texture image size.
    *
    * @param [bufSize] Specifies the size of the buffer to receive the retrieved
-   *           pixel data.
+   pixel data.
    *
    * @param [pixels] Returns the texture subimage. Should be a pointer to an
-   array
-   *           of the type specified by type.
+   array of the type specified by type.
    */
   static inline void
   glGetCompressedTextureSubImage(GLuint texture, GLint level, GLint xoffset,
@@ -16704,7 +14507,7 @@ extern "C"
    * @param [shadertype] Specifies the shader stage from which to query for
    * subroutine uniform index. shadertype must be one of GL_VERTEX_SHADER,
    * GL_TESS_CONTROL_SHADER, GL_TESS_EVALUATION_SHADER, GL_GEOMETRY_SHADER or
-   *                     GL_FRAGMENT_SHADER.
+   * GL_FRAGMENT_SHADER.
    *
    * @param [name] Specifies the name of the subroutine uniform whose index to
    * query.
@@ -16721,18 +14524,16 @@ extern "C"
    *
    * @param [xfb] Name of the transform feedback buffer object.
    *
-   * @param [index] Index of the binding point within
-   *                         xfb.
+   * @param [index] Index of the binding point within xfb.
    *
-   * @param [buffer] Name of the buffer object to bind to the specified
-   *                         binding point.
+   * @param [buffer] Name of the buffer object to bind to the specified binding
+   * point.
    *
-   * @param [offset] The starting offset in basic machine units into the
-   *                         buffer object.
+   * @param [offset] The starting offset in basic machine units into the buffer
+   * object.
    *
-   * @param [size] The amount of data in basic machine units that can
-   *                         be read from or written to the buffer object while
-   *                         used as an indexed target.
+   * @param [size] The amount of data in basic machine units that can be read
+   * from or written to the buffer object while used as an indexed target.
    */
   static inline void glTransformFeedbackBufferRange(GLuint xfb, GLuint index,
                                                     GLuint buffer,
@@ -16745,21 +14546,11 @@ extern "C"
    * glDrawTransformFeedbackInstanced — render multiple instances of primitives
    * using a count derived from a transform feedback object
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY, and
-   *                     GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY, and GL_PATCHES are accepted.
    *
    * @param [id] Specifies the name of a transform feedback object from which to
    * retrieve a primitive count.
@@ -16804,7 +14595,7 @@ extern "C"
    * @param [shadertype] Specifies the shader stage from which to query for the
    * subroutine parameter. shadertype must be one of GL_VERTEX_SHADER,
    * GL_TESS_CONTROL_SHADER, GL_TESS_EVALUATION_SHADER, GL_GEOMETRY_SHADER or
-   *                     GL_FRAGMENT_SHADER.
+   * GL_FRAGMENT_SHADER.
    *
    * @param [index] Specifies the index of the shader subroutine uniform.
    *
@@ -16831,19 +14622,16 @@ extern "C"
    object's image
    *
    * @param [target] Specifies a binding target of the allocation for
-   *           glRenderbufferStorageMultisample function. Must
-   *           be GL_RENDERBUFFER.
+   glRenderbufferStorageMultisample function. Must be GL_RENDERBUFFER.
    *
    * @param [renderbuffer] Specifies the name of the renderbuffer object for
-   *           glNamedRenderbufferStorageMultisample
-   *           function.
+   glNamedRenderbufferStorageMultisample function.
    *
    * @param [samples] Specifies the number of samples to be used for the
-   *           renderbuffer object's storage.
+   renderbuffer object's storage.
    *
    * @param [internalformat] Specifies the internal format to use for the
-   renderbuffer
-   *           object's image.
+   renderbuffer object's image.
    *
    * @param [width] Specifies the width of the renderbuffer, in pixels.
    *
@@ -16864,19 +14652,16 @@ extern "C"
    object's image
    *
    * @param [target] Specifies a binding target of the allocation for
-   *           glRenderbufferStorageMultisample function. Must
-   *           be GL_RENDERBUFFER.
+   glRenderbufferStorageMultisample function. Must be GL_RENDERBUFFER.
    *
    * @param [renderbuffer] Specifies the name of the renderbuffer object for
-   *           glNamedRenderbufferStorageMultisample
-   *           function.
+   glNamedRenderbufferStorageMultisample function.
    *
    * @param [samples] Specifies the number of samples to be used for the
-   *           renderbuffer object's storage.
+   renderbuffer object's storage.
    *
    * @param [internalformat] Specifies the internal format to use for the
-   renderbuffer
-   *           object's image.
+   renderbuffer object's image.
    *
    * @param [width] Specifies the width of the renderbuffer, in pixels.
    *
@@ -16896,10 +14681,9 @@ extern "C"
    *
    * @param [mode] Specifies what kind of primitives to render. Symbolic
    * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
-   *                     GL_TRIANGLE_STRIP, GL_TRIANGLE_FAN, GL_TRIANGLES
-   * GL_LINES_ADJACENCY, GL_LINE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY, GL_TRIANGLE_STRIP_ADJACENCY and
-   * GL_PATCHES are accepted.
+   * GL_TRIANGLE_STRIP, GL_TRIANGLE_FAN, GL_TRIANGLES GL_LINES_ADJACENCY,
+   * GL_LINE_STRIP_ADJACENCY, GL_TRIANGLES_ADJACENCY,
+   * GL_TRIANGLE_STRIP_ADJACENCY and GL_PATCHES are accepted.
    *
    * @param [first] Specifies the starting index in the enabled arrays.
    *
@@ -16923,11 +14707,9 @@ extern "C"
    * glDrawElementsInstancedBaseVertex — render multiple instances of a set of
    * primitives from array data with a per-element offset
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP,
-   *                     GL_LINES, GL_TRIANGLE_STRIP, GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES, GL_LINES_ADJACENCY,
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_TRIANGLE_STRIP, GL_TRIANGLE_FAN, GL_TRIANGLES, GL_LINES_ADJACENCY,
    * GL_LINE_STRIP_ADJACENCY, GL_TRIANGLES_ADJACENCY,
    * GL_TRIANGLE_STRIP_ADJACENCY and GL_PATCHES are accepted.
    *
@@ -16975,20 +14757,11 @@ extern "C"
    * glDrawElementsInstancedBaseInstance — draw multiple instances of a set of
    * elements with offset applied to instanced attributes
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY and GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY and GL_PATCHES are accepted.
    *
    * @param [count] Specifies the number of elements to be rendered.
    *
@@ -17018,21 +14791,17 @@ extern "C"
    * attachments of a framebuffer object
    *
    * @param [target] Specifies the target to which the framebuffer object is
-   *                     bound for
-   *                     glGetFramebufferAttachmentParameteriv.
+   * bound for glGetFramebufferAttachmentParameteriv.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glGetNamedFramebufferAttachmentParameteriv.
+   * glGetNamedFramebufferAttachmentParameteriv.
    *
    * @param [attachment] Specifies the attachment of the framebuffer object to
-   *                     query.
+   * query.
    *
-   * @param [pname] Specifies the parameter of
-   *                     attachment to query.
+   * @param [pname] Specifies the parameter of attachment to query.
    *
-   * @param [params] Returns the value of parameter
-   *                     pname for
-   *                     attachment.
+   * @param [params] Returns the value of parameter pname for attachment.
    */
   static inline void glGetFramebufferAttachmentParameteriv(GLenum target,
                                                            GLenum attachment,
@@ -17048,21 +14817,17 @@ extern "C"
    * attachments of a framebuffer object
    *
    * @param [target] Specifies the target to which the framebuffer object is
-   *                     bound for
-   *                     glGetFramebufferAttachmentParameteriv.
+   * bound for glGetFramebufferAttachmentParameteriv.
    *
    * @param [framebuffer] Specifies the name of the framebuffer object for
-   *                     glGetNamedFramebufferAttachmentParameteriv.
+   * glGetNamedFramebufferAttachmentParameteriv.
    *
    * @param [attachment] Specifies the attachment of the framebuffer object to
-   *                     query.
+   * query.
    *
-   * @param [pname] Specifies the parameter of
-   *                     attachment to query.
+   * @param [pname] Specifies the parameter of attachment to query.
    *
-   * @param [params] Returns the value of parameter
-   *                     pname for
-   *                     attachment.
+   * @param [params] Returns the value of parameter pname for attachment.
    */
   static inline void glGetNamedFramebufferAttachmentParameteriv(
       GLuint framebuffer, GLenum attachment, GLenum pname, GLint *params)
@@ -17075,21 +14840,11 @@ extern "C"
    * primitives using a count derived from a specifed stream of a transform
    * feedback object
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS,
-   *                     GL_LINE_STRIP,
-   *                     GL_LINE_LOOP,
-   *                     GL_LINES,
-   *                     GL_LINE_STRIP_ADJACENCY,
-   *                     GL_LINES_ADJACENCY,
-   *                     GL_TRIANGLE_STRIP,
-   *                     GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES,
-   *                     GL_TRIANGLE_STRIP_ADJACENCY,
-   *                     GL_TRIANGLES_ADJACENCY, and
-   *                     GL_PATCHES
-   *                     are accepted.
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_LINE_STRIP_ADJACENCY, GL_LINES_ADJACENCY, GL_TRIANGLE_STRIP,
+   * GL_TRIANGLE_FAN, GL_TRIANGLES, GL_TRIANGLE_STRIP_ADJACENCY,
+   * GL_TRIANGLES_ADJACENCY, and GL_PATCHES are accepted.
    *
    * @param [id] Specifies the name of a transform feedback object from which to
    * retrieve a primitive count.
@@ -17111,11 +14866,9 @@ extern "C"
    * glDrawElementsInstancedBaseVertexBaseInstance — render multiple instances
    * of a set of primitives from array data with a per-element offset
    *
-   * @param [mode] Specifies what kind of primitives to render.
-   *                     Symbolic constants
-   *                     GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP,
-   *                     GL_LINES, GL_TRIANGLE_STRIP, GL_TRIANGLE_FAN,
-   *                     GL_TRIANGLES, GL_LINES_ADJACENCY,
+   * @param [mode] Specifies what kind of primitives to render. Symbolic
+   * constants GL_POINTS, GL_LINE_STRIP, GL_LINE_LOOP, GL_LINES,
+   * GL_TRIANGLE_STRIP, GL_TRIANGLE_FAN, GL_TRIANGLES, GL_LINES_ADJACENCY,
    * GL_LINE_STRIP_ADJACENCY, GL_TRIANGLES_ADJACENCY,
    * GL_TRIANGLE_STRIP_ADJACENCY and GL_PATCHES are accepted.
    *
