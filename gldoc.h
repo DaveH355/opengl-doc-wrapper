@@ -79,12 +79,16 @@ extern "C"
 #undef glFenceSync
 #undef glFrontFace
 #undef glGetShaderiv
+#undef glGetString
+#undef glGetStringi
 #undef glIsEnabled
 #undef glIsEnabledi
 #undef glIsProgram
 #undef glIsSampler
 #undef glIsTexture
 #undef glLineWidth
+#undef glMapBuffer
+#undef glMapNamedBuffer
 #undef glPointSize
 #undef glStencilOp
 #undef glTexBuffer
@@ -299,6 +303,8 @@ extern "C"
 #undef glGetQueryObjecti64v
 #undef glGetQueryObjectui64v
 #undef glIsRenderbuffer
+#undef glMapBufferRange
+#undef glMapNamedBufferRange
 #undef glObjectPtrLabel
 #undef glPatchParameteri
 #undef glPatchParameterfv
@@ -613,40 +619,6 @@ extern "C"
 #undef glGetNamedFramebufferAttachmentParameteriv
 #undef glDrawTransformFeedbackStreamInstanced
 #undef glDrawElementsInstancedBaseVertexBaseInstance
-
-#undef glGetString
-#undef glGetStringi
-#undef glTexImage2DMultisample
-
-  /**
-   * glGetString — return a string describing the current GL connection
-   *
-   * @param [name] Specifies a symbolic constant, one of GL_VENDOR, GL_RENDERER,
-   * GL_VERSION, or GL_SHADING_LANGUAGE_VERSION. Additionally, glGetStringi
-   * accepts the GL_EXTENSIONS token.
-   *
-   * @param [index] For glGetStringi, specifies the index of the string to
-   * return.
-   */
-  static inline const GLubyte *glGetString(GLenum name)
-  {
-    return glad_glGetString(name);
-  }
-
-  /**
-   * glGetString — return a string describing the current GL connection
-   *
-   * @param [name] Specifies a symbolic constant, one of GL_VENDOR, GL_RENDERER,
-   * GL_VERSION, or GL_SHADING_LANGUAGE_VERSION. Additionally, glGetStringi
-   * accepts the GL_EXTENSIONS token.
-   *
-   * @param [index] For glGetStringi, specifies the index of the string to
-   * return.
-   */
-  static inline const GLubyte *glGetStringi(GLenum name, GLuint index)
-  {
-    return glad_glGetStringi(name, index);
-  }
   /**
    * glGet — return the value or values of a selected parameter
    *
@@ -1999,6 +1971,34 @@ extern "C"
     glad_glGetShaderiv(shader, pname, params);
   }
   /**
+   * glGetString — return a string describing the current GL connection
+   *
+   * @param [name] Specifies a symbolic constant, one of GL_VENDOR, GL_RENDERER,
+   * GL_VERSION, or GL_SHADING_LANGUAGE_VERSION. Additionally, glGetStringi
+   * accepts the GL_EXTENSIONS token.
+   *
+   * @param [index] For glGetStringi, specifies the index of the string to
+   * return.
+   */
+  static inline const GLubyte *glGetString(GLenum name)
+  {
+    return glad_glGetString(name);
+  }
+  /**
+   * glGetString — return a string describing the current GL connection
+   *
+   * @param [name] Specifies a symbolic constant, one of GL_VENDOR, GL_RENDERER,
+   * GL_VERSION, or GL_SHADING_LANGUAGE_VERSION. Additionally, glGetStringi
+   * accepts the GL_EXTENSIONS token.
+   *
+   * @param [index] For glGetStringi, specifies the index of the string to
+   * return.
+   */
+  static inline const GLubyte *glGetStringi(GLenum name, GLuint index)
+  {
+    return glad_glGetStringi(name, index);
+  }
+  /**
    * glIsEnabled, glIsEnabledi — test whether a capability is enabled
    *
    * @param [cap] Specifies a symbolic constant indicating a GL capability.
@@ -2054,6 +2054,78 @@ extern "C"
    * is 1.
    */
   static inline void glLineWidth(GLfloat width) { glad_glLineWidth(width); }
+  /**
+   * glMapBuffer, glMapNamedBuffer — map all of a buffer object's data store
+   * into the client's address space
+   *
+   * @param [target] Specifies the target to which the buffer object is bound
+   * for glMapBuffer, which must be one of the buffer binding targets in the
+   * following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
+   *
+   * @param [buffer] Specifies the name of the buffer object for
+   * glMapNamedBuffer.
+   *
+   * @param [access] Specifies the access policy for glMapBuffer and
+   * glMapNamedBuffer, indicating whether it will be possible to read from,
+   * write to, or both read from and write to the buffer object's mapped data
+   * store. The symbolic constant must be GL_READ_ONLY, GL_WRITE_ONLY, or
+   * GL_READ_WRITE.
+   */
+  static inline void *glMapBuffer(GLenum target, GLenum access)
+  {
+    return glad_glMapBuffer(target, access);
+  }
+  /**
+   * glMapBuffer, glMapNamedBuffer — map all of a buffer object's data store
+   * into the client's address space
+   *
+   * @param [target] Specifies the target to which the buffer object is bound
+   * for glMapBuffer, which must be one of the buffer binding targets in the
+   * following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
+   *
+   * @param [buffer] Specifies the name of the buffer object for
+   * glMapNamedBuffer.
+   *
+   * @param [access] Specifies the access policy for glMapBuffer and
+   * glMapNamedBuffer, indicating whether it will be possible to read from,
+   * write to, or both read from and write to the buffer object's mapped data
+   * store. The symbolic constant must be GL_READ_ONLY, GL_WRITE_ONLY, or
+   * GL_READ_WRITE.
+   */
+  static inline void *glMapNamedBuffer(GLuint buffer, GLenum access)
+  {
+    return glad_glMapNamedBuffer(buffer, access);
+  }
   /**
    * glPointSize — specify the diameter of rasterized points
    *
@@ -3393,8 +3465,8 @@ extern "C"
    * GL_NOTEQUAL, and GL_ALWAYS. The initial value is GL_ALWAYS.
    *
    * @param [ref] Specifies the reference value for the stencil test. ref is
-   * clamped to the range [0, 2^n - 1] , where n is the number of bitplanes in
-   * the stencil buffer. The initial value is 0.
+   * clamped to the range [0, 2^n - 1], where n is the number of bitplanes in the
+   * stencil buffer. The initial value is 0.
    *
    * @param [mask] Specifies a mask that is ANDed with both the reference value
    * and the stored stencil value when the test is done. The initial value is
@@ -7273,6 +7345,84 @@ extern "C"
   static inline GLboolean glIsRenderbuffer(GLuint renderbuffer)
   {
     return glad_glIsRenderbuffer(renderbuffer);
+  }
+  /**
+   * glMapBufferRange, glMapNamedBufferRange — map all or part of a buffer
+   * object's data store into the client's address space
+   *
+   * @param [target] Specifies the target to which the buffer object is bound
+   * for glMapBufferRange, which must be one of the buffer binding targets in
+   * the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
+   *
+   * @param [buffer] Specifies the name of the buffer object for
+   * glMapNamedBufferRange.
+   *
+   * @param [offset] Specifies the starting offset within the buffer of the
+   * range to be mapped.
+   *
+   * @param [length] Specifies the length of the range to be mapped.
+   *
+   * @param [access] Specifies a combination of access flags indicating the
+   * desired access to the mapped range.
+   */
+  static inline void *glMapBufferRange(GLenum target, GLintptr offset,
+                                       GLsizeiptr length, GLbitfield access)
+  {
+    return glad_glMapBufferRange(target, offset, length, access);
+  }
+  /**
+   * glMapBufferRange, glMapNamedBufferRange — map all or part of a buffer
+   * object's data store into the client's address space
+   *
+   * @param [target] Specifies the target to which the buffer object is bound
+   * for glMapBufferRange, which must be one of the buffer binding targets in
+   * the following table:
+   *
+   * GL_ARRAY_BUFFER - Vertex attributes,
+   * GL_ATOMIC_COUNTER_BUFFER - Atomic counter storage,
+   * GL_COPY_READ_BUFFER - Buffer copy source,
+   * GL_COPY_WRITE_BUFFER - Buffer copy destination,
+   * GL_DISPATCH_INDIRECT_BUFFER - Indirect compute dispatch commands,
+   * GL_DRAW_INDIRECT_BUFFER - Indirect command arguments,
+   * GL_ELEMENT_ARRAY_BUFFER - Vertex array indices,
+   * GL_PIXEL_PACK_BUFFER - Pixel read target,
+   * GL_PIXEL_UNPACK_BUFFER - Texture data source,
+   * GL_QUERY_BUFFER - Query result buffer,
+   * GL_SHADER_STORAGE_BUFFER - Read-write storage for shaders,
+   * GL_TEXTURE_BUFFER - Texture data buffer,
+   * GL_TRANSFORM_FEEDBACK_BUFFER - Transform feedback buffer,
+   * GL_UNIFORM_BUFFER - Uniform block storage,
+   *
+   * @param [buffer] Specifies the name of the buffer object for
+   * glMapNamedBufferRange.
+   *
+   * @param [offset] Specifies the starting offset within the buffer of the
+   * range to be mapped.
+   *
+   * @param [length] Specifies the length of the range to be mapped.
+   *
+   * @param [access] Specifies a combination of access flags indicating the
+   * desired access to the mapped range.
+   */
+  static inline void *glMapNamedBufferRange(GLuint buffer, GLintptr offset,
+                                            GLsizei length, GLbitfield access)
+  {
+    return glad_glMapNamedBufferRange(buffer, offset, length, access);
   }
   /**
    * glObjectPtrLabel — label a a sync object identified by a pointer
@@ -11226,7 +11376,7 @@ extern "C"
    * glGetProgramResource — retrieve values for multiple properties of a single
    * active resource within a program object
    *
-   * @param [program] The name of a program object whose resources to query.
+   * @param [program] The name of a program object whose resources to query
    *
    * @param [programInterface] A token identifying the interface within program
    * containing the resource named name.
@@ -11847,8 +11997,8 @@ extern "C"
    * GL_NOTEQUAL, and GL_ALWAYS. The initial value is GL_ALWAYS.
    *
    * @param [ref] Specifies the reference value for the stencil test. ref is
-   * clamped to the range [0, 2^n - 1] , where n is the number of bitplanes in
-   * the stencil buffer. The initial value is 0.
+   * clamped to the range [0, 2^n - 1], where n is the number of bitplanes in the
+   * stencil buffer. The initial value is 0.
    *
    * @param [mask] Specifies a mask that is ANDed with both the reference value
    * and the stored stencil value when the test is done. The initial value is
