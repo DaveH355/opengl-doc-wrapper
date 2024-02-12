@@ -1,5 +1,5 @@
-#ifndef GL_DOC_H
-#define GL_DOC_H
+#ifndef GL_DOC_HPP
+#define GL_DOC_HPP
 
 #if __has_include(<glad/gl.h>)
 #include <glad/gl.h>
@@ -17738,4 +17738,4 @@ extern "C"
 }
 #endif
 
-#endif // GL_DOC_H
+#endif // GL_DOC_HPP
