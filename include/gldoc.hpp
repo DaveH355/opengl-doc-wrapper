@@ -9,11 +9,6 @@
 #include <glad/glad.h>
 #endif
 
-#ifdef __cplusplus
-extern "C"
-{
-#endif
-
 #undef GL_ACTIVE_ATOMIC_COUNTER_BUFFERS
 #undef GL_ACTIVE_ATTRIBUTES
 #undef GL_ACTIVE_ATTRIBUTE_MAX_LENGTH
@@ -17733,9 +17728,5 @@ extern "C"
   {
     glad_glWaitSync(sync, flags, timeout);
   }
-
-#ifdef __cplusplus
-}
-#endif
 
 #endif // GL_DOC_HPP
