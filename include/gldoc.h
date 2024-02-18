@@ -1,7 +1,6 @@
 #ifndef GL_DOC_H
 #define GL_DOC_H
 
-
 #if __has_include(<glad/gl.h>)
 #include <glad/gl.h>
 #endif
