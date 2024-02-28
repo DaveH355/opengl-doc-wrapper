@@ -1,4 +1,4 @@
-# OpenGL-header-doc
+# opengl-doc-wrapper
 A single file header that wraps glad with OpenGL docs. It's based on OpenGL 4.5 from [docs.gl](https://docs.gl/).
 *Most* functions are covered but some might be missing. Extensions are not included. 
 
